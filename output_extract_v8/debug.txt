@@ -1,0 +1,4932 @@
+=== Page 16 === [1.A Anatomy]
+
+=== Page 17 === [Muscloskeletal Systems - Biomechanics]
+Q2: ''
+Q3: ''
+Q4: ''
+Q1: ''
+   img[1] KEPT page_017_img_1.png
+
+=== Page 18 === [Muscloskeletal Systems - Biomechanics]
+Q5: ''
+Q6: ''
+Q7: ''
+
+=== Page 19 === [Muscloskeletal Systems - Biomechanics]
+Q9: ''
+Q8: ''
+Q10: ''
+Q11: ''
+
+=== Page 20 === [Muscloskeletal Systems - Biomechanics]
+Q14: ''
+Q13: ''
+Q12: ''
+
+=== Page 21 === [Muscloskeletal Systems - Biomechanics]
+Q15: ''
+Q16: ''
+Q17: ''
+   img[0] KEPT page_021_img_0.png
+
+=== Page 22 === [Muscloskeletal Systems - Biomechanics]
+Q18: ''
+Q9: ''
+Q9: ''
+Q19: ''
+Q21: ''
+Q20: ''
+   img[0] KEPT page_022_img_0.png
+
+=== Page 23 === [Muscloskeletal Systems - Biomechanics]
+Q24: ''
+Q23: ''
+Q22: ''
+Q25: ''
+   img[0] KEPT page_023_img_0.png
+
+=== Page 24 === [Muscloskeletal Systems - Biomechanics]
+Q27: ''
+Q26: ''
+Q28: ''
+   img[0] KEPT page_024_img_0.png
+
+=== Page 25 === [Muscloskeletal Systems - Biomechanics]
+Q30: ''
+Q29: ''
+Q32: ''
+Q31: ''
+
+=== Page 26 === [Muscloskeletal Systems - Biomechanics]
+Q33: ''
+Q34: ''
+Q35: ''
+
+=== Page 27 === [Muscloskeletal Systems - Biomechanics]
+Q36: ''
+Q38: ''
+Q37: ''
+
+=== Page 28 === [Muscloskeletal Systems - Biomechanics]
+Q41: ''
+Q40: ''
+Q39: ''
+Q42: ''
+
+=== Page 29 === [Muscloskeletal Systems - Biomechanics]
+Q44: ''
+Q45: ''
+Q43: ''
+
+=== Page 30 === [Muscloskeletal Systems - Biomechanics]
+Q48: ''
+Q47: ''
+Q46: ''
+
+=== Page 31 === [Muscloskeletal Systems - Biomechanics]
+Q52: ''
+Q51: ''
+Q50: ''
+Q49: ''
+   img[4] KEPT page_031_img_4.jpeg
+
+=== Page 32 === [Muscloskeletal Systems - Biomechanics]
+Q53: ''
+Q54: ''
+   img[1] KEPT page_032_img_1.png
+   img[2] KEPT page_032_img_2.png
+
+=== Page 33 === [Muscloskeletal Systems - Biomechanics]
+Q55: ''
+Q57: ''
+Q56: ''
+   img[1] KEPT page_033_img_1.png
+
+=== Page 34 === [Muscloskeletal Systems - Biomechanics]
+Q60: ''
+Q59: ''
+Q58: ''
+
+=== Page 35 === [Muscloskeletal Systems - Biomechanics]
+Q61: ''
+Q63: ''
+Q62: ''
+
+=== Page 36 === [Muscloskeletal Systems - Biomechanics]
+Q67: ''
+Q66: ''
+Q65: ''
+Q64: ''
+   img[1] KEPT page_036_img_1.png
+
+=== Page 37 === [Muscloskeletal Systems - Biomechanics]
+Q69: ''
+Q68: ''
+Q70: ''
+Q71: ''
+
+=== Page 38 === [Muscloskeletal Systems - Biomechanics]
+Q73: ''
+Q72: ''
+Q75: ''
+Q74: ''
+
+=== Page 39 === [Muscloskeletal Systems - Biomechanics]
+Q78: ''
+Q77: ''
+Q76: ''
+Q79: ''
+
+=== Page 40 === [Muscloskeletal Systems - Biomechanics]
+Q81: ''
+Q80: ''
+Q83: ''
+Q82: ''
+   img[0] KEPT page_040_img_0.png
+
+=== Page 41 === [Muscloskeletal Systems - Biomechanics]
+Q87: ''
+Q86: ''
+Q85: ''
+Q84: ''
+
+=== Page 42 === [Muscloskeletal Systems - Biomechanics]
+Q90: ''
+Q89: ''
+Q88: ''
+Q91: ''
+
+=== Page 43 === [Muscloskeletal Systems - Biomechanics]
+Q92: ''
+Q95: ''
+Q94: ''
+Q93: ''
+
+=== Page 44 === [Muscloskeletal Systems - Biomechanics]
+Q98: ''
+Q97: ''
+Q96: ''
+
+=== Page 45 === [Muscloskeletal Systems - Biomechanics]
+Q100: ''
+Q99: ''
+Q101: ''
+Q102: ''
+
+=== Page 46 === [Muscloskeletal Systems - Biomechanics]
+Q103: ''
+Q104: ''
+Q105: ''
+Q106: ''
+
+=== Page 47 === [Muscloskeletal Systems - Biomechanics]
+Q107: ''
+Q108: ''
+Q109: ''
+Q110: ''
+
+=== Page 48 === [Muscloskeletal Systems - Biomechanics]
+Q111: ''
+Q112: ''
+Q113: ''
+Q114: ''
+
+=== Page 49 === [Muscloskeletal Systems - Biomechanics]
+Q115: ''
+Q116: ''
+
+=== Page 50 === [SKIPPED]
+=== Page 51 === [1.4 Biomechanics]
+
+=== Page 52 === [1.4 Biomechanics]
+Q1: ''
+Q2: ''
+Q3: ''
+Q4: 'A 36-year-old woman comes to the Physical Therapy Clinic with right heel pain fo'
+   - Distance between 2 consecutive foot flat.
+   - Distance between 2 consecutive heel strikes.
+   - Distance between 2 consecutive foot flat by the same leg.
+   - Distance between 2 consecutive heel strikes by the same leg.
+
+=== Page 53 === [Muscloskeletal Systems - Biomechanics]
+Q5: ''
+Q6: ''
+Q7: ''
+
+=== Page 54 === [Muscloskeletal Systems - Biomechanics]
+Q9: ''
+Q8: ''
+   ANS: 4
+   img[0] KEPT page_054_img_0.png
+
+=== Page 55 === [Muscloskeletal Systems - Biomechanics]
+Q12: ''
+Q11: ''
+Q10: ''
+
+=== Page 56 === [Muscloskeletal Systems - Biomechanics]
+Q14: ''
+Q13: 'While gait training a patient following a cerebral vascular accident, you observ'
+   - Severe spasticity of the hamstrings or weakness of the gastrocnemius- soleus.
+   - weakness or severe spasticity of the quadriceps.
+   - Weakness of the gastrocnemius-soleus or spasticity of the pretibial muscles.
+   - Weakness of both the gastrocnemius-soleus and pretibial muscles.
+   ANS: 3
+
+=== Page 57 === [Muscloskeletal Systems - Biomechanics]
+Q15: ''
+Q16: 'C.O.G during locomotion observation can change the gait due to:'
+   - c.o.g go upward and oblique to stance phase.
+   - downward during double limb support.
+   - side to side oscillation.
+   - move forward and backward.
+   ANS: 4
+   img[0] KEPT page_057_img_0.jpeg
+   img[1] KEPT page_057_img_1.png
+
+=== Page 58 === [Muscloskeletal Systems - Biomechanics]
+Q18: ''
+Q17: 'During evaluation of a patient, the therapist observes significant posterior tru'
+   - Gluteus medius
+   - Gluteus Maximus
+   - Quadriceps
+   - Hamstrings
+   ANS: 4
+   img[0] KEPT page_058_img_0.jpeg
+
+=== Page 59 === [Muscloskeletal Systems - Biomechanics]
+Q9: ''
+Q9: ''
+Q19: ''
+Q21: ''
+Q20: ''
+   img[0] KEPT page_059_img_0.jpeg
+   img[1] KEPT page_059_img_1.jpeg
+
+=== Page 60 === [Muscloskeletal Systems - Biomechanics]
+Q24: ''
+Q23: ''
+Q22: 'which statement correct during training with cane up and down stairs'
+   - unaffected leg put first during upstairs.
+   - unaffected leg put down during up stairs.
+   - affected leg put first in down stairs.
+   ANS: 2
+   img[0] KEPT page_060_img_0.jpeg
+
+=== Page 61 === [Muscloskeletal Systems - Biomechanics]
+Q25: 'Which of the following is the most appropriate position of the ankle during the '
+   - Neutral position
+   - 5-degree dorsiflexion
+   - 5-degree plantarflexion 4-10-degree plantarflexion
+Q27: ''
+Q26: ''
+   img[0] KEPT page_061_img_0.png
+   img[1] KEPT page_061_img_1.jpeg
+
+=== Page 62 === [Muscloskeletal Systems - Biomechanics]
+Q28: ''
+Q30: ''
+Q29: 'Which of the following types of gait training are most likely described as both '
+   - 2-point
+   - 4-point
+   - Swing to
+   - Swing through
+   ANS: 2
+
+=== Page 63 === [Muscloskeletal Systems - Biomechanics]
+Q33: ''
+Q32: ''
+Q31: 'When comparing the gait cycle of young adults to the gait cycle of older adults,'
+   - The younger population has a shorter step length.
+   - The younger population has a shorter stride length. 3-The younger population has
+   - The younger population has a decrease in speed of ambulation.
+   ANS: 3
+
+=== Page 64 === [Muscloskeletal Systems - Biomechanics]
+Q34: ''
+Q35: 'A physical therapist begins gait training for a patient with bilateral knee flex'
+   - The patient’s line of gravity is anterior to the hip.
+   - The patient’s line of gravity is anterior to the knee.
+   - The patient’s line of gravity is anterior to the ankle.
+   - A and C.
+   ANS: 1
+   img[0] KEPT page_064_img_0.jpeg
+
+=== Page 65 === [Muscloskeletal Systems - Biomechanics]
+Q36: ''
+Q38: ''
+Q37: 'patient during walking raise his hip to clear toes from ground due to:'
+   - paralysis of dorsiflexors
+   - paralysis of planter flexors
+   - paralysis of quadriceps
+   ANS: 4
+
+=== Page 66 === [passive range of movements is an involuntary movement that is inherent to the musculoskeletal]
+Q41: ''
+Q40: ''
+Q39: 'As a result of a gait analysis, a therapist has determined that the patient ambu'
+   - compensated forefoot varus
+   - internal tibial rotation
+   - a weak tibialis posterior
+   - excessive ankle dorsiflexion
+   ANS: 3
+Q42: ''
+
+=== Page 67 === [Muscloskeletal Systems - Biomechanics]
+Q44: ''
+Q45: ''
+Q43: ''
+   ANS: 2
+
+=== Page 68 === [Muscloskeletal Systems - Biomechanics]
+Q48: ''
+Q47: ''
+Q46: 'Knee joint ROM:'
+   - flexion 110 – extension 0
+   - flexion 130 – extension 0
+   - flexion 140 – extension 0
+   ANS: 1
+
+=== Page 69 === [Muscloskeletal Systems - Biomechanics]
+Q52: ''
+Q51: ''
+Q50: ''
+Q49: 'Osteomyelitis abscess spread:'
+   - Acute stage
+   - Sub-acute stage
+   - Chronic stage
+   ANS: 2
+
+=== Page 70 === [Muscloskeletal Systems - Biomechanics]
+Q53: ''
+Q55: ''
+Q54: 'The joint between adjacent vertebrae that includes an in vertebral disc is class'
+   - multiaxial
+   - synarthrosis
+   - amphiarthrosis
+   - diarthrosis
+   ANS: 1
+
+=== Page 71 === [Muscloskeletal Systems - Biomechanics]
+Q58: ''
+Q57: ''
+Q56: 'Which of the following is not an example of a synarthrodial joint in the body?'
+   - Coronal suture
+   - The fibrous joint between the shaft of the tibia and fibula.
+   - Symphysis pubis
+   - Metacarpophalangeal
+   ANS: 4
+
+=== Page 72 === [)VIP(]
+Q61: ''
+Q60: ''
+Q59: 'Osteomyelitis is:'
+   - infective inflammation of the bone due infective bacteria entered into bone.
+   - Decreased bone density and increased porosity.
+   - due to repetitive trauma.
+   - Vitamin D deficiency.
+   ANS: 1
+
+=== Page 73 === [Muscloskeletal Systems - Biomechanics]
+Q64: ''
+Q63: ''
+Q62: 'most common site of estrogenic sarcoma is:'
+   - Femur, upper end
+   - Femur, lower end
+   - Tibia, upper end
+   - Tibia, lower end
+
+=== Page 74 === [Muscloskeletal Systems - Biomechanics]
+Q67: ''
+Q66: ''
+Q65: ''
+   ANS: 2
+
+=== Page 75 === [Muscloskeletal Systems - Biomechanics]
+Q69: ''
+Q68: ''
+Q70: ''
+   img[0] KEPT page_075_img_0.jpeg
+
+=== Page 76 === [Muscloskeletal Systems - Biomechanics]
+Q73: ''
+Q72: ''
+Q71: 'What is the approximate angle between the femoral shaft and neck in a healthy pe'
+   - 90°
+   - 125°
+   - 150°
+   - 170°
+   ANS: 4
+
+=== Page 77 === [Muscloskeletal Systems - Biomechanics]
+Q75: ''
+Q74: 'which fracture is treated by traction?'
+   - femur fracture
+   - ankle fracture
+   - knee fracture Right convex Scoliosis we find:
+   - Lateral trunk flexion & concave side to RT.
+   - Lateral trunk flexion &convex side to RT.
+   - Lateral trunk flexion &convex side to LT.
+   - Lateral trunk flexion & shorten RT musculature.
+   ANS: 2
+   img[0] KEPT page_077_img_0.jpeg
+
+=== Page 78 === [Muscloskeletal Systems - Biomechanics]
+Q78: ''
+Q77: ''
+Q76: 'Which of the following is a possible cause of anterior pelvic tilting?'
+   - Weak lateral trunk muscles.
+   - Tightened tensor fascia lata.
+   - Tight hamstring.
+   - Severe weakness of abdominal muscle.
+   ANS: 3
+
+=== Page 79 === [Muscloskeletal Systems - Biomechanics]
+Q81: ''
+Q80: ''
+Q79: ''
+
+=== Page 80 === [Muscloskeletal Systems - Biomechanics]
+Q84: ''
+Q83: ''
+Q82: 'Human body flexion and extension which plane occurs?'
+   - axial to transverse plane.
+   - sagittal plane to coronal axis.
+   ANS: 2
+
+=== Page 81 === [Muscloskeletal Systems - Biomechanics]
+Q87: ''
+Q86: ''
+Q85: ''
+
+=== Page 82 === [Muscloskeletal Systems - Biomechanics]
+Q90: ''
+Q89: ''
+Q88: ''
+   ANS: 3
+Q91: ''
+
+=== Page 83 === [Muscloskeletal Systems - Biomechanics]
+Q92: ''
+Q97: ''
+Q96: ''
+Q95: ''
+Q94: ''
+Q93: 'If the line of gravity is posterior to the hip joint in standing, on what does t'
+   - Iliopsoas muscle activity.
+   - Abdominal muscle activity.
+   - Anterior pelvic ligaments and the hip joint capsule.
+   - Posterior pelvic ligaments and the hip joint capsule.
+
+=== Page 84 === [Muscloskeletal Systems - Biomechanics]
+Q98: ''
+Q100: ''
+Q99: ''
+
+=== Page 85 === [SKIPPED]
+=== Page 86 === [Orthopedic]
+
+=== Page 87 === [Orthopedic]
+
+=== Page 88 === [Orthopedic]
+
+=== Page 89 === [Orthopedic]
+
+=== Page 90 === [c-Hydro exe]
+
+=== Page 91 === [c-Hydro exe]
+
+=== Page 92 === [c-Hydro exe]
+
+=== Page 93 === [c-Hydro exe]
+
+=== Page 94 === [c-Hydro exe]
+
+=== Page 95 === [c-Hydro exe]
+
+=== Page 96 === [c-Hydro exe]
+   img[0] KEPT page_096_img_0.jpeg
+
+=== Page 97 === [c-Hydro exe]
+
+=== Page 98 === [c-Hydro exe]
+
+=== Page 99 === [c-Hydro exe]
+
+=== Page 100 === [c-Hydro exe]
+
+=== Page 101 === [c-Hydro exe]
+
+=== Page 102 === [c-Hydro exe]
+
+=== Page 103 === [c-Hydro exe]
+
+=== Page 104 === [c-Hydro exe]
+
+=== Page 105 === [c-Hydro exe]
+
+=== Page 106 === [c-Hydro exe]
+
+=== Page 107 === [71-Resisted isometric testing (RIT) is often used in the musculoskeletal]
+
+=== Page 108 === [71-Resisted isometric testing (RIT) is often used in the musculoskeletal]
+
+=== Page 109 === [75- Which of the following orthopedic tests is suitable for evaluating the]
+   img[0] KEPT page_109_img_0.jpeg
+
+=== Page 110 === [75- Which of the following orthopedic tests is suitable for evaluating the]
+
+=== Page 111 === [75- Which of the following orthopedic tests is suitable for evaluating the]
+
+=== Page 112 === [75- Which of the following orthopedic tests is suitable for evaluating the]
+
+=== Page 113 === [hip joint. A click at 30 o of abduction is noted by the therapist. What orthopedic]
+
+=== Page 114 === [hip joint. A click at 30 o of abduction is noted by the therapist. What orthopedic]
+
+=== Page 115 === [hip joint. A click at 30 o of abduction is noted by the therapist. What orthopedic]
+
+=== Page 116 === [hip joint. A click at 30 o of abduction is noted by the therapist. What orthopedic]
+
+=== Page 117 === [hip joint. A click at 30 o of abduction is noted by the therapist. What orthopedic]
+
+=== Page 118 === [hip joint. A click at 30 o of abduction is noted by the therapist. What orthopedic]
+   img[0] KEPT page_118_img_0.png
+
+=== Page 119 === [hip joint. A click at 30 o of abduction is noted by the therapist. What orthopedic]
+
+=== Page 120 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 121 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 122 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 123 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 124 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 125 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 126 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 127 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 128 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 129 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 130 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 131 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 132 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 133 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 134 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 135 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 136 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 137 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 138 === [116- A PT is evaluating a patient with a know endocrine dysfunction. During]
+
+=== Page 139 === [ing is the most useful orthopedic test to differentiate]
+
+=== Page 140 === [ing is the most useful orthopedic test to differentiate]
+
+=== Page 141 === [ing is the most useful orthopedic test to differentiate]
+
+=== Page 142 === [ing is the most useful orthopedic test to differentiate]
+
+=== Page 143 === [ing is the most useful orthopedic test to differentiate]
+
+=== Page 144 === [ing is the most useful orthopedic test to differentiate]
+
+=== Page 145 === [ing is the most useful orthopedic test to differentiate]
+
+=== Page 146 === [ing is the most useful orthopedic test to differentiate]
+
+=== Page 147 === [ing is the most useful orthopedic test to differentiate]
+
+=== Page 148 === [ing is the most useful orthopedic test to differentiate]
+
+=== Page 149 === [Because hydro static pressure on chest wall and on abdomen wall which acts]
+
+=== Page 150 === [Because hydro static pressure on chest wall and on abdomen wall which acts]
+
+=== Page 151 === [Because hydro static pressure on chest wall and on abdomen wall which acts]
+
+=== Page 152 === [Because hydro static pressure on chest wall and on abdomen wall which acts]
+
+=== Page 153 === [Because hydro static pressure on chest wall and on abdomen wall which acts]
+
+=== Page 154 === [Because hydro static pressure on chest wall and on abdomen wall which acts]
+
+=== Page 155 === [Because hydro static pressure on chest wall and on abdomen wall which acts]
+
+=== Page 156 === [Because hydro static pressure on chest wall and on abdomen wall which acts]
+
+=== Page 157 === [Because hydro static pressure on chest wall and on abdomen wall which acts]
+
+=== Page 158 === [Because hydro static pressure on chest wall and on abdomen wall which acts]
+
+=== Page 159 === [1.D Sports Medicine]
+
+=== Page 160 === [Chapter 1]
+Q1: ''
+Q2: ''
+Q3: ''
+Q4: 'Exercise guidelines for the well-trained, well-controlled insulin dependent athl'
+   - decreasing or omitting carbohydrate snacks just following intense exercise or ac
+   - decreasing or omitting the insulin dose just prior to exercise or athletic activ
+   - decreasing or omitting the insulin dose just following the exercise or athletic 
+   - ingesting up to 30 grams of additional carbohydrate for every 30 minutes interva
+   ANS: 1
+
+=== Page 161 === [Chapter 1]
+Q5: ''
+Q6: ''
+Q7: ''
+
+=== Page 162 === [Chapter 1]
+Q9: ''
+Q8: 'Which of the following is the most appropriate minimum duration, in weeks, for h'
+   - 8
+   - 12
+   - 16
+   - 20 An athlete with unstable fracture neck of humerus , refereed to you to improv
+   - isometric
+   - resistive exercise in all directions
+   ANS: 3
+Q11: ''
+Q10: ''
+
+=== Page 163 === [Chapter 1]
+Q13: ''
+Q12: 'A 27-year-old football player sustained a knee injury and was referred to the Ph'
+   - Lateral and medial menisci and patellar tendon
+   - Medial meniscus, medial collateral ligament, and ACL
+   - Medial collateral ligament, medial hamstring, and quadriceps muscle
+   - Lateral collateral ligament, iliotibial band, and lateral hamstring tendon
+   ANS: 2
+Q14: ''
+
+=== Page 164 === [Chapter 1]
+Q15: ''
+Q16: 'Which of the following is the most likely cause of anterior cruciate ligament in'
+   - Forceful knee bending
+   - .Lateral twisting of the knee
+   - Blow to the lateral side of the knee
+   - Blow to the posterior side of the knee
+Q17: 'Which of the following is the most appropriate on the third postoperative day af'
+   - Stationary cycle, close chain exercise, elliptical trainer
+   - Close chain exercises, balance board, full weight-bearing.
+   - Isometric exercise, partial weight-bearing, ankle pumping
+   - Patellar mobilization, open chain exercises, balance training
+   ANS: 3
+
+=== Page 165 === [Chapter 1]
+Q18: 'Which of the following is inappropriate exercise for a patient who received an a'
+   - Lateral step-ups
+   - Heel slides
+   - Stationary bike
+   - Pool walking.
+   ANS: 4
+Q9: ''
+Q9: ''
+Q19: ''
+Q20: ''
+
+=== Page 166 === [Chapter 1]
+Q21: 'Which is the most likely structure injured if the patient is complaining of knee'
+   - Meniscus
+   - ACL tear
+   - OA’s
+   - MCL
+   ANS: 1
+Q23: ''
+Q22: 'what is the structure that will be tested if you put the patient in a prone lyin'
+   - meniscus injury
+   - ligament injury
+   - muscular injury
+   - capsular injury.
+Q24: 'A 26-year-old woman slipped and had blunt trauma to the knee joint. She develope'
+   - Bone
+   - Capsular
+   - Ligament
+   - Meniscus
+   ANS: 4
+
+=== Page 167 === [Chapter 1]
+Q25: 'among the following choices,  what is the most appropriate cause of Knee joint m'
+   - weak vastus medialis
+   - weak semitendinosus
+   - Weak quadriceps
+   - weak biceps femoris
+Q27: ''
+Q26: ''
+
+=== Page 168 === [Chapter 1]
+Q28: ''
+Q30: ''
+Q29: 'paralysis of all intrinsic muscles of the hand except the abductor pollicis Brev'
+   - Median nerve
+   - Ulnar nerve
+   - Radial nerve
+   - . posterior interosseous nerve
+   ANS: 3
+
+=== Page 169 === [Chapter 1]
+Q33: ''
+Q32: ''
+Q31: 'A physical therapist is treating an automobile mechanic. The patient asks for ti'
+   - Use your entire hand rather than just the fingers when holding an object
+   - Position tasks so that they are performed below shoulder height.
+   - Use tools with small straight handles when possible
+   - When performing a forceful task, keep the materials slightly lower than the elbo
+   ANS: 3
+
+=== Page 170 === [Chapter 1]
+Q34: ''
+Q35: 'A patient with Osgood-Schlatter disease will experience the most difficulty and '
+   - playing basketball or volleyball
+   - sitting for prolonged periods of time
+   - walking down stairs.
+   - lifting heavy weights - A teenager comes to an outpatient facility with complain
+   - Jumper’s knees.
+   - Anterior cruciate ligament sprain.
+   - Osgood-Schlatter disease
+   ANS: 3
+Q36: ''
+
+=== Page 171 === [Chapter 1]
+Q38: ''
+Q37: 'The therapist is treating a track athlete who specializes in sprinting and wants'
+   - Fatigues slowly, fiber colors appear red and used more in aerobic
+   - Fatigues quickly, fiber colors appear white and used in anaerobic
+   - Fatigues quickly, fiber colors appear white and used more in aerobic
+   - Fatigues slowly, fiber colors appear white, and used more in anaerobic
+   ANS: 2
+Q40: ''
+Q39: 'Which of the following actions places the greatest stress on the patellofemoral '
+   - When the foot first contacts the ground during the gait cycle.
+   - Exercising on a stair stepper machine.
+   - Running down a smooth decline of 30o
+   - Squats to 120o of knee flexion. your interview with an 18 year-old female cross 
+   - liotibial band friction syndrome
+   - Osgood-schlatter disease
+   - meniscal tear
+   - patellofemoral syndrome
+   ANS: 4
+
+=== Page 172 === [Chapter 1]
+Q41: ''
+   ANS: 1
+Q42: ''
+   ANS: 2
+Q43: 'Athlete ( power lifter ) complain of pain in groin area after weight lifting and'
+   - adductor strain
+   - sports hernia
+   - jumpers knee
+
+=== Page 173 === [Chapter 1]
+Q44: ''
+Q45: ''
+   ANS: 2
+Q46: 'Following a motor vehicle accident, a patient with chest trauma developed atelec'
+   - pain reduction techniques
+   - segmental breathing
+   - incentive spirometry
+   - paced breathing
+
+=== Page 174 === [Chapter 1]
+Q48: ''
+Q47: ''
+   ANS: 4
+
+=== Page 175 === [Chapter 1]
+Q52: ''
+Q51: ''
+Q50: ''
+Q49: 'player football takes trauma in anterior aspect of tibia with positive posterior'
+   - anterior curicate ligement
+   - posterior curicate ligemnet
+   - medial collteral ligement
+   - lateral colatteral ligment
+   ANS: 2
+
+=== Page 176 === [Chapter 1]
+Q53: ''
+Q55: ''
+Q54: 'football player fall in full flexion and media rotation?'
+   - ACL
+   - PCL
+   - Medial collateral
+   - medial meniscus A 20-year-old athlete is complaining that his knee locks, and he
+   - Torn meniscus
+   - Chondral Lesion
+   - Patellar Subluxation
+   - Quadriceps Tendonitis
+   ANS: 1
+Q56: 'Which of the following is the main cause of adductor tendinopathy in sportsmen?'
+   - Neuropathies
+   - Overuse injury
+   - Muscular weakness
+   - Congenital hip deformity
+   ANS: 2
+
+=== Page 177 === [Chapter 1]
+Q58: ''
+Q57: 'A 17-year-old football player is referred to the outpatient physical therapy cli'
+   - Fit the patient with a brace that prevents him from actively moving the knee int
+   - Do not fit the patient with a brace. All lower extremity strengthening exercises
+   - Fit the patient with a brace that prevents him from actively moving the knee int
+   - Do not fit the patient with a brace. Prescribe general lower extremity strengthe
+Q60: ''
+Q59: 'You are treating a 16-year-old female athlete for patellofemoral malalignment sy'
+   - patellar stabilizing brace.
+   - derotation brace.
+   - knee orthosis with a hinge joint.
+   - knee orthosis with an offset hinge joint.
+   ANS: 1
+
+=== Page 178 === [Chapter 1]
+Q61: 'A clinical instructor is explaining to a physical therapy student the function o'
+   - The femur laterally rotates on the tibia.
+   - The femur medially rotates on the tibia
+   - The tibia laterally rotates on the femur
+   - The tibia medially rotates on the femur.
+   ANS: 1
+Q62: ''
+   img[0] KEPT page_178_img_0.png
+
+=== Page 179 === [Chapter 1]
+Q64: ''
+Q63: 'Before strength hip flexors we do'
+   - Knee extension
+   - Extension hip
+   - Internal rotation hip
+
+=== Page 180 === [SKIPPED]
+=== Page 181 === [Neuromuscular System]
+
+=== Page 182 === [Neuromuscular System]
+Q1: 'Normal action potential:'
+   - 30 to -60 mVolt
+   - 60 to -90 mVolt
+   - 30 to -90 mv
+   - 30 to -80 mv
+   ANS: 3
+Q2: 'Transfer chemical stimulation to mechanical:'
+   - Small intestine
+   - Stomach
+   - Skeletal muscle
+   ANS: 3
+Q3: 'Light touch loss, in which tract may happened?'
+   - sensory tract
+   - spinothalamic tract
+   - motor tract
+   ANS: 1
+Q4: ''
+
+=== Page 183 === [Neuromuscular System]
+Q5: 'While evaluating a patient who suffered a complete spinal cord lesion, the thera'
+   - C3
+   - C4
+   - C7
+   ANS: 3
+Q6: 'In which location is the median nerve frequently or mostly entrapped?'
+   - Forearm
+   - Arm
+   - Elbow
+   - Wrist
+   ANS: 4
+Q7: 'Supracondylar ridge of humerus injury to:'
+   - radial nerve
+   - brachial artery
+   - radial artery
+Q8: ''
+   ANS: 2
+
+=== Page 184 === [Neuromuscular System]
+Q10: 'A 14-year old girl place excessive valgus stress to the right elbow during a fal'
+   - Ulnar nerve
+   - Extensor carpi radialis
+   - Brachioradialis
+   - Annular ligament
+   ANS: 1
+Q11: 'Supracondylar ridge of humerus injury to'
+   - Ulnar n nerve
+   - brachial nerve
+   - median nerve
+Q9: ''
+   ANS: 3
+
+=== Page 185 === [Neuromuscular System]
+Q12: 'pt. has median Nerve compression assist him by:'
+   - Weak of medial 2 fingers & decrease grasping objects
+   - Numbness of 3 ½ fingers & weak opponents MS
+   ANS: 2
+Q13: 'a college student presents with pain in the shoulder that began the week after f'
+   - acute rotator cuff tendonitis
+   - shoulder impingement
+   - long thoracic nerve lesion
+   - accessory nerve lesion
+   ANS: 3
+Q14: ''
+
+=== Page 186 === [Neuromuscular System]
+Q15: 'A patient presents to an outpatient facility with complaints of pain in the groi'
+   - Lateral cutaneous nerve of the upper thigh.
+   - Obturator nerve
+   - Femoral nerve.
+   - Ilioinguinal nerve.
+   ANS: 2
+Q16: 'A patient presents to an outpatient clinic with an order to evaluate and treat t'
+   - Median nerve – carpal tunnel
+   - Ulnar nerve – Guyon’s canal
+   - Ulnar nerve – pronator quadratus
+   - Median nerve – pronator teres
+   ANS: 4
+Q17: ''
+
+=== Page 187 === [Neuromuscular System]
+Q18: 'Acceleration injury (whiplash injury) may cause:'
+   - pain in posterior aspect of neck
+   - pain at post aspect of back
+   - dislocation of vertebral colum
+   - tearing of post para spinal ligament
+   ANS: 1
+Q19: 'A 19-year-old wrestler fell on his elbow and then complained of pins and needles'
+   - Contusion of the ulnar nerve
+   - Injury to the brachial plexus
+   - Contusion of the median nerve
+   - Strain of the brachioradialis muscle
+Q20: ''
+   ANS: 1
+
+=== Page 188 === [Neuromuscular System]
+Q21: 'when the fracture accurse in neck of humerus what nerve affected?'
+   - Redial N
+   - Median N
+   - Ulnar N
+   - Subcutaneous nerve
+Q22: 'Most common compression of radial n in:'
+   - shaft of humerus
+   - neck of humerus
+   - distal end
+Q23: 'Weakness of dorsiflexor of wrist and fingers due to injury which of following:'
+   - median N
+   - ulnar N
+   - radial N
+Q24: 'Which of the following sites of fracture involving the humerus most likely cause'
+   - Shaft
+   - Head
+   - Lower end
+   - Surgical neck
+Q25: 'Common site of Radial nerve lesion:'
+   - wrist
+   - elbow
+   - shoulder
+   - spiral grove of humerus
+Q26: 'pt has median Nerve compression assess him by:'
+   - Weak of medial 2 fingers & decrease grasping objects.
+   - Numbness of 3 ½ fingers & weak opponents ms.
+Q27: ''
+
+=== Page 189 === [Neuromuscular System]
+Q28: 'which nerve which give back of the arm and forearm?'
+   - radial
+   - ulnar
+   - median
+   - musculocutaneous
+Q29: 'Sciatic nerve injury due to:'
+   - Post dislocate hip
+   - Ant dislocate hip
+Q30: 'Ulnar nerve pass:'
+   - anterior to medial epicondyle
+   - anterior to lateral epicondyle
+   - posterior to medial epicondyle
+   - posterior to lateral epicondyle
+Q31: 'Delayed ulnar nerve due to fracture of:'
+   - olecranon fossa
+   - Medial epicondyle
+   - Lateral epicondyle
+Q32: 'Most compression site of ulnar nerve in:'
+   - shoulder joint
+   - spinal groove of humerus
+   - elbow
+   - wrist
+Q33: 'ulnar nerve give supply to:'
+   - whole hand
+   - outer 3 +1/2 fingers
+   - inner 1+1/2 fingers
+Q34: ''
+
+=== Page 190 === [Neuromuscular System]
+Q35: 'guyon tunnel Injury of which nerve:'
+   - ulnar
+   - radial
+   - median
+   - peroneal
+Q36: ''
+   ANS: 1
+Q37: ''
+   ANS: 3
+Q38: ''
+   ANS: 2
+
+=== Page 191 === [Neuromuscular System]
+Q39: ''
+   ANS: 3
+Q40: 'Carpal tunnel syndrome causes:'
+   - claw hand
+   - wrist drop.
+   - paralysis of all muscles of the hand
+   - ape-like hand
+Q41: ''
+   ANS: 4
+Q42: ''
+
+=== Page 192 === [Neuromuscular System]
+Q43: ''
+   ANS: 4
+Q44: ''
+   ANS: 2
+Q45: 'In poliomylitis which is incorrect:'
+   - Hyper reflex
+   - Reflex absent
+   - Ms weakness
+Q46: ''
+   ANS: 1
+
+=== Page 193 === [Neuromuscular System]
+Q47: ''
+   ANS: 4
+Q48: 'Post polio clinical features:'
+   - Paralysis
+   - weakness
+   - atrophy
+   - no change
+Q49: 'Convalescent stage of polio:'
+   - 2weeks-2years
+   - 2weeks-4years
+   - 0-2week
+   - 2week to through life
+Q50: 'The spaces between the covered parts of an axon are called:'
+   - ventricles
+   - synaptic clefts
+   - nodes of ranvier
+   - vescicles
+Q51: ''
+   ANS: 1
+
+=== Page 194 === [Neuromuscular System]
+Q52: 'Which of the following neural fibers are the largest and fastest?'
+   - C fibers
+   - A fibers
+   - A and C are equal
+   - None of the above
+Q53: 'Initiate muscle contraction ?'
+   - Alpha fibers
+   - Gamma fibers
+Q54: 'The therapist is evaluating a patient with left-side visual field deficits in bo'
+   - At the optic chiasm.
+   - At the right side optic tract.
+   - At the left side optic nerve
+   - At the right side optic nerve.
+Q55: 'patient with partial ataxia, physiotherapist make contraction and no movement is'
+   - rhythmic stabilization
+   - rhythmic initiation
+Q56: ''
+   img[0] KEPT page_194_img_0.png
+
+=== Page 195 === [Neuromuscular System]
+Q57: 'Nodes of Ranvier are found in:'
+   - brain
+   - heart
+   - axon
+   - eye
+Q58: 'Nodes of Ranvier are found in:'
+   - Myelinated nerve fibers
+   - Non myelinated nerve fibers
+   - RBC
+   - WBC
+Q59: 'Ankylosing Spondylitis means:'
+   - loosed packed position
+   - abnormal condition of stiffness and fusion of vertebrae
+   - closed packed position
+   - excessive flexion
+Q61: 'Ankylosing means :'
+   - loosed packed position
+   - joint stiffness
+   - closed packed position
+Q60: ''
+   ANS: 2
+
+=== Page 196 === [Neuromuscular System]
+Q62: ''
+   ANS: 3
+Q63: 'The therapist receives an order to treat a 42-year-old man admitted to the hospi'
+   - Anterior cord syndrome
+   - Brown-Sequad syndrome
+   - Central cord syndrome
+   - The patient is equally as likely to have anterior cord syndrome as he is to have
+Q64: ''
+   ANS: 2
+Q65: ''
+
+=== Page 197 === [Neuromuscular System]
+Q66: ''
+   ANS: 3
+Q67: 'A patient informs his therapist that his problem began 3 months after a bout of '
+   - Parkinson’s disease
+   - Guillain - Barrè syndrome
+   - Multiple sclerosis
+   - Amyotrophic lateral sclerosis
+Q68: ''
+
+=== Page 198 === [Neuromuscular System]
+Q69: 'therapist is assisting a patient in gaining lateral stability of the knee joint.'
+   - Gastrocnemius
+   - Popliteus
+   - Biceps femoris
+   - Iliotibial band.
+Q70: 'A posterior lateral herniation of the lumbar disc between vertebrae L4 and L5 mo'
+   - L4
+   - L5
+   - L4 and L5
+   - L5 and S1
+Q71: ''
+   ANS: 1
+Q72: ''
+   img[0] KEPT page_198_img_0.png
+
+=== Page 199 === [The failure to release acetylcholine at the neuromuscular junction is the cause of]
+Q73: 'The failure to release acetylcholine at the neuromuscular junction is the cause '
+   - myasthenia Gravis
+   - guillain - Barre syndrome
+   - lambert - Eaton syndrome
+   - locked - in syndrome
+   ANS: 3
+Q74: 'A 65-year-old man presents to physical therapy with complaints of pain due to co'
+   - Paget’s disease
+   - Achondroplastic dwarfism
+   - Osteogenesis imperfecta
+   - Osteopetrosis
+Q75: 'Multiple sclerosis MS which is incorrect:'
+   - more common in men than women
+   - cause of MS unknown
+   - more in black countries
+   - progressive degenerating
+Q76: 'Pt with neurological condition with evaluation found is unable to perform moveme'
+   - mythenia graves
+   - myopathy
+   - hyprertonia
+Q77: ''
+
+=== Page 200 === [Neuromuscular System]
+Q78: 'When instructing the family of a 9 year-old boy with Duchene muscular dystrophy,'
+   - strengthening the knee extensors and plantar flexors
+   - strengthening the plantar flexors and stretching the hip extensors
+   - stretching the hip flexors and plantar flexors
+   - strengthening the hip flexors and knee extensors
+Q79: 'A 32-year-old construction worker fell off a ladder. In his effort to prevent th'
+   - Axonotmesis
+   - Neurotmesis
+   - Neurapraxia 4-None of the above
+Q80: ''
+   ANS: 3
+Q81: ''
+
+=== Page 201 === [Neuromuscular System]
+Q82: ''
+   ANS: 2
+Q83: 'Which of the following nerve injuries is a condition in which degeneration of th'
+   - Neuropathy
+   - Neurapraxia
+   - Axonotmesis
+   - Neurotmesis
+Q84: 'Axon is injured but nerve intact:'
+   - neuropraxia
+   - neurotemesis
+   - axonotemesis
+   - transient ischemia
+Q85: 'Which of the following nerve injuries is a condition in which both the axon and '
+   - Neuropathy
+   - Neurapraxia
+   - Neurotmesis
+   - Axonotmesis
+Q86: ''
+
+=== Page 202 === [Neuromuscular System]
+Q87: ''
+   ANS: 1
+Q88: 'all the following is true about motor neuron disease except'
+   - Affect anterior horn cell in spinal cord and cause lower motor neuron lesion.
+   - Affect corticospinal tract and cause upper motor neuron Lesion.
+   - Affect cranial nerve and Most common facial nerve affected with lower motor neur
+   - Affect brain stem and cause upper motor neuron Lesion and cause lower motor neur
+Q89: ''
+   ANS: 1
+Q90: ''
+   img[0] KEPT page_202_img_0.jpeg
+
+=== Page 203 === [Neuromuscular System]
+Q91: 'when you evaluate a CVA patient what is the first thing to notice'
+   - imbalance and in-coordination
+   - visual fields
+   - can’t express himself
+Q94: ''
+   ANS: 3
+Q92: 'A patient who has suffered a recent stroke is being treated by a physical therap'
+   - Prone position
+   - Sidelying position
+   - Supine position
+   - A and B
+Q93: ''
+   ANS: 1
+   img[0] KEPT page_203_img_0.png
+
+=== Page 204 === [Neuromuscular System]
+Q98: 'While ambulating a stroke patient (right side is the involved side), the therapi'
+   - Increased spasticity of the right gastrocnemius.
+   - Increased spasticity of the right quadriceps.
+   - Weak hip flexors.
+   - Weak knee extensors
+Q97: 'Facial nerve nuclei innervations:'
+   - Bilateral pyramidal innervations
+   - Unilateral pyramidal innervations
+   - Bilateral no pyramidal innervation
+Q95: 'Which of the following is the most important to assess first during an evaluatio'
+   - Sensory status
+   - Motor control
+   - Mental status
+   - Ambulation potential
+Q96: 'A 57 - year - old patient presented with a 6 - hour history of progressive left '
+   - Stroke
+   - Hemiplegia
+   - Multiple sclerosis 4-Transient ischemic attack
+Q99: ''
+   ANS: 4
+
+=== Page 205 === [Neuromuscular System]
+Q100: 'When should a physical therapist begin discharge planning for a patient admitted'
+   - At the first team meeting
+   - At the last team meeting
+   - Two weeks before discharge
+   - After the initial evaluation by the physical therapist
+Q101: 'Patient with hypertension with sever stroke when will you expecting that the pat'
+   - week
+   - over a month
+   - over a year
+   - 3 years
+Q102: 'A physical therapist is treating a 76-year-old woman with left lower extremity h'
+   - Rapid irregular movements
+   - Approximation.
+   - Prolonged stretch
+   - Tactile cues
+Q103: ''
+   ANS: 1
+Q104: ''
+
+=== Page 206 === [Neuromuscular System]
+Q105: 'A 69-year-old man with a cerebrovascular accident involving left anterior cerebr'
+   - Ipsilateral leg
+   - Ipsilateral arm
+   - Contralateral leg
+   - Contralateral arm
+Q106: ''
+   ANS: 3
+Q107: ''
+   ANS: 4
+Q108: ''
+
+=== Page 207 === [Neuromuscular System]
+Q109: 'Patient with CVA damage LT Anterior cerebral artery affect'
+   - contralateral leg
+   - ipsilateral leg
+   - ipsilateralarm
+Q110: ''
+   ANS: 1
+Q111: 'A 50-year-old suffering from a stroke was referred to a Physical Therapy Rehabil'
+   - Middle
+   - Lateral
+   - Anterior
+   - Posterior
+Q112: ''
+   ANS: 4
+Q113: ''
+
+=== Page 208 === [Neuromuscular System]
+Q114: ''
+   ANS: 4
+Q115: 'When evaluating a patient with an upper motor neuron lesion, the therapist reads'
+   - Muscle stiffness
+   - Decreased volume of speech
+   - Involuntary oscillation of the body
+   - Movements that are reduced in speed, amplitude, and range
+Q116: 'When evaluating Parkinson’s pt you observed uniform muscle resistance, this mean'
+   - cogwheel rigidity
+   - lead-pipe rigidity
+   - spasticity
+Q117: ''
+
+=== Page 209 === [Neuromuscular System]
+Q118: 'Which of the following neurological conditions is associated with orofacial dysf'
+   - Paraplegia
+   - Parkinsonism
+   - Diabetic neuropathy
+   - Spinal cord lesion at the cervical area
+Q119: 'A therapist is evaluating a patient with an upper motor neuron lesion. During th'
+   - Stroke
+   - Multiple sclerosis
+   - Parkinson’s disease
+   - Motor neuron disease
+Q120: ''
+   ANS: 3
+Q121: ''
+   ANS: 3
+
+=== Page 210 === [Neuromuscular System]
+Q122: ''
+   ANS: 2
+Q123: ''
+   ANS: 2
+Q124: ''
+   ANS: 2
+Q125: ''
+   ANS: 4
+
+=== Page 211 === [Neuromuscular System]
+Q126: ''
+   ANS: 1
+Q127: 'when evaluating Parkinson’s gait?'
+   - festinating and shuffling gait
+   - short BOS
+Q128: 'Abnormal pattern of gait that not occur in Parkinson is:'
+   - propulsion gait
+   - festination gait
+   - retropulsion gait
+   - high steppage gait
+Q129: ''
+   ANS: 4
+
+=== Page 212 === [Neuromuscular System]
+Q130: ''
+   ANS: 1
+Q131: ''
+   ANS: 3
+Q132: ''
+   ANS: 2
+
+=== Page 213 === [certain days and poorly on others. Which of the following ways can the therapist possibly]
+Q133: ''
+   ANS: 3
+Q134: ''
+   ANS: 4
+Q135: ''
+   ANS: 4
+
+=== Page 214 === [Neuromuscular System]
+Q136: ''
+   ANS: 2
+Q137: 'Prevention of transmission of pain beyond the dorsal horn:'
+   - peripheral n injury
+   - gate control theory
+   - spinal cord injury
+   - opiate theory
+Q138: ''
+   ANS: 2
+Q139: ''
+   ANS: 2
+
+=== Page 215 === [Neuromuscular System]
+Q140: ''
+   ANS: 4
+Q141: ''
+   ANS: 1
+Q142: ''
+   ANS: 4
+
+=== Page 216 === [Neuromuscular System]
+Q143: ''
+   ANS: 1
+Q144: ''
+   ANS: 2
+Q145: ''
+   ANS: 4
+
+=== Page 217 === [ed by the neuron’s axon terminals, including the neuromuscular junctions between the neuron]
+Q146: ''
+   ANS: 1
+Q147: ''
+   ANS: 1
+Q148: ''
+   ANS: 4
+
+=== Page 218 === [Neuromuscular System]
+Q149: ''
+   ANS: 4
+Q150: ''
+   ANS: 4
+Q151: ''
+   ANS: 2
+
+=== Page 219 === [Neuromuscular System]
+Q152: ''
+   ANS: 4
+Q153: ''
+   ANS: 1
+Q154: ''
+   ANS: 2
+   img[0] KEPT page_219_img_0.jpeg
+
+=== Page 220 === [Neuromuscular System]
+Q155: ''
+   ANS: 2
+Q156: ''
+   ANS: 3
+Q157: ''
+   ANS: 3
+Q158: ''
+
+=== Page 221 === [Neuromuscular System]
+Q159: ''
+   ANS: 4
+Q160: ''
+   ANS: 1
+Q161: 'Patient complaining from back pain, with examination you find decreased sensatio'
+   - L 3 -L4
+   - L4 – L5
+   - L5 – S1
+Q162: 'Function of Golgi tendon organ:'
+   - detect muscle length
+   - detect muscle tension
+Q163: ''
+
+=== Page 222 === [Neuromuscular System]
+Q164: 'while you examine a patient you find decreased tendon jerk at Achilles tendon, w'
+   - L4 –L5
+   - L5 –S1
+   - S1 – S2
+Q165: 'A 20-year-old patient injured in a car accident has been diagnosed as having spi'
+   - S3,4
+   - L1,2
+   - L3, 4
+   - S1, 2
+Q166: 'During physical therapy evaluation of a 53-year-old patient with peripheral nerv'
+   - Hip flexors
+   - Knee flexor
+   - Knee extensors
+   - Ankle dorsiflexors
+Q167: 'A physical therapist is attempting to explain the importance of slow stretching '
+   - Relax – Golgi tendon organs
+   - Contract – Golgi tendon organs
+   - Relax – muscle spindles
+   - Contract – muscle spindles
+Q168: ''
+
+=== Page 223 === [Neuromuscular System]
+Q170: 'What is correct about planter reflex innervations is?'
+   - L4-L5
+   - L2-L3
+   - L5-S1
+   - L5 -S1.2
+Q169: 'Which of the following is the most appropriate technique to prevent injury durin'
+   - Slow speed
+   - Linear force
+   - Reduced force
+   - Low repetitions
+Q171: 'for relaxation of parkinson’s patient and to facilitate ex .which is correct?'
+   - Rhithmic initiation
+   - Rhithmic stabilization
+   - Sit pt on rocking chair
+Q172: ''
+   ANS: 1
+Q173: ''
+   ANS: 1
+
+=== Page 224 === [Neuromuscular System]
+Q174: 'for relaxation of parkinson’s patient and to facillitat ex which incorrect :'
+   - Rhithmic initiation
+   - Rhithmic stabilization
+   - Sit pt on rocking chair
+Q175: 'muscle spindle is stimulated by:'
+   - Passive stretch
+   - Passive movement
+   - Active exercises
+Q176: 'Regarding muscle spindle all following are true except:'
+   - has capsule.
+   - differs according to muscle size.
+   - extrafusal muscle fibers are parallel to intrafusal muscle.
+Q177: 'Which is incorrect about muscle spindle?'
+   - Has capsule for each spindle.
+   - Detect any tension in ms.
+   - Parallel with extrafusal ms fiber.
+Q178: ''
+   ANS: 2
+Q179: ''
+
+=== Page 225 === [Neuromuscular System]
+Q180: ''
+   ANS: 4
+Q181: 'Which of the following is Ruffini’s end organs?'
+   - Rapidly adapting
+   - Change in muscle length
+   - Change in muscle tension
+   - Monitor position of the limb in space
+Q183: ''
+   ANS: 1
+Q182: ''
+
+=== Page 226 === [Neuromuscular System]
+Q184: 'bradykinesia means:'
+   - slowness of movement
+   - fast movement
+   - impaired limb sensation
+Q185: 'A 64-year-old patient with Parkinson’s disease treated in the Physical Therapy C'
+   - Slow movement
+   - Fast movement
+   - Rigid movement
+   - Normal movement
+Q186: 'When evaluating a patient with an upper motor neuron lesion, the therapist read '
+   - Difficulty swallowing
+   - Slowness of movement
+   - Decreased volume of speech
+   - Sudden episode of immobility
+Q187: 'Hypotoncity means:'
+   - decrease tone in muscle
+   - Increase tone
+   - incoordination
+Q188: 'All are forms of hypertonia except:'
+   - spasticity
+   - dystonia
+   - rigidity
+   - hemianopia
+Q189: ''
+
+=== Page 227 === [Neuromuscular System]
+Q190: 'Hypertonia indicates'
+   - upper motor neuron injury
+   - lower motor neuron injury
+   - cerebellar lesion
+   - autonomic imbalance
+Q191: 'Difficult speech is called:'
+   - Dysarthria
+   - Dysphagia
+Q192: 'Difficulty of swallowing means:'
+   - Dysarthria
+   - Dysphagia
+Q193: 'the term apraxia (clumsy syndrome) refers to?'
+   - inability to perform purposeful movements
+   - swallowing
+   - slow motion
+   - involuntary movement
+Q194: 'A 57-year-old paraplegic patient comes to the Physical Therapy Clinic. The thera'
+   - Lift in the chair every 10 minutes
+   - Protect the limbs against excessive cold or heat
+   - Use a hot water bottle whenever unable to micturate
+   - Use a mirror for detection of marks, abrasions, and blisters
+Q195: ''
+   ANS: 4
+
+=== Page 228 === [Neuromuscular System]
+Q196: 'Bradyphrenia mean:'
+   - slowness of thought
+   - slowness of movement
+Q197: ''
+   ANS: 1
+Q198: 'The term aphasia refers to:'
+   - speech problem
+   - swallowig
+   - slow motion
+   - involuntary movement
+Q199: 'Which of the following is most appropriate in regard to the anatomical position '
+   - Inferior frontal gyrus
+   - Superior frontal gyrus
+   - Inferior temporal gyrus
+   - Superior temporal gyrus
+Q200: ''
+   ANS: 1
+
+=== Page 229 === [Neuromuscular System]
+Q201: 'Which of the following scientific terms is defined as the marked impairment of p'
+   - fluent aphasia
+   - nonfluent aphasia
+   - global aphasia
+Q202: 'You are working with a patient who exhibits a fluent aphasia. This form of aphas'
+   - normal auditory comprehension
+   - very slow speech
+   - impaired reading and writing
+   - impaired articulation
+Q203: 'The term used to describe difficulty in reading :'
+   - dyslexia
+   - dysgraphia
+   - dyspraxia
+   - paraphasia
+Q204: 'Patient with stroke the neurologist refers him to pt. first for assessment pt. f'
+   - Chorea
+   - Nystagmus
+   - Aphasia
+Q205: 'A physiotherapist received a referral for a patient. The referring physician out'
+   - Double vision
+   - Difficulty swallowing
+   - Slowness of movement
+   - Inability to recognize the weight of an object
+Q206: ''
+
+=== Page 230 === [Neuromuscular System]
+Q207: 'A physical therapist evaluating a 66 year old female who has a history of severe'
+   - ataxia
+   - dysmetria
+   - dysarthria
+   - dysdiadocokinesia
+Q208: 'patient suffer from double vision means'
+   - hemianopia
+   - anomia
+   - diplopia
+   - agnosia
+Q209: ''
+   ANS: 3
+Q210: 'What is meaning of dysmetria?'
+   - lack of coordination of movement, the inability to judgment of distance.
+   - lack of speak.
+Q211: ''
+
+=== Page 231 === [Neuromuscular System]
+Q212: 'neuron has no axon, no refractor organ but make synapse with second neuron at th'
+   - preganglionic neurone
+   - postganglionic neurone
+   - autonomic neuron
+Q213: 'patient has a complete spinal cord lesion at the C5 level. It is important for t'
+   - should be facilitated by use of phrenic nerve stimulator.
+   - should be facilitated by use of glossopharyngeal breathing.
+   - can be elicited with manual abdominal pressure provided with the assistance of a
+   - can be elicited with manual abdominal pressure provided independently by the Pat
+Q214: 'C8 SCI independent mobility with which adapted of the following:'
+   - manual wheel chair
+   - machinery wheel chair
+   - manual wheel chair with slide board
+Q215: 'Pt with SCI  there is weakness in his lower limb to test him:'
+   - Give resistance to ms at middle ROM
+   - Test hip flexors L1-L2
+   - Hip ext L3
+Q216: 'pt with new SCI ( Spinl Cord Injury) reffersd to you for prevention of bed rest '
+   - passive movement.
+   - elastic bandaging for prevention of deep venous thrombosis.
+   - alternative positioning to avoid bed sources.
+   - respiratory ex.
+Q217: ''
+
+=== Page 232 === [Neuromuscular System]
+Q218: 'To help decrease shear when transferring a patient with a spinal cord injury fro'
+   - a draw sheet.
+   - Skin lubricant on involved skin surfaces.
+   - An air mattress.
+   - Sheep skin pad.
+Q219: 'Which of the following spinal levels is the lowest for a spinal injury to result'
+   - C6
+   - T6
+   - L1
+   - S2-S4
+Q220: 'In SCI which of the following in not of complications Complete transection of th'
+   - Hypotension.
+   - Limited respiratory effort.
+   - Anaesthesia below the level of the lesion.
+   - Areflexia below the level of the lesion.
+Q221: ''
+   ANS: 4
+Q222: ''
+
+=== Page 233 === [lower extremity due to peripheral neuropathy. The therapist applies biofeedback electrodes]
+Q223: 'A therapist is sent to the intensive care unit to evaluate a patient who has suf'
+   - The patient will be positioned with all extremities extended and the wrist and f
+   - The patient will be positioned with the upper extremities flexed, the lower extr
+   - The patient will be positioned with all extremities flexed and wrist and fingers
+   - The patient will be positioned with the upper extremities extended, the lower ex
+Q224: 'In a patient with head injury, unexplained hypotension warrants evaluation of:'
+   - Upper cervical spine
+   - Lower cervical spine
+   - Thoracic spine
+   - Lumbar spine
+Q225: 'A therapist is treating a 35-year-old man who has suffered loss of motor control'
+   - Providing visual input for the patient to know how hard he is contracting the ri
+   - Assisting the patient in recruitment of more motor units in the right quadriceps
+   - Providing the measure of torque in the right quadriceps.
+   - Providing the therapist	 input	 on the patient’s ability and effort in contracti
+Q226: ''
+
+=== Page 234 === [Neuromuscular System]
+Q227: 'A therapist is treating a patient with spinal cord injury. The therapist is disc'
+   - C5 quadriplegia
+   - C7 quadriplegia
+   - T1 paraplegia
+   - C4 quadriplegia
+Q228: ''
+   ANS: 1
+Q229: 'A 48 - year - old woman patient with paraplegia after a road traffic accident wi'
+   - Stage of spinal shock
+   - Stage of gait training
+   - Stage of the total recovery
+   - Stage of failure of a reflex activity
+Q230: 'Which of the following is the most appropriate stage of injury to initiate a pas'
+   - Acute
+   - Chronic
+   - Sub-acute
+   - Functional
+Q231: ''
+
+=== Page 235 === [Neuromuscular System]
+Q232: 'A 20 - year - old patient with incomplete T6 spinal cord injury was referred to '
+   - Glasgow Coma Scale (GCS).
+   - Functional Independence Measure (FIM).
+   - Activities - specific Balance Confidence Scale (ABC).
+   - The American Spinal Injury Association (ASIA) Scale.
+Q233: 'A therapist is treating a patient with an injury at the T8 level and compromised'
+   - Sitting position
+   - Semi-fowler position
+   - Standing
+   - Supine
+Q234: 'A physical therapist is reviewing the chart of 24-year-old woman with a diagnosi'
+   - No active quadriceps tendon reflex.
+   - Slight quadriceps contraction with reflex testing.
+   - Normal quadriceps tendon reflex.
+   - Exaggerated quadriceps tendon reflex.
+Q235: 'Fracture dislocation L4-5 will result in:'
+   - Quada Equina
+   - Flaccid Paraplegia
+   - Spastic Quadriplegia
+   - Spastic Paraplegia
+Q236: ''
+
+=== Page 236 === [Neuromuscular System]
+Q237: ''
+   ANS: 4
+Q238: ''
+   ANS: 2
+Q239: ''
+   ANS: 4
+
+=== Page 237 === [4- Loss of knowledge or inability to perceive objects.]
+Q240: ''
+   ANS: 3
+Q241: ''
+   ANS: 4
+Q242: 'Which of the following is the most effective fall prevention intervention in the'
+   - Medicine review
+   - Balancing exercises
+   - Individualized program
+   - Strengthening exercises
+Q243: 'Main purpose from semi lying position:'
+   - Gravity assistance
+   - Efficiency
+Q244: ''
+
+=== Page 238 === [Neuromuscular System]
+Q245: 'A 60-year-old woman who has suffered a recent stroke has right-side homonymous h'
+   - The utensils should be placed on the left side of the plate.
+   - The utensils should be placed on the right side of the plate.
+   - The utensils should be placed on both sides of the plate.
+   - The plate and utensils should be placed slightly to the right.
+Q246: 'A 52-year-old man with sciatica presents to outpatient physical therapy. The pat'
+   - A lumbar disc with a left posterior herniation or protrusion.
+   - Piriformis syndrome.
+   - Sacroiliac joint dysfunction.
+Q247: ''
+   ANS: 1
+Q248: ''
+
+=== Page 239 === [SKIPPED]
+=== Page 240 === [Cardiovascular and Pulmonary Systems]
+
+=== Page 241 === [2- cardiovascular fitness]
+Q1: ''
+Q2: ''
+Q3: 'Muscle that work the most in respiration?'
+   - Intercostal
+   - diaphragm
+   - abdominal
+Q4: ''
+
+=== Page 242 === [Cardiovascular and Pulmonary Systems]
+Q5: ''
+Q6: ''
+Q7: ''
+
+=== Page 243 === [Cardiovascular and Pulmonary Systems]
+Q8: 'Volkmann’s ischemic contracture occur due to : 1-fracture of medial condyle of h'
+   - fracture of lateral condyle of humerus
+   - fracture lower third of humerus 4-surgical neck fracture
+   ANS: 3
+Q9: 'which is correct about Volkmann’s ischemic contracture'
+   - affect flexor of forearm
+   - affect palmar fascia lead to ulnar neuritis
+   ANS: 1
+Q10: ''
+
+=== Page 244 === [Cardiovascular and Pulmonary Systems]
+Q11: ''
+Q12: ''
+Q13: ''
+
+=== Page 245 === [Cardiovascular and Pulmonary Systems]
+Q14: 'Fracture Lower humerus fracture, therapist tend to do very gradual stretch:'
+   - to prevent disuse atrophy
+   - to prevent hypertrophy
+   - to stimulate muscle
+   - to prevent muscle and tendon rupture.
+   ANS: 4
+Q15: 'The therapist is stretching the biceps muscle in a patient with a fracture at th'
+   - avoid disuse atrophy
+   - avoid hypertrophy
+   - prevent muscle and tendon tear
+   - stimulate muscle
+   ANS: 3
+Q16: 'The use of compression stockings on the feet and ankles is contraindicated in wh'
+   - Chronic venous disease
+   - Recent total knee replacement
+   - Burn patients
+   - Chronic arterial disease
+Q17: ''
+   ANS: 4
+
+=== Page 246 === [Cardiovascular and Pulmonary Systems]
+Q18: ''
+Q21: ''
+Q19: ''
+Q20: 'Average skeletal muscle blood flow at resting is:'
+   - 1-4 ml/min per 100g
+   - 5-8 ml/min per 100g
+   - 9-12 ml/min per 100g
+   - 13-16 ml/min per 100g
+
+=== Page 247 === [right ventricle (RV) pumps oxygen-poor blood through the pulmonary valve (PV) into the main]
+Q22: ''
+Q23: 'Left ventricle more important than Right ventricle at accident why'
+   - Contains un oxygenated blood
+   - transmit blood less o2
+   - Transmit blood to aorta
+   - D-Transmit un oxygenated blood to aorta During extreme exercise in a well condit
+   - 15-25 fold rising to 50to 80 ml/min/100g of ms
+   - 6-7ml/min/100g of ms
+   - averages 1-2ml/min/100g of ms
+   - it’s not estimated
+   ANS: 2
+Q24: ''
+
+=== Page 248 === [Cardiovascular and Pulmonary Systems]
+Q25: ''
+Q27: ''
+Q28: ''
+Q26: ''
+
+=== Page 249 === [Cardiovascular and Pulmonary Systems]
+Q30: ''
+Q31: ''
+Q32: 'Cardiac output means:output?'
+   - blood pumped from ventricle/min
+   - blood pumped from ventricle/beat
+   - blood still in ventricle during systolic
+   - blood still in ventricle during diastolic
+   ANS: 1
+Q29: ''
+
+=== Page 250 === [Cardiovascular and Pulmonary Systems]
+Q34: ''
+Q35: ''
+Q36: ''
+Q33: ''
+
+=== Page 251 === [Cardiovascular and Pulmonary Systems]
+Q37: ''
+Q38: ''
+Q39: 'Irreversible risk factor in coronary artery disease'
+   - Smoking
+   - High blood pressure
+   - a Lipo –protein
+   - History of occlusive peripheral artery
+
+=== Page 252 === [Cardiovascular and Pulmonary Systems]
+Q40: ''
+Q41: 'Base of heart directed'
+   - forward and anterior
+   - forward and posterior
+   - backward and posterior
+   - backward and anterior
+   ANS: 4
+
+=== Page 253 === [Cardiovascular and Pulmonary Systems]
+Q43: ''
+Q44: ''
+Q42: 'Parasympathetic action of heart'
+   - decrease heart rate from 120 ppm to 70 ppm
+   - increase in female more than male
+   - decrease in adults more than child
+   - decrease in athelets more than athelets
+   ANS: 2
+Q45: ''
+
+=== Page 254 === [Cardiovascular and Pulmonary Systems]
+Q46: ''
+Q47: ''
+Q48: ''
+Q49: ''
+
+=== Page 255 === [Cardiovascular and Pulmonary Systems]
+Q50: ''
+Q51: ''
+Q52: ''
+Q53: ''
+
+=== Page 256 === [Cardiovascular and Pulmonary Systems]
+Q54: ''
+Q55: '56-year-old patient with an ejection fraction of 38%. Blood pressure 110/80 mmHg'
+   - Left heart failure
+   - Right heart failure
+   - Myocardial infarction
+   - Coronary artery insufficiency
+   ANS: 1
+Q56: ''
+
+=== Page 257 === [4.	 Pulmonary]
+Q57: ''
+Q58: ''
+Q59: ''
+Q60: ''
+
+=== Page 258 === [Cardiovascular and Pulmonary Systems]
+Q61: ''
+Q62: ''
+Q63: ''
+   ANS: 2
+
+=== Page 259 === [Cardiovascular and Pulmonary Systems]
+Q65: ''
+Q64: 'Which make rapid decrease in heart rate ?'
+   - preganglionic fiber
+   - postganglionic fiber
+   - fiber near to heart Question66
+   ANS: 3
+
+=== Page 260 === [Cardiovascular and Pulmonary Systems]
+Q67: ''
+Q68: ''
+Q69: ''
+Q70: ''
+
+=== Page 261 === [forced vital capacity.  What is the most likely pulmonary dysfunction?]
+Q71: ''
+Q72: ''
+Q73: ''
+Q74: ''
+   ANS: 2
+
+=== Page 262 === [Cardiovascular and Pulmonary Systems]
+Q78: ''
+Q79: ''
+Q80: ''
+
+=== Page 263 === [A young woman with Chronic Obstructive Pulmonary Disease is referred]
+Q81: ''
+Q82: ''
+Q83: 'best exercise for COPD'
+   - walking
+   - cycling
+   - Swimming
+   - running
+   ANS: 2
+
+=== Page 264 === [Cardiovascular and Pulmonary Systems]
+Q84: ''
+Q85: ''
+Q86: ''
+Q87: ''
+
+=== Page 265 === [Cardiovascular and Pulmonary Systems]
+Q88: ''
+Q89: ''
+Q90: ''
+   ANS: 2
+
+=== Page 266 === [Cardiovascular and Pulmonary Systems]
+Q86: ''
+   ANS: 2
+Q91: ''
+Q92: ''
+Q93: ''
+
+=== Page 267 === [sputum can sometimes be a sign of: chronic obstructive pulmonary disease (COPD]
+Q94: ''
+Q95: ''
+Q96: 'Which of the following is the most appropriate description of expiratory reserve'
+   - Air that remains at the end of normal respiration
+   - Total amount of air in a lung after normal inspiration
+   - Total amount of air in a lung after maximum inspiration
+   - Total amount of air exhaled after normal resting expiration
+   ANS: 4
+
+=== Page 268 === [Cardiovascular and Pulmonary Systems]
+Q97: ''
+Q98: ''
+Q99: ''
+
+=== Page 269 === [Cardiovascular and Pulmonary Systems]
+Q100: ''
+Q101: ''
+Q102: 'In angina pectoris chest pain present in'
+   - pain at pectoral region
+   - pain at base of the heart
+   - pain referred to shoulder
+   ANS: 2
+
+=== Page 270 === [Cardiovascular and Pulmonary Systems]
+Q104: ''
+Q103: ''
+Q105: 'The therapist works in a cardiac rehabilitation setting. Which of the following '
+   - Concentric
+   - Eccentric
+   - Aerobic
+   - Isometric
+
+=== Page 271 === [Cardiovascular and Pulmonary Systems]
+Q106: ''
+Q107: 'when detect target heart rate in unstable angina we don`t make'
+   - valsalva maneuver
+   - isometric ex
+   - heavy arm ex
+   - isotonic ex
+   ANS: 2
+Q108: 'Physical Therapist detect alarm signs for cardiac patient during training progra'
+   - monitor H.R & B.P
+   - Blood oxygen level
+   - O2 level Correct Answer:
+
+=== Page 272 === [Cardiovascular and Pulmonary Systems]
+Q110: ''
+   ANS: 3
+Q109: 'A therapist is ordered by a physician to treat a patient with congestive heart f'
+   - Stenosis of the mitral valve
+   - Orthopnea
+   - Decreased preload of the right heart
+   - Pulmonary edema
+   ANS: 3
+Q111: ''
+
+=== Page 273 === [procedure, much of the synovium is removed.In a number of orthopedic injuries and conditions]
+Q112: ''
+Q113: ''
+Q114: 'A physical therapist is treating a patient who is participating in cardiac rehab'
+   - the first sound during auscultation of the heart?
+   - The first sound is of the closure of the aortic and pulmonic valves.
+   - The first sound is of the closure of the mitral and tricuspid valves.
+   - The first sound is of the beginning of ventricular systole.
+   - 2 and 3
+
+=== Page 274 === [Cardiovascular and Pulmonary Systems]
+Q117: ''
+Q116: ''
+Q115: ''
+   ANS: 5
+
+=== Page 275 === [Cardiovascular and Pulmonary Systems]
+Q118: ''
+Q120: ''
+Q119: ''
+   ANS: 3
+
+=== Page 276 === [Cardiovascular and Pulmonary Systems]
+Q121: ''
+Q122: ''
+Q123: ''
+
+=== Page 277 === [Old pt comes with fever; productive cough ;and pulmonary congestion diagnosis is]
+Q126: ''
+Q125: ''
+Q124: ''
+
+=== Page 278 === [Cardiovascular and Pulmonary Systems]
+Q129: ''
+Q130: ''
+Q128: ''
+Q127: 'in early stage of bronchitis  there is'
+   - dry cough
+   - bronchi spasm + expectoration
+   - hymopsis
+   - peripheral cyanosis
+
+=== Page 279 === [4.	 Chronic obstructive pulmonary disease]
+Q133: ''
+Q132: ''
+Q131: ''
+
+=== Page 280 === [Cardiovascular and Pulmonary Systems]
+Q134: ''
+Q135: ''
+Q136: 'Which of the following is defined as Pulmonary ventilation?'
+   - Gas exchange between arterial blood and tissues
+   - Gas exchange between alveolar air and venous blood .
+   - Gas exchange between atmospheric air and air present inside the lungs
+   - process by which 02 is used by the living cells for the oxidation of the organic
+   - gas exchange between alveoli and veinous blood
+   - exchange between atmospheric air and lung air
+   - utilizing O2 by cells which essential for all vital process
+   ANS: 2
+
+=== Page 281 === [Cardiovascular and Pulmonary Systems]
+Q137: ''
+Q138: ''
+Q139: ''
+Q140: 'A 60-year-old man underwent cardiac surgery yesterday. His SpO2, is currently 84'
+   - Any
+   - Open
+   - Close
+   - Alternate when evaluation inspiration capacity using spirometer :
+   - max inspiration after normal expiration
+   - max inspiration after max expiration
+   - normal  inspiration after normal expiration
+   ANS: 3
+
+=== Page 282 === [Cardiovascular and Pulmonary Systems]
+Q141: ''
+Q142: ''
+Q143: ''
+
+=== Page 283 === [Pulmonary function and gas exchange deteriorate after pulmonary resection. The vital capacity,]
+Q140: 'patient coming to you suffering from pain at calves due to walking 200 feets  th'
+   - calf strain
+   - arterial insufficiency
+   - thrombosis
+   - varicose vein
+Q147: ''
+Q146: ''
+Q145: ''
+Q144: ''
+
+=== Page 284 === [Cardiovascular and Pulmonary Systems]
+Q148: ''
+Q149: ''
+Q150: 'Which of the following statements is NOT true about vertebrobasilar insufficienc'
+   - it refers to temporary symptoms due to decreased blood flow to brain.
+   - symptoms include headache, dizziness, nausea and vertigo.
+   - cervical manipulation is contraindication.
+   - cervical mobilization especially rotation, extension or longitudinal distraction
+   ANS: 4
+
+=== Page 285 === [Cardiovascular and Pulmonary Systems]
+Q151: ''
+Q152: ''
+Q153: ''
+
+=== Page 286 === [Cardiovascular and Pulmonary Systems]
+Q154: ''
+Q155: ''
+Q156: ''
+Q157: 'burger’s disease patient complains of pain after walking in calf muscle in treat'
+   - decrease ms spasm
+   - strength hamstring
+   - increase venous return
+   - open collaterals Burger’s disease affect
+   - veins
+   - artery
+   - nerve
+   - vessels In Raynaud’s disease it is?
+   - vascular insufficiency disease
+   - intermittent claudication
+   - thrombosis in lower limb
+   - varicose veins
+   ANS: 1
+
+=== Page 287 === [Cardiovascular and Pulmonary Systems]
+Q158: ''
+Q159: ''
+Q160: ''
+   ANS: 3
+
+=== Page 288 === [Cardiovascular and Pulmonary Systems]
+Q161: ''
+Q162: ''
+Q163: 'The anatomical snuffbox contains a portion of this structure:'
+   - sdeep radial nerve
+   - radial artery
+   - basilic vein
+   - lunate bone.
+   ANS: 1
+
+=== Page 289 === [Cardiovascular and Pulmonary Systems]
+Q166: ''
+Q165: ''
+Q167: 'in thrombosis we do'
+   - apical segments of the upper lobes
+   - posterior segments of the upper lobes
+   - anterior segments of the upper lobes
+   - lingular segments of the left upper lobes
+Q164: 'A patient with cystic fibrosis has a great amount of secretion at the lingula. W'
+   - Prone
+   - Supine
+   - Semi-lying
+   - Side-lying on the right side
+
+=== Page 290 === [Cardiovascular and Pulmonary Systems]
+Q168: ''
+Q169: ''
+   ANS: 3
+
+=== Page 291 === [Pulmonary embolism begin first from]
+Q170: ''
+Q171: ''
+Q172: ''
+Q173: 'Basic Airway Management (Manual / Non equipment) all the following EXEPT:'
+   - head tilt
+   - chin lift
+   - jaw thrust
+   - laryngeal mask airway (LMA)
+   ANS: 4
+
+=== Page 292 === [Cardiovascular and Pulmonary Systems]
+Q174: 'Which of the following measures/procedures are not of clinical importance for D.'
+   - Frequent turning
+   - Raising head above the level of the body
+   - Wearing compressive socks
+   - Passive range of motion exercises
+   ANS: 3
+Q175: ''
+Q176: ''
+   ANS: 1
+
+=== Page 293 === [1.	 Pulmonary embolism]
+Q177: ''
+Q178: ''
+Q179: ''
+
+=== Page 294 === [Cardiovascular and Pulmonary Systems]
+Q182: ''
+Q181: ''
+Q180: 'patient with sever back pain, after examination you find disc herniation; which '
+   - MRI
+   - CT
+   - plain X-ray
+   - mylogra
+   ANS: 2
+Q183: ''
+
+=== Page 295 === [Cardiovascular and Pulmonary Systems]
+Q184: ''
+Q185: ''
+Q186: ''
+
+=== Page 296 === [Cardiovascular and Pulmonary Systems]
+Q187: 'A physical therapist is reviewing the chart of a 49-year-old woman who recently '
+   - Continue with the evaluation and treatment.
+   - Do not perform this evaluation due to the hematocrit level
+   - Inform nursing of this lab report
+   - Check nursing notes to determine the last time the patient received a beta-block
+Q188: ''
+Q189: 'How should you open the airway of an unconscious casualty?:'
+   - head tilt and chin lift.
+   - jaw thrust.
+   - head tilt and jaw thrust.
+   - lift the chin
+
+=== Page 297 === [SKIPPED]
+=== Page 298 === [OTHERS]
+
+=== Page 299 === [OTHERS]
+Q1: 'A 6-month-old baby boy is refered by a neurosurgeon for management. He has an ad'
+   - Erb’s palsy
+   - Klumpke’s palsy
+   - Horner’s syndrome
+   - Brachial plexus syndrome
+Q2: 'A 6-month-old patient with Erb’s palsy, leading to loss of elbow flexion power a'
+   - C3-C4
+   - C5-C6
+   - C7-C8
+   - T1-T2
+Q3: 'An injury of one of the following roots of brachial plexus cause erb’s palsy:'
+   - C5 toT1
+   - T1&T2
+   - C8&T1
+   - C5 & C6
+Q4: 'An infant with Erb’s palsy presents with the involved upper extremity in which o'
+   - Hand supinated and wrist extended
+   - Hand supinated and wrist flexed
+   - Hand pronated and wrist extended
+   - Hand pronated and wrist flexed
+Q5: 'Rolling begin at:'
+   - 4 moths
+   - 6 monthes
+Q6: ''
+
+=== Page 300 === [Others - Paediatrics]
+Q7: 'In Erb’s paralysis, the deformity is called:'
+   - claw hand
+   - ape hand
+   - wrist drop
+   - policeman’s tip position
+Q8: 'Policeman’s tip or Porter’s tip position is seen in:'
+   - upper Plexus Paralysis
+   - erb-Duchenne paralysis
+   - klumpke’s paralysis
+   - both a and b
+Q9: 'In Klumpke’s paralysis, the deformity is called:'
+   - claw hand
+   - ape hand
+   - wrist drop
+   - policeman’s tip position
+Q10: 'A 5-year-old patient with Erb’s palsy has been referred to the Rehabilitation Ce'
+   - Cord
+   - Lower trunk
+   - Upper trunk
+   - Brachial plexus division
+Q11: 'infant with Erb’s palsy he can full recover with good biceps & deltoid at:'
+   - 3 months
+   - 6 months
+   - 9 months
+   - 12 months
+Q12: ''
+
+=== Page 301 === [4- Proprioceptive neuromuscular facilitation]
+Q13: ''
+   ANS: 4
+Q14: 'To test righting - equilibrium in child'
+   - Sudden push him from side
+   - Turn his head
+   - Tilt the child to one side
+Q15: 'A 35-year-old patient with left side hemiplegia with moderate spasticity was ref'
+   - Bobath
+   - Effleurage
+   - Brunnstrom
+   - Proprioceptive neuromuscular facilitation
+Q16: 'Which of the following management techniques is associated with inhibition of ab'
+   - Bobath
+   - Margaret
+   - Temple-Fay
+   - Proprioception neuromuscular facilitation
+Q17: ''
+
+=== Page 302 === [Others - Paediatrics]
+Q18: 'First motor action could be seen in pediatric is:'
+   - head control
+   - righting reaction
+   - crawling
+   - rolling
+Q19: 'Baby with poor head control your first choose of treatment will be OR to assist '
+   - supine
+   - side lying
+   - prone
+   - sitting
+Q20: 'What is the average head circumference of a normal term newborn?'
+   - 33 - 38cm
+   - 33 - 35 cm
+   - 32 - 35 cm
+   - 32 - 38 cm
+Q21: 'How many weeks gestation (fetal development) is considered normal for a full ter'
+   - 30 weeks
+   - 32 weeks
+   - 36 weeks
+   - 37 weeks
+Q22: 'Baby from prone can support chest at any month?'
+   - 1 month
+   - 3 month
+   - 5 month
+   - 7 month
+Q23: ''
+
+=== Page 303 === [Others - Paediatrics]
+Q24: ''
+   ANS: 1
+Q25: 'What is the mean age for a baby in months to start developing the ability to wal'
+   - 12
+   - 18
+   - 24
+   - 30
+Q26: 'Child can go up and down stairs what age?'
+   - 12-18 months
+   - 18-24 months
+   - 24-30 months
+Q27: 'In normal milestone baby can jump by both legs in swing at'
+   - 12 months
+   - 24 months
+   - 18 months
+   - 30 months
+Q28: 'Child can walk tip toe what age?'
+   - 3 years
+   - 3.5 years
+   - 4 years
+Q29: ''
+
+=== Page 304 === [Others - Paediatrics]
+Q30: ''
+   ANS: 3
+Q31: 'Baby recognize his mother at what age in month?'
+   - One months
+   - Two months
+   - Three months
+   - Four months
+Q32: 'Which of the following is the most likely age, in months, for an infant to diffe'
+   - 5 months
+   - 6 months
+   - 7 months
+   - 8 months
+Q33: 'All the following is true about spasticity except:'
+   - Usually occurs cerebral palsy infant
+   - Occur in sci
+   - associated with lower motor neuron legion
+   - can cause hip dislocation
+Q34: ''
+   ANS: 3
+
+=== Page 305 === [Others - Paediatrics]
+Q35: 'Child can kick the ball in:'
+   - 12 month
+   - 24 month
+   - 30 month
+Q36: 'Which of the following ages, in months, do most children display a hand preferen'
+   - 06
+   - 12
+   - 18
+   - 24
+Q37: 'At any age the child can walk independably:'
+   - 12 month
+   - 18 month
+   - 24 month
+   - 30 month
+Q38: 'In which age by month child can walk and balance?'
+   - 12 month
+   - 18 month
+   - 24 month
+   - 14 month
+Q39: 'At any age baby hand preference:'
+   - 6 months
+   - 12 months
+   - 18 months
+   - 24 months
+Q40: ''
+
+=== Page 306 === [Others - Paediatrics]
+Q41: 'Fear from prone position in pediatric known as:'
+   - vomiting
+   - irritation
+   - cot deaths or crib deaths
+Q42: ''
+   ANS: 3
+Q43: 'What the most primitive reflex of human body?'
+   - Symmetrical tonic neck reflex
+   - sucking reflex
+   - asymmetrical tonic reflex
+   - tonic lybrinthine
+Q44: 'baby supine lying abducting both shoulders with 90 elbow flexion lower limbs ext'
+   - Tonic labrynthinen reflex
+   - Moro reflex
+   - STNR
+   - ATNR
+Q45: ''
+
+=== Page 307 === [Others - Paediatrics]
+Q46: 'An infant is being examined by a physical therapist. The therapist is resisting '
+   - Landau reaction
+   - Startle reflex
+   - Moro reflex
+   - Associated reaction
+Q47: 'Hand during the evaluation of an infant, the therapist observes that with passiv'
+   - Protective extension
+   - Optical righting
+   - Symmetrical tonic neck
+   - Labyrinthine head righting
+Q48: 'What is the cause of hip dysplasia?'
+   - mother malnutrition
+   - idiopathic
+Q49: ''
+   ANS: 2
+   img[0] KEPT page_307_img_0.jpeg
+
+=== Page 308 === [Others - Paediatrics]
+Q50: ''
+   ANS: 4
+Q51: 'Hypotoncity means:'
+   - decrease tone in muscle
+   - Increase tone
+   - incoordination
+Q52: ''
+   ANS: 1
+Q53: ''
+   ANS: 4
+
+=== Page 309 === [Others - Paediatrics]
+Q54: ''
+   ANS: 2
+Q55: ''
+   ANS: 3
+Q56: ''
+   ANS: 4
+
+=== Page 310 === [Others - Paediatrics]
+Q57: ''
+   ANS: 3
+Q58: ''
+   ANS: 4
+Q59: ''
+   ANS: 2
+
+=== Page 311 === [Others - Paediatrics]
+Q60: ''
+   ANS: 1
+Q61: ''
+   ANS: 3
+Q62: ''
+   ANS: 2
+
+=== Page 312 === [Others - Paediatrics]
+Q63: ''
+   ANS: 3
+Q64: ''
+   ANS: 4
+Q65: ''
+   ANS: 3
+
+=== Page 313 === [Others - Paediatrics]
+Q66: ''
+   ANS: 4
+Q68: ''
+   ANS: 2
+Q67: ''
+   ANS: 3
+
+=== Page 314 === [Others - Paediatrics]
+Q69: ''
+   ANS: 2
+Q70: ''
+   ANS: 2
+Q71: ''
+   ANS: 2
+
+=== Page 315 === [Others - Paediatrics]
+Q72: ''
+   ANS: 1
+Q73: ''
+   ANS: 2
+Q74: ''
+   ANS: 1
+Q75: ''
+   ANS: 1
+
+=== Page 316 === [Others - Paediatrics]
+Q76: ''
+   ANS: 4
+Q77: 'A type of cerebral palsy where there is a damage to the extrapyramidal system:'
+   - spastic diplegia
+   - hemiplegic cerebral palsy
+   - ataxic cerebral palsy
+   - athetoid cerebral palsy
+Q78: ''
+   ANS: 4
+
+=== Page 317 === [Others - Paediatrics]
+Q79: 'A child with spastic diplegia is now independent in using a walker. Additional g'
+   - a standard anterior walker with no wheels.
+   - an anterior rollator walker with two wheels.
+   - a posterior rollator walker with two wheels.
+   - a posterior rollator walker with four wheels.
+Q80: ''
+   ANS: 4
+Q81: ''
+
+=== Page 318 === [Others - Paediatrics]
+Q82: ''
+   ANS: 3
+Q83: ''
+   ANS: 4
+Q84: ''
+
+=== Page 319 === [Others - Paediatrics]
+Q85: ''
+   ANS: 3
+
+=== Page 320 === [SKIPPED]
+=== Page 321 === [OTHERS]
+
+=== Page 322 === [Others - Endocrine]
+Q1: 'A patient reports to therapy stating that his “sugar is too high” for exercise. '
+   - 300 mg/dl
+   - 400 mg/dl
+   - 300 g/dl
+   - 400 g/dl
+   ANS: 1
+Q2: 'To decrease the risk of hypoglycemia in a patient with type I insulin-dependent '
+   - Eat or drink a snack high in carbohydrates 30 minutes before exercises.
+   - Exercise muscles that have not had an insulin injection recently.
+   - A carbohydrate snack for each 30-45 minutes of exercise.
+   - Exercise at the peak time of insulin effect.
+   ANS: 4
+Q3: 'In controlled diabetes, physiotherapist orders patient to do exercise to?'
+   - increase blood glucose uptake by ms
+   - NO effect
+   - increase insulin metabolism
+Q4: ''
+
+=== Page 323 === [the exercise improves blood glucose control in type 2 diabetes reduces Cardiovascular rists]
+Q5: 'A diabetic patient is exercising vigorously in an outpatient clinic. The patient'
+   - Pallor
+   - Shallow respiration
+   - Bounding pulse
+   - Dry skin
+   ANS: 4
+Q6: ''
+   ANS: 1
+Q7: ''
+
+=== Page 324 === [Others - Endocrine]
+Q8: 'After arriving at the home of a home health patient, the primary nurse informs t'
+   - Skin flush
+   - Rapid pulse
+   - High blood pressure
+   ANS: 3
+Q9: 'Which of the following durations, in months, is the time frame for the presence '
+   - 03-05
+   - 06-09
+   - 10-12
+   - 13-15
+   ANS: 2
+Q10: ''
+
+=== Page 325 === [Others - Endocrine]
+Q11: 'Rickets is due to deficiency of vitamin:'
+   - C
+   - B
+   - K
+   - D
+   ANS: 4
+Q12: 'Which of the following is the minimum separation, in cm, of the rectus abdominis'
+   - 1 Cm
+   - 2 Cm
+   - 3 Cm
+   - 4 Cm
+   ANS: 2
+Q13: ''
+
+=== Page 326 === [Others - Endocrine]
+Q14: 'Visceral diseases of the abdomen and pelvis are likely to refer pain where?'
+   - shoulders
+   - back
+   - arms
+   - legs
+   ANS: 2
+Q15: 'Bone pain at night is a red flag symptom of what disease:'
+   - cáncer
+   - diabetes
+   - osteoporosis
+   - Paget’s disease
+   ANS: 1
+Q16: ''
+
+=== Page 327 === [Bone is consists of 40 % inorganic Component ( hydrory a pollate ), 25 % water and 35 %]
+Q18: 'During exercise pregnancy percentage of blood flow affect fetus growth:'
+   - 20
+   - 40
+   - 50
+   - 60
+Q17: 'Obesity is a risk factor for:'
+   - Osteoporosis
+   - Osteoarthritis
+   - Both
+   - Neither
+   ANS: 2
+Q19: 'Postnatal diastasis recto? The most effective to diagnosis?'
+   - MRI
+   - CT
+   - US
+Q20: ''
+
+=== Page 328 === [Others - Endocrine]
+Q21: ''
+   ANS: 4
+Q22: 'Ehag for Bee Which of the following musculoskeletal problems is common during th'
+   - Heel spur
+   - Back pain
+   - Hip arthritis
+   - knee ligament injury
+Q23: ''
+
+=== Page 329 === [Others - Endocrine]
+Q24: ''
+   ANS: 1
+Q25: 'Which of the following is the most likely cause of back pain in pregnant women?'
+   - Stress
+   - Weight gain
+   - Muscle weakness
+   - Ligamentous laxity
+Q26: ''
+
+=== Page 330 === [Others - Endocrine]
+Q27: ''
+   ANS: 1
+Q29: ''
+   ANS: 1
+Q28: ''
+
+=== Page 331 === [Others - Endocrine]
+Q30: ''
+   ANS: 4
+Q31: ''
+   ANS: 4
+Q32: ''
+
+=== Page 332 === [Others - Endocrine]
+Q33: ''
+   ANS: 1
+Q34: ''
+   ANS: 3
+Q35: ''
+   ANS: 1
+Q36: ''
+
+=== Page 333 === [1- Place the electrodes over the upper abdominals during the first stages of labor and over the]
+Q37: ''
+   ANS: 2
+Q38: ''
+   ANS: 4
+Q39: ''
+
+=== Page 334 === [Others - Endocrine]
+Q40: ''
+   ANS: 2
+Q41: ''
+
+=== Page 335 === [SKIPPED]
+=== Page 336 === [OTHERS]
+
+=== Page 337 === [OTHERS]
+Q1: 'Twenty-four hours following a major thermal burn, a patient experiences syncope '
+   - orthostatic hypotension
+   - extreme pain
+   - intravascular hypovolemia
+   - massive infection
+Q2: ''
+Q3: ''
+Q4: ''
+Q5: ''
+Q6: 'Burn affecting epidermis and superficial part of dermis:'
+   - superficial partial thickness
+   - Deep partial thickness
+   - Full thickness A patient is referred to physical therapy services for care of a 
+   - Electrical
+   - Superficial partial thickness
+   - Deep partial thickness
+   - Full thickness which is incorrect about burn in shoulder and pectoral region:
+   - put airplane splint
+   - put in ext and abduction
+   - put in flex add int rot Burn at shoulder & arm avoid
+   - Airplane splint
+   - Abduction
+   - Adduction & internal rotation Patient has third degree burn in the anterior aspe
+   - put the neck in hyper extension
+   - put the neck in flexion to avoid deformity
+   - put the neck in side bending.
+
+=== Page 338 === [Others - Paediatrics]
+Q7: ''
+Q8: ''
+Q9: ''
+Q10: ''
+Q11: 'A 35 years old patient with third degree burns affecting the shoulder and axilla'
+   - always mobilize the shoulder into flexion, abduction and external rotation.
+   - positioning in adduction and internal rotation assist in healing.
+   - airplane splint
+   - position with shoulder flexion and abduction To prevent contracture in a newly a
+   - hyperflexion
+   - slight flexion
+   - neutral
+   - extension A 45 year old male presents to the burn unit with partial thickness bu
+   - 9%
+   - 18%
+   - 4.5%
+   - 27% A physical therapist is treating a patient with significant burns over the l
+   - This patient initially experienced an increase in the number of white blood cell
+   - This patient initially experienced an increase in the number of red blood cells
+   - This patient initially experienced an increase in the number of free fatty acids
+   - This patient initially experienced a decrease in fibrinogen.
+
+=== Page 339 === [Others - Paediatrics]
+Q13: ''
+Q12: ''
+Q14: ''
+Q15: ''
+Q16: 'What is the major concern of the physical therapist treating a patient with an a'
+   - Range of motion
+   - Fluid retention
+   - Helping the family copes with the injured patient.
+   - Home modification on discharge. A therapist is treating an acute full-thickness 
+   - Hip flexion, knee extension, and ankle dorsiflexion
+   - Hip extension, knee flexion, and ankle plantarflexion.
+   - Hip extension, knee extension, and ankle dorsiflexion
+   - Hip flexion, knee extension, and ankle plantarflexion Burn in the body’s respons
+   - heat and cold
+   - chemicals
+   - electricity and radiation
+   - all of the above Which of the following is the best and first treatment for a wo
+   - Lidocaine
+   - Dexamethasone
+   - Silvadene
+   - Elase Which of the following is the next response of the leukocytes after emigra
+   - Margination
+   - Pavementing
+   - Adhesion
+   - Engulfment
+
+=== Page 340 === [SKIPPED]
+=== Page 341 === [5 A _ Therapeutic Exercises]
+
+=== Page 342 === [Therapeutic Modalities - Therapeutic Exercises]
+Q1: 'the convex-concave role of the knee joint in open chain movement 1-Tibia roll an'
+   ANS: 1
+Q2: 'Which of the following is associated with the property to assume a greater lengt'
+   - Elasticity
+   - Plasticity
+   - Flexibility
+   - Extensibility
+   ANS: 3
+Q3: ''
+
+=== Page 343 === [Therapeutic exercises are movements and physical activities designed to restore function and]
+Q4: 'which statement is incorrect about the passive movement to'
+   - passive movement segment must hold gently.
+   - proximal part must be supported.
+   - passive movement from proximal to distal to increase lymph and venous return.
+   ANS: 3
+Q5: 'Which of the following is most commonly associated with a systematic exercise pl'
+   - Flexibility
+   - Endurance
+   - Therapeutic
+   - Coordination
+   ANS: 3
+Q6: 'Accessory movement is not:'
+   - necessary to completion of joints ROM.
+   - Passively occur.
+   - under voluntary control.
+Q7: ''
+
+=== Page 344 === [Therapeutic Modalities - Therapeutic Exercises]
+Q8: 'Joint play ROM which occurs not named with:'
+   - necessary to completion of joints ROM.
+   - Passively occur.
+   - under voluntary control.
+   ANS: 3
+Q9: 'During underwater exercises which will be difficult'
+   - moving the limb horizontally.
+   - moving the limb toward the bottom (against the bouncy force of water).
+   - moving the limb to the surface.
+   ANS: 2
+Q10: ''
+
+=== Page 345 === [Therapeutic Modalities - Therapeutic Exercises]
+Q11: 'Which of the following types of stretching is associated with repeated movements'
+   - Static
+   - Ballistic
+   - Dynamic
+   ANS: 2
+Q12: 'If muscles co contract in equal force. Co-contraction of the biceps brachii and '
+   - flexion
+   - extension
+   - isometric
+   - supination
+   ANS: 3
+Q13: ''
+
+=== Page 346 === [Therapeutic Modalities - Therapeutic Exercises]
+Q14: 'A 65 - year - old man with Congestive Heart Failure is referred to the Physical '
+   - Chair - stand
+   - 6 - minute walk
+   - Time up and go
+   - Physical performance OD
+   - Heart rate
+   ANS: 2
+Q15: ''
+
+=== Page 347 === [Therapeutic Modalities - Therapeutic Exercises]
+Q16: 'Which of the following is the general recommendation regarding exercise for norm'
+   - Low intensity
+   - High intensity
+   - Extreme intensity
+   - Moderate intensity
+   ANS: 4
+Q17: 'A 37-year-old presented woman with vaginal prolapse, which developed 6 months ag'
+   - Functional exercises.
+   - Lumbar stabilization.
+   - Manual stretch facilitation.
+   - Isolated muscle contraction training.
+Q18: ''
+
+=== Page 348 === [Therapeutic Modalities - Therapeutic Exercises]
+Q19: 'A 65-year-old patient who suffered a stroke has been referred to rehabilitation '
+   - Slow reversal hold
+   - Rhythmic initiation
+   - Placing and holding
+   - Alternating isometrics
+   ANS: 1
+Q20: ''
+
+=== Page 349 === [Therapeutic Modalities - Therapeutic Exercises]
+Q21: 'Which of the following is most effective in mobility in patients with asthma?'
+   - Hypnotics
+   - Beta agonist
+   - H2 receptor antagonist
+   - Beta adrenergic blockers
+   ANS: 2
+Q22: 'Which of the following training exercises is defined as overall lengthening of t'
+   - Eccentric
+   - Isometric
+   - Concentric
+   - Open chain
+   ANS: 1
+Q23: ''
+
+=== Page 350 === [Therapeutic Modalities - Therapeutic Exercises]
+Q24: 'If the proximal bone of the joint is fixed and the distal part of the limb moves'
+   - ACL training
+   - Closed-chain exercise
+   - Open-chain exercise
+   ANS: 3
+Q25: 'Which of the following is most commonly associated with a systematic exercise pl'
+   - Flexibility
+   - Endurance
+   - Therapeutic
+   - Coordination
+   ANS: 3
+Q26: ''
+
+=== Page 351 === [Which of the following is the most appropriate description of the therapeutic exercises for]
+Q27: 'Which of the following is the most appropriate description of the therapeutic ex'
+   - Mobility
+   - Flexibility
+   - Endurance
+   - Coordination
+   ANS: 4
+Q28: '21-year-old female patient presents with neck pain and stiffness that has gradua'
+   - Closing technique for the mid- thoracic spine.
+   - Closing manipulation in extension for C5-C6.
+   - Gapping manipulation in flexion for C5-C6.
+   - Flexion/opening manipulation for mid-thoracic spine.
+   ANS: 2
+Q29: ''
+
+=== Page 352 === [Therapeutic Modalities - Therapeutic Exercises]
+Q30: 'Generally the ROM not depends on:'
+   - bony structure.
+   - elasticity of muscle , ligament and tendon.
+   - tightness of muscle, ligament and tendon.
+   - bulk of the soft tissue.
+   ANS: 4
+Q31: 'During weight bearing, a soft tissue contracture resulting in supination of the '
+   - pronation of the forefoot.
+   - pronation of the rear foot.
+   - supination of the rear foot.
+   - pronation of the forefoot and rear foot.
+   ANS: 2
+Q32: 'After strengthening exercises for elderly, what should be done to prevent OA in '
+   - Stretching
+   - non weight bearing
+   - flexibility
+   - resistive training
+Q33: ''
+
+=== Page 353 === [Therapeutic Modalities - Therapeutic Exercises]
+Q34: ''
+
+=== Page 354 === [SKIPPED]
+=== Page 355 === [5.B Electro & Hydro therapy]
+
+=== Page 356 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q1: 'You apply TENS for a patient and you find sever pain, what would you do?'
+   - decrease frequency
+   - increase wave length
+   - decrease pulse width
+   - switch off devic
+   ANS: 1
+Q2: ''
+Q3: 'Electrotherapy has physiological effect of heat that not dependent on which of t'
+   - type of the wave
+   - size of the area to be treated
+   - duration of the application
+   - way application
+   ANS: 1
+
+=== Page 357 === [Irritation and burns, and it also should be used at low frequency (1-10)Hz, low amplitude, and]
+Q5: 'Burn is a response to thermal insult from external agent such as:'
+   - heat and cold
+   - chemicals
+   - electricity and radiation
+   - all of the above
+   ANS: 1
+Q6: ''
+Q4: 'Applied electrical stimulation to area for long lasting period cause: 1-skin irr'
+
+=== Page 358 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q7: ''
+   ANS: 4
+Q8: 'In electrical stimulation intensity for muscle contraction (shortening) depend o'
+   - shape of current and electrical device used
+   - Duration of ttt
+   - Size of electrodes
+   - Intensity and frequency of current
+   ANS: 4
+Q9: 'Type of laser used in PT ttt :'
+   - High
+   - Soft
+   - Mid
+Q10: ''
+
+=== Page 359 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q11: 'Electrical stimulation duration to produce smooth muscle contraction?'
+   - 1
+   - 2
+   - 3
+   - 4
+   ANS: 3
+Q12: ''
+   ANS: 3
+Q13: ''
+
+=== Page 360 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q14: 'Which type of laser is used by a physical therapist as its depth of penetration '
+   - Soft
+   - Mid
+   - Power
+   - Deep
+Q15: ''
+   ANS: 2
+Q16: ''
+   ANS: 1
+
+=== Page 361 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q17: 'All the following are from the characteristic of laser except:'
+   - coherence
+   - collimation
+   - attenuation
+   - monochromaticity
+   ANS: 3
+Q18: 'In radiating energy when we use it 30 inch from the patient then change it to 15'
+   - radiating energy will become 4 times
+   - no changes in it
+   - will be increased 2 times
+   ANS: 1
+Q19: ''
+
+=== Page 362 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q20: 'A patient with supraspinatus tendonitis is undergoing ultrasound therapy, When t'
+   - Adduction and internal rotation
+   - Adduction and external rotation
+   - Abduction and external rotation
+   - Slight abduction and internal rotation
+Q22: ''
+   ANS: 1
+Q21: ''
+   ANS: 4
+Q23: ''
+
+=== Page 363 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q24: ''
+   ANS: 4
+Q25: 'U.S can be mostly absorbed by skeletal muscle as it mostly contain:'
+   - adipose tissue
+   - connective tissue
+   - nerve endings
+   ANS: 2
+Q26: ''
+   img[0] KEPT page_363_img_0.png
+
+=== Page 364 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q27: 'Which of the following is the most appropriate characteristic of a beam of thera'
+   - Roughly cylindrical
+   - Uniform intensities
+   - More scattered in the far-field
+   - Extreme irregular near the zone
+   ANS: 3
+Q28: 'Which of the following results from changes to quartz in an ultraviolet apparatu'
+   - Arsenium
+   - Theraktin
+   - Tridymite
+   - Zirconate
+Q29: ''
+
+=== Page 365 === [cutaneous electrical neuromuscular stimulation(TENS) unit should be used to help control]
+Q30: ''
+   ANS: 2
+Q31: 'A 63-year-old woman presents to physical therapy with a diagnosis of herpes zost'
+   - Posterior thigh
+   - Lateral hip/greater trochanter area
+   - Anterior thigh
+   - Anterior lateral tibia
+   ANS: 4
+Q32: ''
+
+=== Page 366 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q33: 'T.E.N.S frequency :'
+   - 10 -70 HZ
+   - 12 -20HZ
+   - 5 - 50Hz
+   - 1 - 250 Hz
+   ANS: 4
+Q34: 'Which of the following is the therapeutic frequency of shortwave diathermy?'
+   - 27.12 kHz
+   - 27.12 MHz
+   - 27.12 GHz
+   - 27.12 THz
+   ANS: 2
+Q35: 'Frequency that can make titanic muscle contraction:'
+   - 50
+   - 30
+   - 20
+Q36: ''
+   ANS: 1
+
+=== Page 367 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q37: 'When using ultrasound in treating chronic bursitis of hip, the most benefit migh'
+   - 1 MHz and 1.5 Watts/cm2
+   - 1 MHz and 0.5 Watts/cm2
+   - 3 MHz and 1.5 Watts/cm2
+   - 3 MHz and 0.5 Watts/cm2
+   ANS: 1
+Q38: 'Which of the following is the most appropriate maximum dosage, in Wcm-2, of Ultr'
+   - 1.0
+   - 1.5
+   - 2.0
+   - 2.5
+   ANS: 2
+Q39: ''
+
+=== Page 368 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q40: 'A patient comes with severe low back pain. After examination, the therapist plan'
+   - Fracture
+   - Allergies
+   - Hypertension
+   - Cardiac pacemaker
+   ANS: 4
+Q41: 'Which of the following theories support the use of a transcutaneous electrical n'
+   - Gate control theory
+   - Sensory interaction theory
+   - Central summation theory
+   - None of the above
+   ANS: 1
+Q42: ''
+
+=== Page 369 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q43: 'When treating chronic pain which type of TENS used:'
+   - brief
+   - conventional
+   - burst
+   - acupuncture
+   ANS: 4
+Q44: 'Patient has chronic brachialgia which is the best TENS use:'
+   - conventional
+   - low frequency
+   - burst
+   - intense
+   ANS: 2
+Q45: ''
+
+=== Page 370 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q46: 'Patient with elbow pain for 5 months and just stopped playing tennis, which type'
+   - Conventional TENS
+   - Acupuncture like TENS
+   - Brief intense TENS
+   - Bust TENS
+   ANS: 2
+Q47: 'What is the best modality to use prior to stretching to prepare the muscle?'
+   - hot pack
+   - cold  aapplication
+   ANS: 1
+Q48: ''
+
+=== Page 371 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q49: 'A 75-year-old patient with severe osteoarthritis has been admitted to a nursing '
+   - Cane
+   - Walker
+   - Hot modalities, exercises and walking program
+   - Cold application, exercises and walking Program
+   ANS: 3
+Q50: 'What is the best modality to use after muscle soreness?'
+   - Ice aplication
+   - hot pack
+   ANS: 1
+Q51: ''
+
+=== Page 372 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q52: 'Which of the following is the most appropriate combination of superficial heatin'
+   - Hot pack, wax bath, hydrotherapy, and infrared
+   - Microwave, hot pack, hydrotherapy, and hot water bath
+   - Hydrocollator, paraffin wax bar, hydrotherapy, and ultrasound
+   - Electric heat pad, fluid therapy diathermy and infrared
+   ANS: 1
+Q53: 'When patient coming for you has limited ROM due to edema in addition to leg elev'
+   - faradic
+   - TENS
+   - Galvanic
+   - didynamic
+   ANS: 1
+Q54: ''
+
+=== Page 373 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q55: 'Decrease edema in ankle joint by :'
+   - Galvanic Stimulation
+   - Interferential
+   - Russian current
+   - Monophonic rectangular
+   ANS: 1
+Q56: 'Decrease edema in ankle joint by:'
+   - H.V.G.S (high voltage galvanic stimulation)
+   - Interferential
+   - Mono phasic rectangular
+   - Russian current
+   ANS: 1
+Q57: 'Therapist use electrical method for pumping action with limb elevated and compre'
+   - decrease edema
+   - increase circulation
+   - increase venous return
+Q58: ''
+
+=== Page 374 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q59: 'Which current used for wound healing?'
+   - TENS
+   - faradic
+   - diadynamic
+   - high voltage galvanic
+   ANS: 4
+Q60: 'Contraction of muscle by electrical stimulation which not occur:'
+   - increase demand of oxygen
+   - increase metabolic rate
+   - Increase waste out
+   - vasoconstriction of blood vessels
+   ANS: 4
+Q61: ''
+
+=== Page 375 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q62: 'All of the following are physiological effect of electrical stimulation except:'
+   - Vasoconstriction of blood vessels
+   - Increase blood flow
+   - Increase metabolic rate
+   ANS: 1
+Q63: 'The rate of electrical nerve stimulation through the skin:'
+   - 10-70 cycle/second or Hz
+   - 35-120 cycle/second or Hz
+   - 50-150 cycle/second or Hz
+   - 15-200 cycle/second or Hz
+Q64: ''
+   ANS: 3
+
+=== Page 376 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q65: 'Heating with (E.S) which is not correct?'
+   - V.D
+   - Decrease metabolic-rate
+   - Decrease muscle spasm
+   ANS: 2
+Q66: 'Electrical nerve stimulation frequency is:'
+   - 23-120
+   - 50-150
+   - 10-70
+   ANS: 2
+Q67: 'A 58-year-old patient comes to the Physical Therapy Clinic with lower back pain '
+   - Increased blood viscosity
+   - Generalized vasodilatation
+   - Generalized vasoconstriction
+   - Increased peripheral resistance
+Q68: ''
+
+=== Page 377 === [Shortwave diathermy uses high-frequency electromagnetic energy to generate heat by con­]
+Q69: 'Which of the following is an example of monophasic current?'
+   - Faradic
+   - Russian
+   - Diadynamic
+   - Interferential
+   ANS: 3
+Q70: 'SWD transfers energy by:'
+   - convection
+   - conversion
+   - conduction
+   - radiofrequency
+   ANS: 2
+Q71: ''
+
+=== Page 378 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q72: 'Your plan of care includes use of iontophoresis in the management of calcific bu'
+   - monophasic twin peaked pulses using the positive pole
+   - monophasic twin peaked pulses using the negative pole
+   - continuous monophasic using the positive pole
+   - continuous monophasic using the negative pole
+   ANS: 4
+Q73: 'What is your best first treatment/ intervention of chronic tennis elbow patient?'
+   - immobilization
+   - range of motion exercises ROM
+   - pulsed current / US
+   - splint
+   ANS: 3
+Q74: ''
+
+=== Page 379 === [- decreasing inflammation in the subacute and chronic musculoskeletal conditions.]
+Q75: ''
+   ANS: 3
+Q76: ''
+
+=== Page 380 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q77: 'Maximum ultrasound frequancy:'
+   - 3 MHz
+   - 5 MHz
+   - 2 MHz
+   ANS: 1
+Q78: 'A patient is being treated with iontophoresis, driving dexamethasone, for inflam'
+   - Alternating current
+   - Direct current
+   - Pulsed current
+   - Transcutaneous electrical nerve stimulation
+   ANS: 3
+Q79: ''
+
+=== Page 381 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q80: 'An elderly obese woman is diagnosed with a fracture in the neck of the right fem'
+   - Hot packs
+   - Whirlpool
+   - Cryotherapy
+   - Shortwave diathermy
+   ANS: 4
+Q81: 'Patient with a contaminated surgical wound on lumbar region, what would you use '
+   - infrared
+   - ultraviolet
+   - shortwave
+   - low laser
+   ANS: 2
+Q82: ''
+
+=== Page 382 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q83: 'Patient coming with industrial burn involved the dorsum muscle of the left hand '
+   - continues direct current
+   - faradic current
+   - interrupted direct current
+   ANS: 1
+Q84: ''
+
+=== Page 383 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q85: 'To treat patient with deep heat, which is not form of deep heat:'
+   - SWD
+   - MWD
+   - IR ( infra-red)
+   - US (ultra sound)
+   ANS: 3
+Q86: 'Which of the following physiological effects is considered as an indirect effect'
+   - Muscle relaxation
+   - Increased blood flow
+   - Increased metabolism
+   - Stimulation of the neural receptors
+   ANS: 1
+Q87: 'When use iontophoresis; it is a type of:'
+   - low frequency TENS
+   - HVGS
+   - Direct current
+   - Russian current
+   ANS: 3
+Q88: ''
+
+=== Page 384 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q89: 'What is the type of electrical current that is used during lontophoresis?'
+   - Ultrasonic
+   - Direct current
+   - Galvanic current
+   - Low-frequency TENS
+   ANS: 2
+Q90: 'The therapist has given a patient an ultraviolet treatment. The patient calls th'
+   - Sub-erythemal dose
+   - Minimal erythemal dose
+   - First-degree erythemal dose
+   - Third-degree erythemal dose
+Q91: ''
+   ANS: 3
+   img[0] KEPT page_384_img_0.png
+
+=== Page 385 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q92: 'After exposure to U.V.R patient of come with pigmentation due to release:'
+   - histamine
+   - melanin
+   - bradykinin
+   - endorphin
+   ANS: 2
+Q93: 'Pt has pain due to deep muscle strain we use:'
+   - Pulsed U/S 1MHZ
+   - Pulsed 3MHZ
+   - Continous U/S 1 MHZ
+   - continous 3 MHZ
+   ANS: 1
+Q94: 'What is best for scar tissue:'
+   - ultra sound
+   - infrared
+   - shortwave
+   ANS: 1
+Q95: ''
+
+=== Page 386 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q96: 'A therapist is treating a patient with an infected wound at the lower lumbar are'
+   - Short wave
+   - Ultrasound
+   - Ultraviolet ray
+   - Low-level laser therapy
+   ANS: 3
+Q97: 'Which of the following can make hypersensitivity?'
+   - TENS
+   - Infrared
+   - UV
+   - US
+   ANS: 3
+Q98: 'What is the best electrical modalities chosen to treat infective wound?'
+   - low level laser
+   - UV
+   - Galvanic Stimulation
+Q99: ''
+
+=== Page 387 === [cern that electrical stimulation could cause electromagnetic interference with pacemakers and]
+Q100: 'A 48-year-old patient with pelvic floor muscle weakness treated by physical ther'
+   - TENS
+   - Infrared
+   - Ultrasonic
+   - Interferential
+   ANS: 4
+Q101: 'contraindication in TENS stimulation ?'
+   - Heart pacemaker
+   - Infected wounds
+   ANS: 1
+Q102: ''
+
+=== Page 388 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q103: 'A therapist is treating a patient with a strain at one of the deep muscles and w'
+   - Pulsed 1 MHz
+   - Pulsed 3 MHz
+   - Pulsed 5 MHz
+   - Non-pulsed 1 MHz
+   ANS: 1
+Q104: 'A 25-year-old patient comes to the Physical Therapy Clinic with scar tissue at t'
+   - Painful 2-Pliable
+   - Inflamed
+   - Hardness
+   ANS: 2
+Q105: ''
+
+=== Page 389 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q106: 'A 40-year-old woman presented to the physical therapy clinic with hand pain. The'
+   - Increases in pain
+   - Stiffness of joints
+   - Local hyperemia
+   - Reflex vasoconstriction
+   ANS: 3
+Q107: 'Muscle reeducation In comparing the use of cold pack and hot pack treatments, wh'
+   - Cold packs penetrate more deeply than hot packs.
+   - Cold increases the viscosity of fluid and heat decreases the viscosity of blood.
+   - Cold decreases spasm by decreasing sensitivity to muscle spindles and heat decre
+   - Cold decreases the rate of oxygen uptake, and heat increases the rate of oxygen 
+   ANS: 3
+Q108: ''
+
+=== Page 390 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q109: 'A 58-year-old woman presented with severe hip pain. She has been taking steroids'
+   - Shoe raise
+   - Walking stick
+   - Shortwave diathermy
+   - Modified seating system
+   ANS: 3
+Q110: 'Use of shortwave diathermy and microwave diathermy is not contraindicated in whi'
+   - On a patient who has a pacemaker.
+   - Over the site of a metal implant.
+   - On a patient who has hemophilia.
+   - Using pulse shortwave over an acute injury.
+   ANS: 4
+Q111: ''
+
+=== Page 391 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q112: 'Short wave (SWD) contraindications:'
+   - Phlebitis
+   - Sprain
+   - Muscle strain
+   - Hematoma
+   ANS: 1
+Q113: 'SWD contraindication is:'
+   - hematoma
+   - arterial insuffiency
+   - sinusitis
+   ANS: 2
+Q114: ''
+
+=== Page 392 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q115: 'Which of the following is the main contraindication to deep heat?'
+   - Pain
+   - Metal
+   - Spasticity
+   - Contracture
+   ANS: 2
+Q116: 'Which of the following is contraindicated to ultrasound at 1.5 watts/cm2 with a '
+   - Over a recent fracture site.
+   - Over non-cemented metal implant.
+   - Over a recently surgically repaired tendon.
+   - Over the quadriceps muscle belly.
+   ANS: 3
+Q117: 'When using electrical stimulation with a unit that plugs into the wall, the ther'
+   - Never placing the unit in close proximity to water pipes while treating the pati
+   - Never using an extension cord when using a plug-in unit.
+   - Always adjusting the intensity of stimulation during the off portion of the cycl
+   - Both A and C are measures that are not likely to increase safety.
+Q118: ''
+
+=== Page 393 === [Which of the following precautions during electromagnetic application?]
+Q119: 'A patient is receiving electrical stimulation for muscle strengthening of the le'
+   - Monopolar
+   - Tripolar
+   - Quadripolar
+   - Bipolar
+Q120: 'A physician has ordered a specific type of electrical stimulation that utilizes '
+   - Iontophoresis
+   - Transcutaneous electrical nerve stimulation
+   - Intermittent flow configuration
+   - Russian stimulation
+   ANS: 4
+Q121: 'How to check shortwave before application?'
+   - Neon light
+   - Warmth of electrodes
+Q122: ''
+
+=== Page 394 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q123: 'Infrared can cause burn, what’s distance should be between patient and the devic'
+   - 75 cm
+   - 30 cm
+   - 10 cm
+   - 40 cm
+   ANS: 1
+Q124: 'A 35-year-old patient presented to the Physical Therapy Clinic with elbow pain. '
+   - Lamp
+   - Water bath
+   - Sound meter
+   - Energy meter
+   ANS: 2
+Q125: ''
+
+=== Page 395 === [sclerosis. In the patient’s chart is an electromyography report and nerve conduction veloc­]
+Q126: 'Which of the following statements is false about treatment with infrared lamps?'
+   - Near infrared heats deeper than far infrared.
+   - Infrared lamps heat both sides of an extremity at one time.
+   - The therapist can change the intensity of the heat by changing the angle between
+   - The beam and the body part being treated.
+   ANS: 2
+Q127: 'Ultrasonic under water technique the head will be:'
+   - one inch from the part
+   - 3 inch from the part
+   - keep in the constant motion
+Q128: 'A therapist is treating a patient with a venous insufficiency ulcer over the med'
+   - Warm whirlpool
+   - Unna boot dressing between therapy sessions
+   - Intermittent compression pump
+   - B and C
+Q129: 'Physical therapist is ordered to evaluate a patient in the late stages of amyotr'
+   - Fibrillation potentials
+   - Polyphasic motor unit potentials.
+   - Decreased sensory evoked potentials
+   - A and B only
+Q130: ''
+
+=== Page 396 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q131: 'Coupling media of ultrasonic which of the following of least effect:'
+   - aquatic gel
+   - glycerol
+   - liquid paraffin
+   - crrogel
+   ANS: 3
+Q132: 'For denervated ms we use at least:'
+   - 10 m.sec
+   - 50 m.sec
+   - 100 m.sec
+   - 300 m.sec
+   ANS: 3
+Q133: 'In Bell`s palsy we use:'
+   - continues direct frequency current
+   - T.E.N.S
+   - Interrupted direct current
+   ANS: 3
+Q134: ''
+
+=== Page 397 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q135: 'One of these electrical stimulation methods does not stimulate denervated muscle'
+   - high voltage interrupted long duration
+   - TENS
+   - galvanic
+   - faradic
+   ANS: 2
+Q136: 'Pt of bells palsy long time treated with (E.S) you:'
+   - M.S weakness
+   - no change
+   - fibrosis in the affected side
+   ANS: 3
+Q137: 'When applying electrical muscle stimulation how many contraction occur per sessi'
+   - 10 cont
+   - 16 cont
+   - 1 cont
+   - 5 cont
+Q138: ''
+
+=== Page 398 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q139: 'During immersion technique in paraffin wax, the temperature will be:'
+   - 37-41
+   - 41-43
+   - 43-47
+   - 47-51
+   ANS: 2
+Q140: 'Wax bathes are available in many variations of size and shape. The melted was ne'
+   - 30°- 35°C
+   - 40°- 44°C
+   - 50° - 53°C
+   ANS: 2
+Q141: 'Which of the following is the ideal temperature, in degrees, centigrade for a hy'
+   - 40-49
+   - 50-59
+   - 70-79
+   - 90-99
+   ANS: 3
+Q142: ''
+
+=== Page 399 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q143: 'Ice massaging is contraindicated with:'
+   - Inflammation
+   - Raynaud’s disease
+   - Muscle spasm
+   - Acute burn
+   ANS: 2
+Q144: 'Which of the following pathological conditions is contraindicated for the applic'
+   - Spasticity
+   - Muscle spasm
+   - Raynaud’s disease
+   - Late-stage of recovery following nerve injury
+   ANS: 3
+Q145: 'Therapist is treating a new patient with a diagnosis of lateral epicondylitis. T'
+   - Analgesic, anode.
+   - Analgesic, cathode
+   - Anti-inflammatory, anode
+   - Anti-inflammatory, cathode
+Q146: ''
+
+=== Page 400 === [Therapeutic Modalities - Electro & Hydro therapy]
+Q147: 'Apist routinely places ice on the ankle of a patient with an acute ankle sprain.'
+   - Vasoconstriction of local vessels
+   - Decreased nerve conduction velocity
+   - Decreased local sensitivity
+   - All occur simultaneously
+   ANS: 1
+Q148: 'Tool provide physiotherapist with visual and auditory signals to monitor muscle '
+   - Biofeedback
+   - EMG
+   ANS: 2
+Q149: ''
+
+=== Page 401 === [SKIPPED]
+=== Page 402 === [6.A Quiz Bank]
+
+=== Page 403 === [ANATOMY]
+Q1: 'ANATOMY A physical therapist attempts to palpate the lunate by moving his finger'
+   - extension
+   - flexion
+   - radial deviation
+   - ulnar deviation
+Q2: 'When evaluating forearm muscles, the therapist asks the patient to flex the elbo'
+   - Anconeus
+   - Biceps brachi
+   - Brachioradialis
+   - Flexor digitorum profundus
+Q3: 'A 56-year-old man presents to the clinic after 1 month of right forearm pain. Ph'
+   - Brachialis
+   - Biceps brachii
+   - Triceps brachii
+   - Brachioradialis
+Q4: 'A physical therapist reviews a physician’s examination of a patient scheduled fo'
+   - annular
+   - radial collateral
+   - ulnar collateral
+   - volar radioulnar
+Q5: ''
+
+=== Page 404 === [VIP - Quiz bank]
+Q6: 'Which of the following joints of the upper limb do protraction and retraction ta'
+   - Glenohumeral
+   - Sternoclavicular
+   - Acromioclavicular
+   - Scapulothoracic interface
+Q7: 'Which of the following characteristics is unique to the cervical spine?'
+   - Flat erticular surfoces
+   - Facet joints angled at 45°
+   - Joints of Luschka provide lateral stability
+   - Opposite movement at atlantoaxial joint
+Q8: 'A 28-year-old patient with quadriceps muscles weakness, during evaluation, the t'
+   - Vastus lateralis
+   - Rectus femoris
+   - Vastus medialis
+   - Vastus intermedius
+Q9: 'You are a home therapist treating a patient who underwent a total hip replacemen'
+   - Poor abdominal strength
+   - Tight hamstrings muscles
+   - Tight iliopsoas muscle
+   - Tight piriformis muscle
+Q10: ''
+Q11: 'Which of the following is the most likely cause of  loss  of consciousness follo'
+   - Pain
+   - Fright
+   - Low heart rate
+   - Low blood pressure
+
+=== Page 405 === [CARDIOPULMONARY]
+Q1: 'CARDIOPULMONARY The electrical signal responsible for heart contraction begins i'
+   - Top of the left atrium
+   - Top of the right atrium
+   - Posterior surface of the left ventricle
+   - Posterior surface of the right ventricle
+Q2: 'In patient with coronary heart disease which of these is irreversible:'
+   - past history of peripheral vascular disease
+   - smoking
+   - hypertention
+   - hyperlipidemia
+Q3: 'A 72 year-old is recovering at home from a myocardial infarction and percutaneou'
+   - 82%
+   - 75%
+   - 92%
+   - 85%
+Q4: ''
+Q5: 'Which of the following is another name of “tuberculosis” of the spine?'
+   - Still’s disease
+   - Pott’s disease
+   - Little’s disease
+   - Legg-Calvé Perthes disease
+Q6: 'Which of the following is described as covering the entire muscle?'
+   - Actin
+   - Epimysium
+   - Perimysium
+   - Endomysium
+
+=== Page 406 === [VIP - Quiz bank]
+Q7: 'A physical therapist prepares to perform manual vibration as a means of airway c'
+   - contact with a cupped hand.
+   - contact with the entire palmar surface of the hand.
+   - contact with the ulnar border of the hand.
+   - contact with the distal phalanx of the middle finger.
+Q8: 'Which of the following is the main advantage of semi- fowler position for chest '
+   - Efficacy
+   - Better access
+   - Gravity assists
+   - Patient comfort
+Q9: 'As a general rule of prescribing exercise for any patient, the therapist must ca'
+   - Determine the type of exercise.
+   - Determine the intensity of exercise.
+   - Determine the duration of exercise.
+   - Determine the freguency of exercise.
+Q10: 'A physical therapist designs an exercise program for a patient rehabilitating fr'
+   - the recovery time between exercise sets.
+   - the number of repetitions per set.
+   - the duration of the exercise session.
+   - the intensity of the exercise.
+Q11: ''
+
+=== Page 407 === [VIP - Quiz bank]
+Q12: 'An older person with diagnosis of congestive heart failure (CHF) should recogniz'
+   - dizziness, visual blurring especially with turns and quick movements.
+   - Overwhelming weakness with difficulty in standing up and walking.
+   - Severe, uncomfortable chest pain with shortness of breath.
+   - Shortness of breath at rest and with limited activity, and sudden weight gain.
+Q13: 'The lung is inflated at all times, under normal conditions, without collapsing, '
+   - Forced vital capacity
+   - Expiratory reserve volume
+   - Inspiratory reserve volume
+   - Dead space volume and lung compliance
+Q14: 'A patient with”Buerger’s disease” has been referred to aphysical therapist to as'
+   - Improving venous return
+   - Establishing collateral circulation
+   - Increasing strength of the calf muscles
+   - Reducing muscle spasm to reduce pain
+Q15: 'A middle-aged man is admitted to the Stroke Unit following basal ganglia bleed. '
+   - Between C7-T3
+   - Between L5-S1
+   - Between T3-T10
+   - Between 6th intercostal space
+Q16: ''
+
+=== Page 408 === [VIP - Quiz bank]
+Q17: 'Which of the following is the main aim of acute respiratory  distress syndrome t'
+   - Pain relief
+   - Patient comfort
+   - Reduction in respiratory rate
+   - Removal of retained secretions
+Q18: 'A “cerebral embolism” can cause serious cerebrovascular accidents. Which of the '
+   - Lungs
+   - Heart
+   - Superficial leg veins
+   - Cervical lymphatic system
+Q19: 'Which of the following is the most likely cause of difficult expiration in chron'
+   - Reduced lung elasticity
+   - Rapid shallow breathing
+   - Reduced airway diameter
+   - Expiratory muscles fatigue
+Q20: 'A patient presents with a large plantar ulcer that will be debrided in the whirl'
+   - Acute arterial insufficiency
+   - chronic arterial insufficiency
+   - Chronic venous insufficiency
+   - Deep venous thrombosis
+Q21: 'A 65-year-old man with “Congestive Heart Failure” is referred to the Physical Th'
+   - Chair-stand
+   - 6-minute walk Time up and go
+   - Physical performance
+Q22: ''
+
+=== Page 409 === [2- Cardiovascular diseases]
+Q1: 'ORTHOSI & PROSTHESIS The main goal of an ergonomics program is to reduce which o'
+   - Risk of fall and trauma
+   - Cardiovascular diseases
+   - Musculoskeletal disorders
+   - Neurological and psychological disorders
+Q2: 'Hip joint stability depends on which of the following?'
+   - On the bony articulation.
+   - On bony articulations, then ligaments and muscles.
+   - On ligaments, then bony articulations and muscles.
+   - On muscles, then ligaments and bony articulations.
+Q3: 'Patient wearing a below knee prosthesis, complain of pain during walking respons'
+   - keep wearing
+   - refer to physician
+   - refer to orthotics or prosthesis specialist
+   - say him it’s normal initially
+Q4: 'Which of the following statements defines orthosis?'
+   - Device that replaces an absent body part.
+   - Device that supports an existing body part.
+   - Practitioner who designs and fabricates prosthesis.
+   - Field of design and fabrication of the devices to replace a body part.
+Q5: 'One joint hip flexor contracture result:'
+   - no effect on lumber
+   - anterior pelvic tilting with kyphosis
+   - posterior pelvic tilting
+   - anterior pelvic tilt with lordosis
+Q6: ''
+
+=== Page 410 === [VIP - Quiz bank]
+Q7: 'A patient was recently referred to a therapist with a new above-knee prosthesis '
+   - Direct the patient to try to adjust the socket.
+   - Direct the patient to make an appointment with the physician.
+   - Direct the patient not to wear the prosthesis until modifications are made.
+   - Direct the patient to wear the prosthesis at all times because the body will eve
+Q8: 'A physical therapist reviews the medical chart of a patient diagnosed with a fra'
+   - prevent thoracic flexion
+   - prevent thoracic extension
+   - prevent lumbar flexion
+   - prevent lumbar extension
+Q9: 'Following major surgery of the right hip, a patient ambulates with a Trendelenbu'
+   - Right abductors during swing on the right
+   - Right abductors during stance on the right
+   - Left abductors during stance on the right
+   - Left abductors during swing on the right
+Q10: 'Which of the following will be resulted when a physical therapist advises a pati'
+   - Increasing patient falling risk.
+   - Reduce energy expenditure in the normal person.
+   - Reduce the floor reaction force on the opposite foot.
+   - Increase the floor reaction force on the opposite foot.
+Q11: ''
+
+=== Page 411 === [KNOWLEDGE]
+Q12: 'Which of the following shoulder motions is easily visualized in the frontal plan'
+   - Circumduction
+   - Flexion and extension
+   - Abduction and adduction
+   - External and internal rotation
+Q1: 'POSTURE & AXES KNOWLEDGE Which of the following body mass index values is  consi'
+   - 18-20
+   - 21-24
+   - 25-29
+   - 30-34
+Q1: 'A physical therapist attempts to quantify the amount of assistance a patient nee'
+   - interval
+   - nominal
+   - ordinal
+   - ratio
+Q2: 'A patient management model is a comprehensive approach that is designed to guide'
+   - Prognosis
+   - Evaluation
+   - Examination
+   - Intervention
+Q3: ''
+
+=== Page 412 === [VIP - Quiz bank]
+Q4: 'Which of the following factors is classified as a yellow flag?'
+   - Psychosocial factors.
+   - History of carcinoma.
+   - Bladder and bowel malfunction.
+   - Neurological signs and unexplained weight loss.
+Q5: 'A 24-year-old man comes to the clinic with right knee pain that started 3 weeks '
+   - Lateral
+   - Central
+   - Anterior
+   - Posterior
+Q6: 'An athlete comes to the Physiotherapy Department with a right knee injury is und'
+   - Capsular injury
+   - Meniscal injury
+   - Muscular injury
+   - Ligamentous injury
+Q7: 'A 72 year-old woman is being treated for depression following the death of her h'
+   - Cardiac arrhythmias
+   - Dyspnea
+   - hyperalertness
+   - Postural hypotension
+Q8: ''
+
+=== Page 413 === [A patient suffers from burns, which include the epidermis layer of the skin and extend to the]
+Q9: 'A 92 year-old woman presents with hot, red, and edematous skin over the shins of'
+   - Cellulitis
+   - Dermatitis
+   - Herpes simplex infection
+   - Scleroderma
+Q10: 'A physical therapist prepares to administer the Berg Balance Scale to a patient '
+   - reflex hammer
+   - goniometer
+   - stopwatch
+   - stethoscopie
+Q11: 'A physical therapist attempts to obtain information on the ability of noncontrac'
+   - active range of motion
+   - active-assistive range of motion
+   - passive range of motion
+   - resisted isometrics
+Q12: 'A patient suffers from burns, which include the epidermis layer of the skin and '
+   - Sub-dermal
+   - Full-thickness
+   - Deep partial-thickness
+   - Superficial partial-thickness
+Q1: 'POSTURE & AXES'
+
+=== Page 414 === [VIP - Quiz bank]
+Q1: 'A 27-year-old woman who is a 3-month pregnant, presented at the clinic. She has '
+   - Diastasis recti
+   - Placenta previa
+   - Severe anemia
+   - Gestational diabetes
+Q2: 'A 33-year-old man is undergoing conditioning rehabilitation exercises to increas'
+   - Active sympathetic nervous system to increase the availability of oxygen to the 
+   - Active parasympathetic nervous system to increase the availability of oxygen to 
+   - Active sympathetic nervous system to increase the availability of oxygen to the 
+   - Active parasympathetic nervous system to increase the availability of oxygen to 
+Q3: 'A 60-year-old obese, hypertensive, and diabetic patient was  referred for a phys'
+   - 15-minute fast running
+   - 50-minute slow running
+   - 20-minute brisk walking
+   - 30-minute brisk walking
+Q4: ''
+
+=== Page 415 === [ORTHOPEDIC]
+Q1: 'A six month-old child was referred to physical therapy for right torticollis. Th'
+   - extension, left side-bending, and right rotation.
+   - extension, right side-bending, and left rotation.
+   - flexion, left side-bending, and left rotation.
+   - flexion, right side-bending, and left rotation.
+Q2: 'A right hemiplegic patient, who had a left CVA 3  months ago, presented for eval'
+   - Isometric
+   - Isokinetic
+   - Open kinematic
+   - Manual resisted
+Q3: 'Which of the following is the main aim of rehabilitation after “patellofemoral d'
+   - Aerobics
+   - Stretching
+   - Muscle strengthening
+   - Reduce the chances of recurrence
+Q4: 'A 45-year-old patient presented with a 3-week history of severe knee pain. The p'
+   - Meniscal tear
+   - Hamstring strain
+   - Infective arthritis
+   - Degenerative arthritis
+Q5: ''
+
+=== Page 416 === [VIP - Quiz bank]
+Q6: 'Which of the following is another name of “fracture of the distal end of the rad'
+   - Colles
+   - Galeazzi
+   - Bennett’s
+   - Monteggia
+Q7: 'On which of the following nerves cubitus valgus deformity causes a stretch?'
+   - Ulnar
+   - Radial
+   - Median
+   - Peroneal
+Q8: 'A 2-year-old child, spastic diplegic, is brought to the Paediatric Rehabilitatio'
+   - Pavlov harness
+   - Milwaukee brace
+   - Ankle foot orthosis
+   - Denis-Browne splint
+Q9: 'A 42-year-old woman presented to the clinic with right foot  pain 2 weeks ago. D'
+   - Ankle sprain
+   - Stress fracture
+   - Plantar fasciitis
+   - Ankle impingement
+Q10: 'In degenerative joint disease which is not occure?'
+   - increased wih wight bearing on the joint
+   - geadual onset
+   - stiffness at evening
+   - increaser after prolonged period of inactivity
+Q11: ''
+
+=== Page 417 === [VIP - Quiz bank]
+Q12: 'A 40-year-old woman with hip dysfunction is referred to the physical therapy. Th'
+   - Adduction
+   - Extension
+   - Abduction
+   - External rotation
+Q13: 'A middle-aged diabetic patient enters into the Physiotherapy Clinic with right l'
+   - Hip joint pathology
+   - Knee joint pathology
+   - Sacroiliac joint dysfunction
+   - Lumber spine dysfunction
+Q14: 'A 26-year-old weightlifter presented with severe low back pain, radiating to his'
+   - Muscular
+   - Sacroiliitis
+   - Discogenic
+   - Zygapophyseal
+Q15: 'A 40-year-old man presents following a fall. He reports severe radiating pain on'
+   - Ischial bursitis
+   - Piriformis syndrome
+   - Trochanteric bursitis
+   - Quadriceps contusion
+Q16: ''
+
+=== Page 418 === [VIP - Quiz bank]
+Q17: 'A 38-year-old patient complains of right shoulder pain. At the Physical Therapy '
+   - Bicipital tendonitis
+   - Subdeltoid bursitis
+   - Adhesive Capsulitis
+   - Anterior Capsule Strain
+Q18: 'A diagnosis of bicipital tendinitis has been made following an evaluation of a p'
+   - Abduction
+   - external/lateral rotation and extension
+   - Horizontal adduction
+   - internal/medial rotation and abduction
+Q19: 'A 47-year-old woman comes to the clinic for assessment of pain in her right shou'
+   - Teres minor
+   - Teres major
+   - Infraspinatus
+   - Supraspinatus
+Q20: 'A patient is recovering from stroke and demonstrates good recovery in his lower '
+   - initiation of movement
+   - rate control at varying movement speeds
+   - rate control at slow movement speeds
+   - both reaction and movement times
+Q21: ''
+
+=== Page 419 === [VIP - Quiz bank]
+Q22: 'Which of the following types of stretching is associated with repeated movements'
+   - Static
+   - Ballistic
+   - Dynamic
+   - Therapeutic
+Q23: 'Which of the following stretching techniques is associated with the application '
+   - Cyclic
+   - Static Ballistic
+   - Progressive
+Q24: 'A 40-vear-old patient with right above-knee amputation  due to peripheral vascul'
+   - Hold-relax techniques
+   - Active stretching techniques
+   - Passive stretching techniques
+   - Resisted movement for the agonist
+Q25: 'A patient rehabilitating from a radial head fracture is examined in physical the'
+   - contract-relax
+   - hold-relax
+   - maintained pressure
+   - rhythmic stabilization
+Q26: ''
+
+=== Page 420 === [VIP - Quiz bank]
+Q27: 'A physical therapist works with a patient status post stroke on a mat program. T'
+   - alternating isometrics
+   - approximation
+   - rhythmic initiation
+   - timing for emphasis
+Q28: 'If the proximl bone of joint fixed the distal part of joint move in sequence so '
+   - ACL Training
+   - Closed Chain Ex
+   - Open Chain Ex
+   - None Of above
+Q29: 'A 51-year-old patient with “right hemiplegia” was referred to the Outpatient Phy'
+   - Balance
+   - Anaerobic
+   - Endurance
+   - Strengthening
+Q30: ''
+
+=== Page 421 === [VIP - Quiz bank]
+Q1: 'physical therapist identifies that an infant is unable to roll from prone to sup'
+   - asymmetrical tonic neck reflex
+   - Moro reflex
+   - Galant reflex
+   - symmetrical tonic neck reflex
+Q2: 'A physical therapist assesses a one-month-old infant.  During the treatment sess'
+   - Moro reflex
+   - rooting reflex
+   - startle reflex
+   - righting reflex
+Q3: 'A physical therapist completes a developmental assessment on a 7-month old infan'
+   - asymmetrical tonic neck reflex
+   - Moro reflex
+   - Landau reflex
+   - symmetrical tonic neck reflex
+Q4: 'One of the most common congenital anomalies that is discovered immediately after'
+   - Enclosure of pia mater
+   - Enclosure of vertebral body
+   - Hyperextension of knee joint
+   - Lateral curvature of the spine
+Q5: ''
+
+=== Page 422 === [VIP - Quiz bank]
+Q6: 'An appropriate fine motor behavior that should be established by 9 months of age'
+   - build a tower of 4 blocks.
+   - hold a cup by the handle while drinking.
+   - pick up a raisin with a fine pincer grasp.
+   - Transfer objects from one hand to another.
+Q7: 'Which of the following is the most common age, in months for a child to sit with'
+   - 3
+   - 4
+   - 5
+   - 6
+Q8: 'Which of the following ages, in months, do most children display a hand preferen'
+   - 06
+   - 12
+   - 18
+   - 24
+Q9: 'Which of the following is associated with a reduced range of motion secondary to'
+   - Periarticular
+   - Fibrotic contracture
+   - Myostatin contracture
+   - Pseudomyostatic contracture
+Q10: 'A physical therapy plan of care for a newborn with Erb-Klumpke Palsy would NOT i'
+   - Age appropriate movements of the upper extremity.
+   - Gentle ROM after immobilization.
+   - Partial immobilization of limb across abdomen.
+   - Splinting the shoulder in abduction and internal rotation.
+Q11: ''
+
+=== Page 423 === [Which of the following is an objective of  Proprio Neuromuscular Facilitation techniques?]
+Q1: 'Which of the following grades occurs egains resistance duringa muscle testing pr'
+   - Poor
+   - Good
+   - Trace
+   - Normal
+Q2: 'ELECTRO & HYDRO A 25-year-old man with left lateral epicondylitis is treated in '
+   - 100-500 nm
+   - 600-1000 nm
+   - 1500-2000 nm
+   - 2500-3000 nm
+Q1: 'A 35-year-old man presents with a 6-month history of trigeminal neuralgia. Which'
+   - Laser
+   - Ultrasound
+   - Ultraviolet rays
+   - Shortwave diathermy
+Q2: 'Which of the following is most likely to benefit from laser?'
+   - Cancer tissues
+   - Infected tissues
+   - Epileptic patients
+   - Post-traumatic joint disorder
+Q3: ''
+
+=== Page 424 === [VIP - Quiz bank]
+Q4: 'A 63-year-old woman referred to the Physical Therapy Clinic for post-operative t'
+   - Buoyancy
+   - Viscosity
+   - Thermodynamic
+   - Hydrostatic pressure
+Q5: 'Which of the following is most commonly used to reduce  pain?'
+   - Biofeedback
+   - Electromyography
+   - Electrical muscle stimulation
+   - Transcutaneous nerve stimulation
+Q6: 'A 56-year-old man comes to the Physical Therapy Clinic with low back pain for mo'
+   - Radiation
+   - Convection
+   - Conversion
+   - Conduction
+Q7: 'The use of a physical agent, heat transfer, or flow of the thermal energy depend'
+   - Radiation
+   - Conduction
+   - Convection
+   - Conversion
+Q8: ''
+
+=== Page 425 === [VIP - Quiz bank]
+Q9: 'Which medical condition is most commonly prevented by using goggles while receiv'
+   - Infection
+   - Painful eyes
+   - Loss of vision
+   - Conjunctivitis
+Q10: 'Your examination reveals muscle spasms of the deep hip rotators, which are compr'
+   - 1 MHz continuous at 1.0 W/cm2
+   - 1 MHz pulsed at 1.0 W/cm2
+   - 3 MHz continuous at 1.0 W/cm2
+   - 3 MHz pulsed at 1.0 W/cm2
+Q11: 'A 42-year-old woman recently diagnosed with multiple sclerosis presents to a Phy'
+   - Hot bath
+   - Strength training
+   - Application of ice packs
+   - Slightly increased intake of fluids
+Q12: 'A 58-year-old woman presented with severe hip pain. She has been taking steroids'
+   - Shoe raise
+   - Walking stick
+   - Shortwave diathermy
+   - Modified seating system
+Q13: ''
+
+=== Page 426 === [VIP - Quiz bank]
+Q14: 'A patient with Bell’s palsy was referred to the rehabilitation department with a'
+   - Burn
+   - Irritation of the skin
+   - Fibrosis of the affected muscles
+   - No side effect from prolonged electrical stimulation
+Q15: 'A patient with a purulent venous insufficiency ulcer near the left medial malleo'
+   - elastic wraps and daily exercise
+   - daily warm water baths and exercise
+   - daily walking for 30-60 minutes
+   - compression therapy with exercises
+Q16: 'A physical therapist prepares a patient education program for an individual with'
+   - wear shoes that accommodate to the size and shape of your feet.
+   - observe your skin daily for breakdown.
+   - wear your compression stockings only at night.
+   - keep you feet elevated as much as possible throughout the day.
+Q17: ''
+
+=== Page 427 === [VIP - Quiz bank]
+Q1: 'A weight lifter exhibits marked hypertrophy after embarking on a strength traini'
+   - 1-2 weeks of training
+   - 2-3 weeks of training
+   - 3-4 weeks of training
+   - 6-8 weeks of training
+Q2: 'A 25-year-old man comes to the clinic with left knee pain before one week ago. D'
+   - Medial meniscus injury
+   - Lateral meniscus injury
+   - Medial collateral ligament injury
+   - Lateral collateral ligament injury
+Q3: 'A 16-year-old adolescent presented with foot slap on the right side after a frac'
+   - Tibial
+   - Femoral
+   - Obturator
+   - Common peroneal
+Q4: ''
+
+=== Page 428 === [VIP - Quiz bank]
+Q1: 'Which of the following is the appropriate label for “7” in this schematic figure'
+   - Grey matter
+   - Ventral root
+   - Spinal nerve
+   - Dorsal root ganglion
+Q2: 'A patient is referred to physical therapy with a C6 nerve root injury. Which of '
+   - diminished sensation on the anterior arm and index finger.
+   - weakness in the biceps and supinator.
+   - diminished brachioradialis reflex.
+   - paresthesias of the long and ring fingers.
+Q3: 'Which of the following is the most appropriate position for stretching of radial'
+   - Shoulder girdle elevation, full elbow flexion, wrist extension, forearm supinati
+   - Shoulder girdle elevation, abduct shoulder, flexion of elbow, lateral rotate the
+   - Shoulder girdle depression, abduct shoulder, elbow extension, laterally rotate t
+   - Shoulder girdle depression, slightly abduct the shoulder, extend the elbow, medi
+Q4: 'A patient employed in a machine shop is referred to physical therapy with a diag'
+   - electroencephalography
+   - evoked potentials
+   - nerve conduction velocity
+   - electromyography
+Q5: ''
+
+=== Page 429 === [VIP - Quiz bank]
+Q6: 'With a traction injury to the anterior division of the brachial plexus you would'
+   - forearm supination
+   - lateral rotation of the shoulder
+   - thumb abduction
+   - wrist extension
+Q7: 'A physical therapist examines a patient diagnosed with post-polio syndrome. Whic'
+   - strength
+   - sensation
+   - endurance
+   - functional mobility
+Q8: 'The contractile elements of intrafusal muscle fibers are supplied by which of th'
+   - Interneurons
+   - la afferent neurons
+   - Alpha motor neurons
+   - Gamma motor neurons
+Q9: 'The problems associated with ankylosing spondylitis in its early stages can best'
+   - postural education
+   - stretching of scapular stabilizers
+   - Pain management
+   - joint mobilization
+Q10: 'To prepare a patient with an incomplete T12 paraplegia for ambulation with crutc'
+   - deltoid, triceps, and wrist flexors.
+   - lower trapezius, latissimusdorsi, and triceps.
+   - Middle trapezius, latissimus, dorsi and triceps.
+   - Upper trapezius, rhomboids, and levator scapulae.
+Q11: ''
+
+=== Page 430 === [VIP - Quiz bank]
+Q12: 'A physical therapist examines the gait of a 62-year-old male with peripheral neu'
+   - iliopsoas
+   - tibialis anterior
+   - tibialis posterior
+   - gastrocnemius
+Q13: 'A 40-year-old patient complaining of radiating pain in his left leg with a tingl'
+   - Sciatic nerve
+   - L1 nerve root
+   - L5 nerve root
+   - Deep peroneal nerve
+Q14: 'Which of the following nerve injury blocks the nerve conduction without degenera'
+   - Neuropathy
+   - Neurapraxia
+   - Axonotmesis
+   - Neurotmesis
+Q15: 'A 70-year-old woman complains of a weak bladder. She reports occasional leakage '
+   - Surgical
+   - Stretching
+   - Biofeedback
+   - Hormone replacement therapy
+Q16: ''
+
+=== Page 431 === [VIP - Quiz bank]
+Q17: 'A 60-year-old hemiplegic patient is treated in the outpatient Physical Therapy C'
+   - Reducing spasticity and pain.
+   - Increase strength of elbow flexors.
+   - Decreasing flexibility of olbow flexors.
+   - Enhancing the proprioception of elbow joint.
+Q18: 'A therapist starts on the bed training program of a stroke patient. Left upper l'
+   - Sitting in a chair with the head and trunk in the midline.
+   - Lying on supine position with arm extended abducted .
+   - Lateral side flexion of the head and trunk toward the affected side.
+   - Lying on the sound side with straight trunk and arm extended and resting on a pi
+Q19: 'Which of the following positions is associated with the lowest amount of muscle '
+   - Hanging
+   - Standing
+   - Lying prone
+   - Lying supine
+Q20: 'A physiotherapist receives a referral for a patient. The referring physician has'
+   - Involuntary rhythmic oscillation of eyeball .
+   - Fine type of repetitive involuntary movement.
+   - Inability to perform purposeful voluntary movements .
+   - Involuntary repetitive movement characterized by twisting .
+Q21: ''
+
+=== Page 432 === [VIP - Quiz bank]
+Q22: 'A physical therapist completes a vertebral artery test on a patient diagnosed wi'
+   - rotation
+   - lateral flexion
+   - flexion
+   - extension
+Q23: 'A motor unit is the smallest functional unit of the motor system, and it consist'
+   - Motor neuron, its axon, and all the muscle fibres innervated   by the axon.
+   - Sensory neuron, its axon, and all the muscle fibres innervated by the axon.
+   - Neurons in the white matter of the spinal cord, their axons, and all the muscle 
+   - Neurons in the posterior horm of the spinal cord, their axons, and all the muscl
+Q24: 'A physician indicates that a patient rehabilitating from a cerebrovascular accid'
+   - primary motor cortex
+   - sensory cortex
+   - basal ganglia
+   - cerebellum
+Q25: 'A 46-year-old patient with bradykinesia was referred to the Physical Therapy Cli'
+   - Walking
+   - Stretching
+   - Strengthening
+   - Range of motion
+Q26: ''
+
+=== Page 433 === [VIP - Quiz bank]
+Q27: 'A Image(s) A 34-vear-old patient with long-standing low back pain is referred to'
+   - L2
+   - L3
+   - L4
+   - S1
+Q28: '30-year-old man injured in a car accident has been diagnosed with spinal cord in'
+   - Knee
+   - Biceps
+   - Triceps
+   - Brachioradialis
+Q29: 'A physiotherapist receives a referral for a patient. The referring physician has'
+   - Double vision
+   - Difficulty swallowing
+   - Slowness of movement
+   - Speech related problems
+Q30: 'A 59 year-old ex-machinist demonstrates significant age-related hearing loss, pr'
+   - Bilateral hearing loss, at all frequencies since he has had this problem for a n
+   - Decreased language comprehension.
+   - Poor auditory discrimination
+   - unilateral hearing loss.
+Q31: ''
+   img[0] KEPT page_433_img_0.jpeg
+
+=== Page 434 === [VIP - Quiz bank]
+Q32: 'A 13-year-old female diagnosed with cerebral palsy is referred to physical thera'
+   - spasticity
+   - ataxia
+   - hypotonia
+   - athetosis
+Q33: 'A 30-year-old patient has a fracture-dislocation of the 4th and 5th lumbar verte'
+   - Spastic diplegia
+   - Flaccid paraplegia
+   - Spastic paraplegia
+   - Flaccid quadriplegia
+Q34: ''
+
+=== Page 435 === [SKIPPED]
+=== Page 436 === [6.B Knowledge]
+
+=== Page 437 === [6.B Knowledge]
+Q1: 'Glasgow coma scale, what is the patient’s score?'
+   - 0
+   - 3
+   - 5
+   - 9
+Q2: ''
+Q3: ''
+Q4: ''
+Q5: 'A therapist is ordered to evaluate and treat a full-term infant. After reviewing'
+   - 1
+   - 2
+   - 3
+   - 4 A 72-year-old woman complains of axial skeletal pain. Her T score on DEXA scan
+   - 12/20
+   - 14/20
+   - 16/20
+   - 18/20 What is the T source of a bone mineral density (BMD) scan as per the World
+   - 1.1 to 2.0
+   - 1.0 to - 0.
+   - 2.5 or less
+   - 1.0 to - 2.4
+Q6: 'A 23 - year - old football player suffered a knee injury during a During the ass'
+   - X – ray 2.Ultrasound
+   - Computed tomography scan
+   - Magnetic resonance imaging
+
+=== Page 438 === [VIP - Knowledge]
+Q7: ''
+Q8: ''
+Q9: ''
+Q10: ''
+Q11: 'which is not correct about oxford scale?'
+   - 0 no contraction
+   - flicker contraction
+   - 4 can make full ROM against resistance Pulmonary resuscitation?
+   - 1 cycle of 2 and 20 compression
+   - 12 breath and 10 compressions
+   - continue 2 breath and 30 compression it is considered illegal?
+   - Burn of patient after hot pack
+   - Attitude toward patient and behavior self-actualization mean 1.person frustrated
+   - person has gain something and proud 4.no sense During a treatment session in a r
+   - contact the patient’s physician and explain the situation.
+   - refuse to let the patient see the recor4.
+   - allow the patient to see the notes.
+   - get the permission of the physical therapist supervisor before giving the patien
+Q12: 'All of the following are objective measurements used in evaluation except:'
+   - time used for performance activity
+   - visual analogue scale
+   - goniometric ROM
+   - disability devices
+Q13: 'Which of the following should a therapist evaluate first when performing a jo2.s'
+   - Job description and duties.
+   - Bathroom accessibility
+   - Lighting conditions
+   - Parking conditions.
+
+=== Page 439 === [VIP - Knowledge]
+Q14: ''
+Q15: ''
+Q16: ''
+Q17: ''
+Q18: 'A therapist is instructing a physical therapy student in writing a SOAP note. Th'
+   - Every 3 months
+   - Every 6 months
+   - Every 12 months
+   - Every 3 years A physical therapist is setting up a portable whirlpool unit in th
+   - Check for a ground fault circuit interruption outlet.
+   - Check to make sure the water temperature is below 110o
+   - Make sure the whirlpool agitator is immersed in the water.
+   - Obtain the appropriate assistance to perform a transfer. A 37-year-old man fell 
+   - Left parietal bone one-inch posterior to the ear.
+   - Left temporal bone just anterior to the ear.
+   - Zygomatic arch of the frontal bone
+   - Zygomatic arch superior to the mastoid process. A therapist is preparing a poste
+   - 4,2,6
+   - 2,4,6
+   - 6,2,4
+   - 6, 4, 2.
+
+=== Page 440 === [VIP - Knowledge]
+Q19: ''
+Q20: ''
+Q21: ''
+Q22: ''
+Q23: 'A physical therapist is beginning the evaluation of a patient with AIDS. The pat'
+   - Mask
+   - Gloves
+   - Hand washing
+   - Gown. A physical therapist is scheduled to evaluate the shoulder of a patient wi
+   - The therapist must wear a gown
+   - The therapist must wear a mask
+   - The therapist must wear gloves.
+   - None of the above. PT is assessing a patient’s ability to perform basic activiti
+   - Barthel Index
+   - Katz Index of Activities of Daily Living
+   - Kenny Self-Care Evaluation
+   - Functional Status Index A 67-year-old man has some difficulty reaching overhead 
+   - Personal factors
+   - Activity limitation
+   - Physical Impairment
+   - Participation restriction main aim of ICF (international classification function
+   - Impairment
+   - Activity limitation
+   - Participation
+
+=== Page 441 === [A part of the musculoskeletal exam may include measuring the end feeling. Which of the fol­]
+Q24: ''
+Q25: ''
+Q26: ''
+Q27: ''
+Q28: 'patient can’t make hyperextension of shoulder and put his hand in his pocket acc'
+   - activity limitation
+   - impairment
+   - disability physical therapist working with a patient to improve the difficulty t
+   - participation restriction
+   - activity limitation
+   - impairment patient have problems in ROM and muscle weakness is classified as 1.p
+   - Personal factor
+   - Activity limitation
+   - Participant
+   - Impairment exercise professional autonomy 1.Hard work 2.Patient safety
+   - Critical thinking
+   - All of the above
+Q29: 'A part of the musculoskeletal exam may include measuring the end feeling. Which '
+   - Smoking, physical inactivity, obesity, diet 2 .Hypertension, Smoking, diabetes m
+   - Physical inactivity, heart disease, obesity, elevated Low – density lipoprotein 
+   - Hypertension, heart disease, diabetes mellitus, elevated Low – density lipoprote
+
+=== Page 442 === [VIP - Knowledge]
+Q30: ''
+Q31: ''
+Q32: ''
+Q33: ''
+Q34: 'A therapist places a pen in front of a patient and asks him to pick it up and ho'
+   - 5.5
+   - 9.9
+   - 1.9
+   - 9.1 CORF is an abbreviation for which of the following?
+   - Certified Owner of a Rehabilitation Facility.
+   - Certified Outpatient Rehabilitation Facility
+   - Control Organization for Rehabilitation Facilities.
+   - Corporation for Organization of Rehabilitation Facilities. In an attempt to esta
+   - Go over the exercises in a one-on-one review session. 2.Give the patient a pictu
+   - Give a copy of the exercises to a literate family member.
+   - All of the above. In order to determine if an exercise session should be termina
+   - Very, very light
+   - Very light
+   - Somewhat hard
+   - Hard
+
+=== Page 443 === [A local orthopedic doctor, who is a main referral source for an outpatient clinic, insists on an]
+Q35: 'The therapist is treating a male patient for a secon4.degree acromioclavicular s'
+   - Phone the doctor and request continued physical therapy.
+   - Tell the patient to go back to the doctor because he is not making appropriate p
+   - Discharge the patient because he will improve on his own.
+   - Take the problem to the supervisor of the facility
+Q36: 'A local orthopedic doctor, who is a main referral source for an outpatient clini'
+   - Call the physician’s nurse and discuss with him or her the new treatment protoco
+   - Phone the doctor and request continued physical therapy.
+   - Tell the patient to go back to the doctor because he is not making appropriate p
+   - Discharge the patient because he will improve on his own.
+   - Take the problem to the supervisor of the facility
+Q37: 'A therapist places a pen in front of a patient and asks him to pick it up and ho'
+   - Call the physician’s nurse and discuss with him or her the new treatment protoco
+   - Schedule a face-to-face meeting with the doctor to discuss the correct treatment
+   - Fax the doctor research supporting use of a combined open- and close4.chain prog
+   - Have one of the doctor’s colleagues convince him that the new protocol is best
+Q38: 'Doctors see on patient door word (terminal illness) what do this mean:'
+   - disease with elderly people
+   - with adult people
+   - irreversible course
+   - neurologic origin
+Q39: 'when you sit-up a patient from long sitting after prolonged period of bed rest f'
+   - immediately return patient to original long sitting
+   - call the physician
+   - rite down this in patient`s review
+   - assure him it`s O.K don’t worry it`s normal decrease in Blood Pressure due to a 
+
+=== Page 444 === [VIP - Knowledge]
+Q40: 'A therapist is teaching a family to care for a family member at home. The patien'
+   - One hour 2.Two hours 3.Six hours 4.Eight hours
+Q41: 'A therapist is treating a 35-year-old man diagnosed with lumbar disc degeneratio'
+   - Continue with the	current treatment plan and ignore the chiropractor’s treatment
+   - Ask the patient what the chiropractor is doing and try the same approach.
+   - Stop physical therapy at once and consult with the referring physician.
+   - Contact the chiropractor to coordinate his or her plan of care with the physical
+Q42: 'A patient at an outpatient facility experiences the onset of a grand mal seizure'
+   - Assist patient to a lying position, move away close furniture, loosen tight clot
+   - Assist patient to a lying position, move away close furniture, and loosen tight 
+   - Assist the patient to a seated position, move away close furniture, and loosen t
+   - Assist the patient to a seated position, move away close furniture, loosen tight
+Q43: 'Following a cerebrovascular accident involving the dominant right hemisphere, a '
+Q44: 'The therapist is treating a patient who recently received a below- knee amputati'
+   - Denial
+   - Acceptance
+   - Depression
+   - Anger
+
+=== Page 445 === [VIP - Knowledge]
+Q45: 'In yellow and red flags which of the following not considered as red flag in the'
+   - history of carcinoma
+   - psychosocial factor
+   - bowel problems
+   - excess weight loss
+Q46: 'A 27-year-old man with a diagnosis of incomplete spinal cord injury at the L4 le'
+   - Hip-knee-ankle-foot orthosis (HKAFO) with forearm crutches – household ambulator
+   - Knee-ankle-foot orthosis (KAFO) with forearm crutches – household ambulator.
+   - KAFO with forearm crutches – functional ambulator
+   - HKAFO with forearm crutches – functional ambulator
+Q47: 'A 60-year-old man sustained a fracture of the hip joint following a fall. He was'
+   - 4
+   - 5
+   - 6
+   - 7
+Q48: 'Patient have 4/5 muscle power what is the minimum number of sessions per week to'
+   - 3
+   - 4
+   - 5
+Q49: 'which of the following is the most appropriate duration for normal elderly perso'
+   - 15
+   - 30
+   - 45
+   - 60
+
+=== Page 446 === [VIP - Knowledge]
+Q50: 'Which of the following is the primary aim of the physical therapy profession?'
+   - Primary
+   - Tertiary
+   - Secondary
+   - Transitional
+Q51: 'Which of the following is the most appropriate term to describe prevention with '
+   - Primary
+   - Tertiary
+   - Primitive
+   - Secondary
+Q52: 'A 37-year-old man referred to the Physical Therapy Clinic for back pain. The phy'
+   - Predictable course of the condition
+   - Determining the nature of the condition
+   - Tests and measures findings related to the physical exam
+   - Tests and measures findings related to medical history
+Q53: 'A 25-year-old man referred to the Physical Therapy Clinic for hip pain. The phys'
+   - Critically analyze the pertinent evidence
+   - Integrate the appraised evidence into practice
+   - Identify the problem and convert it into a specific question
+   - Search the literature and collect clinically relevant scientific studies
+Q54: 'Which of the following is the main moral duty of a physical therapist?'
+   - Respect the patient’s dignity
+   - Disclose the patient’s autonomy
+   - Promote and protect the hospital interest
+   - D Protect the privacy and regards the employer.
+Q55: 'A physical therapist is searching for evidence to support the use of eccentric e'
+   - Cross-sectional
+   - Prospective cohort
+   - Quasi-experimental
+   - Randomized control trial
+
+=== Page 447 === [ical therapist decided to use therapeutic exercises as part of the intervention. What is the]
+Q56: 'A 29-year-old woman referred to physical therapy for post-operative rehabilitati'
+   - Restore function
+   - Improve balance
+   - increase strength and ROM
+   - Improve cardiopulmonary fitness
+Q57: 'Patient has depressing; Which cause him to have the following:'
+   - behavior problems
+   - emotional problems
+   - memory problems
+   - delusion.
+Q58: 'Perform a blind finger sweep of the throat Which of the following circumstances '
+   - Exercising on a treadmill.
+   - Pregnancy
+   - Normal ovulation
+   - Reaching age of 65 years or older
+Q59: 'A physical therapist in an outpatient clinic is called into a room to assist an '
+   - Give five back blows
+   - Look into the throat for a foreign body
+   - Have someone call 911
+Q60: 'A physician is preparing a patient for an upcoming procedure. The physician expl'
+Q61: 'Which of the following are tests for peripheral arterial involvement in a patien'
+
+=== Page 448 === [VIP - Knowledge]
+Q62: 'The therapist is ordered to evaluate a patient in the intensive care unit. The p'
+Q63: 'At what age does a human have the greatest amount of fluid in the intervertebral'
+Q64: 'A patient is sitting over the edge of a table and performing active knee extensi'
+   - First class
+   - Second class
+   - Third class
+   - Fourth class
+Q65: 'Which of the following is categorized as illegal or malpractice?'
+   - Burn caused by prolonged use of hot pack
+   - Prolong and detailed physical examination
+   - Muscle soreness after high-intensity exercise
+   - Strict attitudes and behavior with the patient
+Q66: 'Which plan of care is typically recommended during the chronic stage of injury?'
+   - Reduce joint swelling
+   - Progress functional activities
+   - Control pain, edema and spasm
+   - Promote healing of injured tissues
+Q67: 'When measuring ROM of the wrist put the axis on:'
+   - trapezoid
+   - trapezium
+   - lunate
+   - capitate.
+Q68: 'The type exercise where distal part is fixed and proximal part moving over dista'
+   - open pack position
+   - closed pack position
+   - circuit exercise
+   - isometric exercise.
+
+=== Page 449 === [VIP - Knowledge]
+Q69: 'Closed pack position of knee is'
+   - ext. knee
+   - flex knee
+   - ext knee with lat tibial rotation
+Q70: 'What is the closed packed position of the shoulder?'
+   - Internal rotation and abduction
+   - External rotation and abduction
+   - Internal rotation and adduction
+   - External rotation and adduction
+Q71: 'A 28-year-old man presents to the clinic a pain in his right hip before one mont'
+   - Lateral
+   - Central
+   - Anterior
+   - Posterior
+Q72: 'A 44-year-old woman presents to the clinic with left ankle pain before a week ag'
+   - Lateral
+   - Central
+   - Anterior
+   - Posterior
+Q73: 'Which of the following is the most likely cause of mechanical joint instability?'
+   - Mal-alignment
+   - Muscle weakness
+   - Ligamentous injury
+   - Loss of proprioception
+Q74: 'A 66-year-old patient complains of sensory changes due to a narrowed spinal cana'
+   - 0-degree Flexion
+   - 15-degree Flexion
+   - 0-degree extension
+   - 15-degree extension
+
+=== Page 450 === [VIP - Knowledge]
+Q75: 'A 70 - year - old man presented with a history of frequent falls. He has been sc'
+   - Electronystagmography
+   - Snellen chart assessment
+   - Frenkel coordination exercises
+   - Hip girdle strengthening exercises
+Q76: 'Muscle strength depend on all except:'
+   - size of muscle
+   - lever arm
+   - number of muscle spindle
+   - type of ex
+Q77: 'Which of the following is an example of first class lever?'
+   - Soleus
+   - Trapezius
+   - Hamstring
+   - Brachioradialis
+Q78: 'A therapist is evaluating a wound in a patient with the following signs: the rig'
+Q79: 'A patient who has suffered a recent fracture of the right tibia and fibula has d'
+Q80: 'A patient presents to therapy with an ankle injury. The therapist has determined'
+   - Anterior inferior tibiofibular ligament
+   - Posterior inferior tibiofibular ligament
+   - Interosseous membrane
+   - None of the above.
+
+=== Page 451 === [VIP - Knowledge]
+Q81: 'It is most likely than when treating a patient with Lyme Disease of more than on'
+
+=== Page 452 === [SKIPPED]
+=== Page 453 === [6.C Figures]
+
+=== Page 454 === [VIP - Figures]
+Q1: 'Dermatome of letter B'
+   - L3-4
+   - L4-5
+   - L4 S1
+   - S1-2
+Q2: ''
+Q3: ''
+Q4: ''
+Q5: 'This angle in the picture means'
+   - genu valgum
+   - coxa valgum
+   - coxa vara
+   - genu recurvatum To strengthen this muscle, you should
+   - maintain dorsiflexion and walking some steps on heel
+   - walking on toes
+   - sit at edge of plinth, rest foot on ground and fully
+   - dorsiflexion the foot. Which nerve supplies the muscle in the picture and its na
+   - Axillary nerve and Name deltoid ms
+   - suprascapular nerve
+   - long thoracic nerve
+   - Musculocutaneous nerve
+Q6: 'What is the deformity shown in x-ray:'
+   - Hallux valgus deformity
+   - hallucis varus
+   - hallucis rigidus
+   - hammer toe.
+   img[1] KEPT page_454_img_1.jpeg
+   img[2] KEPT page_454_img_2.jpeg
+   img[3] KEPT page_454_img_3.jpeg
+   img[4] KEPT page_454_img_4.jpeg
+   img[5] KEPT page_454_img_5.jpeg
+   img[6] KEPT page_454_img_6.png
+
+=== Page 455 === [VIP - Figures]
+Q7: ''
+Q8: ''
+Q9: ''
+Q10: ''
+Q11: 'fixed stiffness of 1st IPJ joint of big toe called:- a-hallucis varus b-hallucis'
+   - Q angle
+   - C angle. pt has median Nerve compression assist him by
+   - Weak of medial 2 fingers & decrease grasping objects
+   - Numbness of 3 ½ fingers & weak opponents ms ulnar nerve give supply to
+   - whole hand
+   - outer3 1/2 fingers
+   - inner 1 +1/2 fingers What do u see in this picture
+   - bow leg
+   - genu valgum
+   - coxa valgum
+   - genu recurvatum
+Q12: 'What is the action of these muscle'
+   - hip Adduction
+   - hip abduction
+   - hip external rotation
+   - hip internal rotation.
+Q13: 'The least muscle affected by this stretching shown in the figure is'
+   - vastus lateralis
+   - vastus medialis
+   - iliopsoas muscle
+   - gluteus medius
+   img[0] KEPT page_455_img_0.jpeg
+   img[1] KEPT page_455_img_1.jpeg
+   img[2] KEPT page_455_img_2.jpeg
+   img[3] KEPT page_455_img_3.jpeg
+   img[4] KEPT page_455_img_4.jpeg
+   img[5] KEPT page_455_img_5.jpeg
+
+=== Page 456 === [VIP - Figures]
+Q14: ''
+Q15: ''
+Q16: ''
+Q17: ''
+Q18: 'The most muscle affected by this stretching shown in the figure is:'
+   - lateral rotator of the hip or External rotators
+   - medial rotator of the hip
+   - iliopsoas muscle
+   - adductor muscle The most muscle affected by this stretching shown in the figure 
+   - lateral rotator of the hip or External rotators
+   - medial rotator of the hip
+   - iliopsoas muscle
+   - adductor muscle Dermatome chosen below is:
+   - L3- L4
+   - L4
+   - L4-L5
+   - L5 Patient is suffering from pain at the insertion
+   - rotator cuff tear
+   - infra spinatus tendinitis
+   - supraspinatus tendinitis What is true about this muscle and nerve supply?
+   - biceps femoris muscle and supplied by tibial nerve
+   - adductor brevis muscle
+   - sartorius
+Q19: 'what’s the name of this muscle'
+   - Biceps brachii
+   - Brachioradialis
+   img[0] KEPT page_456_img_0.jpeg
+   img[1] KEPT page_456_img_1.jpeg
+   img[2] KEPT page_456_img_2.png
+   img[3] KEPT page_456_img_3.jpeg
+   img[4] KEPT page_456_img_4.jpeg
+   img[5] KEPT page_456_img_5.jpeg
+
+=== Page 457 === [VIP - Figures]
+Q20: ''
+Q21: ''
+Q22: ''
+Q23: 'What is the action of this muscle shape?'
+   - hip adduction
+   - hip extension
+   - back extension What is this position: a-half kneeling b-prone kneeling c-sitting
+   - biceps brachii
+   - brachioradialis
+   - triceps
+   - deltoid. A patient is referred to physical therapy with  a ruptured Achilles ten
+   - Talus
+   - Calcaneus
+   - Cuboid
+   - Navicular
+Q24: ''
+Q25: 'A physical therapist instructs a patient to perform  a stretch as shown in the i'
+   - pectoralis minor
+   - triceps
+   - upper trapezius
+   - middle trapezius A physical therapist instructs a client to perform  a standing 
+   - pectoralis major
+   - inferior capsule
+   - horizontal abductors
+   - pectoralis minor
+   img[0] KEPT page_457_img_0.jpeg
+   img[1] KEPT page_457_img_1.jpeg
+   img[2] KEPT page_457_img_2.jpeg
+   img[3] KEPT page_457_img_3.jpeg
+   img[4] KEPT page_457_img_4.png
+   img[5] KEPT page_457_img_5.png

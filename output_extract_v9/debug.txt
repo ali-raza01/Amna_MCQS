@@ -1,0 +1,2377 @@
+=== Page 16 === [General]
+
+=== Page 17 === [General]
+  Q2: opts=0 ans=None stem=''
+  Q3: opts=0 ans=None stem=''
+  Q4: opts=0 ans=None stem=''
+  Q1: opts=0 ans=None stem=''
+
+  img[1] KEPT page_017_img_1.png
+=== Page 18 === [General]
+  Q5: opts=0 ans=None stem=''
+  Q6: opts=0 ans=None stem=''
+  Q7: opts=0 ans=None stem=''
+
+=== Page 19 === [General]
+  Q9: opts=0 ans=None stem=''
+  Q8: opts=0 ans=None stem=''
+  Q10: opts=0 ans=None stem=''
+  Q11: opts=0 ans=None stem=''
+
+=== Page 20 === [General]
+  Q14: opts=0 ans=None stem=''
+  Q13: opts=0 ans=None stem=''
+  Q12: opts=0 ans=None stem=''
+
+=== Page 21 === [General]
+  Q15: opts=0 ans=None stem=''
+  Q16: opts=0 ans=None stem=''
+  Q17: opts=0 ans=None stem=''
+
+  img[0] KEPT page_021_img_0.png
+=== Page 22 === [General]
+  Q18: opts=0 ans=None stem=''
+  Q9: opts=0 ans=None stem=''
+  Q9: opts=0 ans=None stem=''
+  Q19: opts=0 ans=None stem=''
+  Q21: opts=0 ans=None stem=''
+  Q20: opts=0 ans=None stem=''
+
+  img[0] KEPT page_022_img_0.png
+=== Page 23 === [General]
+  Q24: opts=0 ans=None stem=''
+  Q23: opts=0 ans=None stem=''
+  Q22: opts=0 ans=None stem=''
+  Q25: opts=0 ans=None stem=''
+
+  img[0] KEPT page_023_img_0.png
+=== Page 24 === [General]
+  Q27: opts=0 ans=None stem=''
+  Q26: opts=0 ans=None stem=''
+  Q28: opts=0 ans=None stem=''
+
+  img[0] KEPT page_024_img_0.png
+=== Page 25 === [General]
+  Q30: opts=0 ans=None stem=''
+  Q29: opts=0 ans=None stem=''
+  Q32: opts=0 ans=None stem=''
+  Q31: opts=0 ans=None stem=''
+
+=== Page 26 === [General]
+  Q33: opts=0 ans=None stem=''
+  Q34: opts=0 ans=None stem=''
+  Q35: opts=0 ans=None stem=''
+
+=== Page 27 === [General]
+  Q36: opts=0 ans=None stem=''
+  Q38: opts=0 ans=None stem=''
+  Q37: opts=0 ans=None stem=''
+
+=== Page 28 === [General]
+  Q41: opts=0 ans=None stem=''
+  Q40: opts=0 ans=None stem=''
+  Q39: opts=0 ans=None stem=''
+  Q42: opts=0 ans=None stem=''
+
+=== Page 29 === [General]
+  Q44: opts=0 ans=None stem=''
+  Q45: opts=0 ans=None stem=''
+  Q43: opts=0 ans=None stem=''
+
+=== Page 30 === [General]
+  Q48: opts=0 ans=None stem=''
+  Q47: opts=0 ans=None stem=''
+  Q46: opts=0 ans=None stem=''
+
+=== Page 31 === [General]
+  Q52: opts=0 ans=None stem=''
+  Q51: opts=0 ans=None stem=''
+  Q50: opts=0 ans=None stem=''
+  Q49: opts=0 ans=None stem=''
+
+  img[4] KEPT page_031_img_4.jpeg
+=== Page 32 === [General]
+  Q53: opts=0 ans=None stem=''
+  Q54: opts=0 ans=None stem=''
+
+  img[1] KEPT page_032_img_1.png
+  img[2] KEPT page_032_img_2.png
+=== Page 33 === [General]
+  Q55: opts=0 ans=None stem=''
+  Q57: opts=0 ans=None stem=''
+  Q56: opts=0 ans=None stem=''
+
+  img[1] KEPT page_033_img_1.png
+=== Page 34 === [General]
+  Q60: opts=0 ans=None stem=''
+  Q59: opts=0 ans=None stem=''
+  Q58: opts=0 ans=None stem=''
+
+=== Page 35 === [General]
+  Q61: opts=0 ans=None stem=''
+  Q63: opts=0 ans=None stem=''
+  Q62: opts=0 ans=None stem=''
+
+=== Page 36 === [General]
+  Q67: opts=0 ans=None stem=''
+  Q66: opts=0 ans=None stem=''
+  Q65: opts=0 ans=None stem=''
+  Q64: opts=0 ans=None stem=''
+
+  img[1] KEPT page_036_img_1.png
+=== Page 37 === [General]
+  Q69: opts=0 ans=None stem=''
+  Q68: opts=0 ans=None stem=''
+  Q70: opts=0 ans=None stem=''
+  Q71: opts=0 ans=None stem=''
+
+=== Page 38 === [General]
+  Q73: opts=0 ans=None stem=''
+  Q72: opts=0 ans=None stem=''
+  Q75: opts=0 ans=None stem=''
+  Q74: opts=0 ans=None stem=''
+
+=== Page 39 === [General]
+  Q78: opts=0 ans=None stem=''
+  Q77: opts=0 ans=None stem=''
+  Q76: opts=0 ans=None stem=''
+  Q79: opts=0 ans=None stem=''
+
+=== Page 40 === [General]
+  Q81: opts=0 ans=None stem=''
+  Q80: opts=0 ans=None stem=''
+  Q83: opts=0 ans=None stem=''
+  Q82: opts=0 ans=None stem=''
+
+  img[0] KEPT page_040_img_0.png
+=== Page 41 === [General]
+  Q87: opts=0 ans=None stem=''
+  Q86: opts=0 ans=None stem=''
+  Q85: opts=0 ans=None stem=''
+  Q84: opts=0 ans=None stem=''
+
+=== Page 42 === [General]
+  Q90: opts=0 ans=None stem=''
+  Q89: opts=0 ans=None stem=''
+  Q88: opts=0 ans=None stem=''
+  Q91: opts=0 ans=None stem=''
+
+=== Page 43 === [General]
+  Q92: opts=0 ans=None stem=''
+  Q95: opts=0 ans=None stem=''
+  Q94: opts=0 ans=None stem=''
+  Q93: opts=0 ans=None stem=''
+
+=== Page 44 === [General]
+  Q98: opts=0 ans=None stem=''
+  Q97: opts=0 ans=None stem=''
+  Q96: opts=0 ans=None stem=''
+
+=== Page 45 === [General]
+  Q100: opts=0 ans=None stem=''
+  Q99: opts=0 ans=None stem=''
+  Q101: opts=0 ans=None stem=''
+  Q102: opts=0 ans=None stem=''
+
+=== Page 46 === [General]
+  Q103: opts=0 ans=None stem=''
+  Q104: opts=0 ans=None stem=''
+  Q105: opts=0 ans=None stem=''
+  Q106: opts=0 ans=None stem=''
+
+=== Page 47 === [General]
+  Q107: opts=0 ans=None stem=''
+  Q108: opts=0 ans=None stem=''
+  Q109: opts=0 ans=None stem=''
+  Q110: opts=0 ans=None stem=''
+
+=== Page 48 === [General]
+  Q111: opts=0 ans=None stem=''
+  Q112: opts=0 ans=None stem=''
+  Q113: opts=0 ans=None stem=''
+  Q114: opts=0 ans=None stem=''
+
+=== Page 49 === [General]
+  Q115: opts=0 ans=None stem=''
+  Q116: opts=0 ans=None stem=''
+
+=== Page 50 === [SKIPPED]
+=== Page 51 === [Biomechanics]
+
+=== Page 52 === [Biomechanics]
+  ORPHAN(pre): opts=4 ans=1
+  Q1: opts=0 ans=None stem=''
+  Q2: opts=0 ans=None stem=''
+  Q3: opts=0 ans=None stem=''
+  Q4: opts=4 ans=None stem='A 36-year-old woman comes to the Physical Therapy '
+
+=== Page 53 === [Biomechanics]
+  ORPHAN(pre): opts=4 ans=2
+  Q5: opts=0 ans=None stem=''
+  Q6: opts=0 ans=None stem=''
+  Q7: opts=0 ans=None stem=''
+
+=== Page 54 === [Biomechanics]
+  ORPHAN(pre): opts=4 ans=None
+  Q9: opts=0 ans=None stem=''
+  Q8: opts=0 ans=4 stem=''
+
+  img[0] KEPT page_054_img_0.png
+=== Page 55 === [Biomechanics]
+  ORPHAN(pre): opts=4 ans=2
+  Q12: opts=0 ans=None stem=''
+  Q11: opts=0 ans=None stem=''
+  Q10: opts=0 ans=None stem=''
+
+=== Page 56 === [Biomechanics]
+  Q14: opts=0 ans=None stem=''
+  Q13: opts=4 ans=3 stem='While gait training a patient following a cerebral'
+
+=== Page 57 === [Biomechanics]
+  ORPHAN(pre): opts=4 ans=3
+  Q15: opts=0 ans=None stem=''
+  Q16: opts=4 ans=4 stem='C.O.G during locomotion observation can change the'
+
+  img[0] KEPT page_057_img_0.jpeg
+  img[1] KEPT page_057_img_1.png
+=== Page 58 === [Biomechanics]
+  Q18: opts=0 ans=None stem=''
+  Q17: opts=4 ans=4 stem='During evaluation of a patient, the therapist obse'
+
+  img[0] KEPT page_058_img_0.jpeg
+=== Page 59 === [Biomechanics]
+  ORPHAN(pre): opts=3 ans=2
+  Q9: opts=0 ans=None stem=''
+  Q9: opts=0 ans=None stem=''
+  Q19: opts=0 ans=None stem=''
+  Q21: opts=0 ans=None stem=''
+  Q20: opts=0 ans=None stem=''
+
+  img[0] KEPT page_059_img_0.jpeg
+  img[1] KEPT page_059_img_1.jpeg
+=== Page 60 === [Biomechanics]
+  Q24: opts=0 ans=None stem=''
+  Q23: opts=0 ans=None stem=''
+  Q22: opts=3 ans=2 stem='which statement correct during training with cane '
+
+  img[0] KEPT page_060_img_0.jpeg
+=== Page 61 === [Biomechanics]
+  ORPHAN(pre): opts=4 ans=1
+  Q25: opts=3 ans=None stem='Which of the following is the most appropriate pos'
+  Q27: opts=0 ans=None stem=''
+  Q26: opts=0 ans=None stem=''
+
+  img[0] KEPT page_061_img_0.png
+  img[1] KEPT page_061_img_1.jpeg
+=== Page 62 === [Biomechanics]
+  Q28: opts=0 ans=None stem=''
+  Q30: opts=0 ans=None stem=''
+  Q29: opts=4 ans=2 stem='Which of the following types of gait training are '
+
+=== Page 63 === [Biomechanics]
+  ORPHAN(pre): opts=6 ans=4
+  Q33: opts=0 ans=None stem=''
+  Q32: opts=0 ans=None stem=''
+  Q31: opts=3 ans=3 stem='When comparing the gait cycle of young adults to t'
+
+=== Page 64 === [Biomechanics]
+  Q34: opts=0 ans=None stem=''
+  Q35: opts=4 ans=1 stem='A physical therapist begins gait training for a pa'
+
+  img[0] KEPT page_064_img_0.jpeg
+=== Page 65 === [Biomechanics]
+  ORPHAN(pre): opts=4 ans=1
+  Q36: opts=0 ans=None stem=''
+  Q38: opts=0 ans=None stem=''
+  Q37: opts=3 ans=4 stem='patient during walking raise his hip to clear toes'
+
+=== Page 66 === [Biomechanics]
+  Q41: opts=0 ans=None stem=''
+  Q40: opts=0 ans=None stem=''
+  Q39: opts=4 ans=3 stem='As a result of a gait analysis, a therapist has de'
+  Q42: opts=0 ans=None stem=''
+
+=== Page 67 === [Biomechanics]
+  Q44: opts=0 ans=None stem=''
+  Q45: opts=0 ans=None stem=''
+  Q43: opts=0 ans=2 stem=''
+
+=== Page 68 === [Biomechanics]
+  Q48: opts=0 ans=None stem=''
+  Q47: opts=0 ans=None stem=''
+  Q46: opts=3 ans=1 stem='Knee joint ROM:'
+
+=== Page 69 === [Biomechanics]
+  ORPHAN(pre): opts=4 ans=4
+  Q52: opts=0 ans=None stem=''
+  Q51: opts=0 ans=None stem=''
+  Q50: opts=0 ans=None stem=''
+  Q49: opts=3 ans=2 stem='Osteomyelitis abscess spread:'
+
+=== Page 70 === [Biomechanics]
+  Q53: opts=0 ans=None stem=''
+  Q55: opts=0 ans=None stem=''
+  Q54: opts=4 ans=1 stem='The joint between adjacent vertebrae that includes'
+
+=== Page 71 === [Biomechanics]
+  ORPHAN(pre): opts=4 ans=1
+  Q58: opts=0 ans=None stem=''
+  Q57: opts=0 ans=None stem=''
+  Q56: opts=4 ans=4 stem='Which of the following is not an example of a syna'
+
+=== Page 72 === [Biomechanics]
+  ORPHAN(pre): opts=4 ans=2
+  Q61: opts=0 ans=None stem=''
+  Q60: opts=0 ans=None stem=''
+  Q59: opts=4 ans=1 stem='Osteomyelitis is:'
+
+=== Page 73 === [Biomechanics]
+  ORPHAN(pre): opts=4 ans=3
+  Q64: opts=0 ans=None stem=''
+  Q63: opts=0 ans=None stem=''
+  Q62: opts=4 ans=None stem='most common site of estrogenic sarcoma is:'
+
+=== Page 74 === [Biomechanics]
+  ORPHAN(pre): opts=3 ans=None
+  Q67: opts=0 ans=None stem=''
+  Q66: opts=0 ans=None stem=''
+  Q65: opts=0 ans=2 stem=''
+
+=== Page 75 === [Biomechanics]
+  ORPHAN(pre): opts=4 ans=2
+  Q69: opts=0 ans=None stem=''
+  Q68: opts=0 ans=None stem=''
+  Q70: opts=0 ans=None stem=''
+
+  img[0] KEPT page_075_img_0.jpeg
+=== Page 76 === [Biomechanics]
+  Q73: opts=0 ans=None stem=''
+  Q72: opts=0 ans=None stem=''
+  Q71: opts=4 ans=4 stem='What is the approximate angle between the femoral '
+
+=== Page 77 === [Biomechanics]
+  Q75: opts=0 ans=None stem=''
+  Q74: opts=7 ans=2 stem='which fracture is treated by traction?'
+
+  img[0] KEPT page_077_img_0.jpeg
+=== Page 78 === [Biomechanics]
+  Q78: opts=0 ans=None stem=''
+  Q77: opts=0 ans=None stem=''
+  Q76: opts=4 ans=3 stem='Which of the following is a possible cause of ante'
+
+=== Page 79 === [Biomechanics]
+  ORPHAN(pre): opts=4 ans=1
+  Q81: opts=0 ans=None stem=''
+  Q80: opts=0 ans=None stem=''
+  Q79: opts=0 ans=None stem=''
+
+=== Page 80 === [Biomechanics]
+  ORPHAN(pre): opts=4 ans=2
+  Q84: opts=0 ans=None stem=''
+  Q83: opts=0 ans=None stem=''
+  Q82: opts=2 ans=2 stem='Human body flexion and extension which plane occur'
+
+=== Page 81 === [Biomechanics]
+  ORPHAN(pre): opts=2 ans=2
+  Q87: opts=0 ans=None stem=''
+  Q86: opts=0 ans=None stem=''
+  Q85: opts=0 ans=None stem=''
+
+=== Page 82 === [Biomechanics]
+  ORPHAN(pre): opts=4 ans=None
+  Q90: opts=0 ans=None stem=''
+  Q89: opts=0 ans=None stem=''
+  Q88: opts=0 ans=3 stem=''
+  Q91: opts=0 ans=None stem=''
+
+=== Page 83 === [Biomechanics]
+  ORPHAN(pre): opts=14 ans=None
+  Q92: opts=0 ans=None stem=''
+  Q97: opts=0 ans=None stem=''
+  Q96: opts=0 ans=None stem=''
+  Q95: opts=0 ans=None stem=''
+  Q94: opts=0 ans=None stem=''
+  Q93: opts=4 ans=None stem='If the line of gravity is posterior to the hip joi'
+
+=== Page 84 === [Biomechanics]
+  ORPHAN(pre): opts=10 ans=None
+  Q98: opts=0 ans=None stem=''
+  Q100: opts=0 ans=None stem=''
+  Q99: opts=0 ans=None stem=''
+
+=== Page 85 === [SKIPPED]
+=== Page 86 === [Orthopedic]
+
+=== Page 87 === [Orthopedic]
+
+=== Page 88 === [Orthopedic]
+
+=== Page 89 === [Orthopedic]
+
+=== Page 90 === [Orthopedic]
+
+=== Page 91 === [Orthopedic]
+
+=== Page 92 === [Orthopedic]
+
+=== Page 93 === [Orthopedic]
+
+=== Page 94 === [Orthopedic]
+
+=== Page 95 === [Orthopedic]
+
+=== Page 96 === [Orthopedic]
+
+  img[0] KEPT page_096_img_0.jpeg
+=== Page 97 === [Orthopedic]
+
+=== Page 98 === [Orthopedic]
+
+=== Page 99 === [Orthopedic]
+
+=== Page 100 === [Orthopedic]
+
+=== Page 101 === [Orthopedic]
+
+=== Page 102 === [Orthopedic]
+
+=== Page 103 === [Orthopedic]
+
+=== Page 104 === [Orthopedic]
+
+=== Page 105 === [Orthopedic]
+
+=== Page 106 === [Orthopedic]
+
+=== Page 107 === [Orthopedic]
+
+=== Page 108 === [Orthopedic]
+
+=== Page 109 === [Orthopedic]
+
+  img[0] KEPT page_109_img_0.jpeg
+=== Page 110 === [Orthopedic]
+
+=== Page 111 === [Orthopedic]
+
+=== Page 112 === [Orthopedic]
+
+=== Page 113 === [Orthopedic]
+
+=== Page 114 === [Orthopedic]
+
+=== Page 115 === [Orthopedic]
+
+=== Page 116 === [Orthopedic]
+
+=== Page 117 === [Orthopedic]
+
+=== Page 118 === [Orthopedic]
+
+  img[0] KEPT page_118_img_0.png
+=== Page 119 === [Orthopedic]
+
+=== Page 120 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 121 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 122 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 123 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 124 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 125 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 126 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 127 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 128 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 129 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 130 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 131 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 132 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 133 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 134 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 135 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 136 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 137 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 138 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 139 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 140 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 141 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 142 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 143 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 144 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 145 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 146 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 147 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 148 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 149 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 150 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 151 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 152 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 153 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 154 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 155 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 156 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 157 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 158 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 159 === [endocrine system disease can be manifested with proximal, painless muscle]
+
+=== Page 160 === [endocrine system disease can be manifested with proximal, painless muscle]
+  ORPHAN(pre): opts=2 ans=1
+  Q1: opts=0 ans=None stem=''
+  Q2: opts=0 ans=None stem=''
+  Q3: opts=0 ans=None stem=''
+  Q4: opts=4 ans=1 stem='Exercise guidelines for the well-trained, well-con'
+
+=== Page 161 === [endocrine system disease can be manifested with proximal, painless muscle]
+  ORPHAN(pre): opts=4 ans=3
+  Q5: opts=0 ans=None stem=''
+  Q6: opts=0 ans=None stem=''
+  Q7: opts=0 ans=None stem=''
+
+=== Page 162 === [endocrine system disease can be manifested with proximal, painless muscle]
+  ORPHAN(pre): opts=2 ans=None
+  Q9: opts=0 ans=None stem=''
+  Q8: opts=6 ans=3 stem='Which of the following is the most appropriate min'
+  Q11: opts=0 ans=None stem=''
+  Q10: opts=0 ans=None stem=''
+
+=== Page 163 === [endocrine system disease can be manifested with proximal, painless muscle]
+  Q13: opts=0 ans=None stem=''
+  Q12: opts=4 ans=2 stem='A 27-year-old football player sustained a knee inj'
+  Q14: opts=0 ans=None stem=''
+
+=== Page 164 === [endocrine system disease can be manifested with proximal, painless muscle]
+  ORPHAN(pre): opts=4 ans=None
+  Q15: opts=0 ans=None stem=''
+  Q16: opts=4 ans=None stem='Which of the following is the most likely cause of'
+  Q17: opts=4 ans=3 stem='Which of the following is the most appropriate on '
+
+=== Page 165 === [endocrine system disease can be manifested with proximal, painless muscle]
+  Q18: opts=4 ans=4 stem='Which of the following is inappropriate exercise f'
+  Q9: opts=0 ans=None stem=''
+  Q9: opts=0 ans=None stem=''
+  Q19: opts=0 ans=None stem=''
+  Q20: opts=0 ans=None stem=''
+
+=== Page 166 === [endocrine system disease can be manifested with proximal, painless muscle]
+  Q21: opts=4 ans=1 stem='Which is the most likely structure injured if the '
+  Q23: opts=0 ans=None stem=''
+  Q22: opts=4 ans=None stem='what is the structure that will be tested if you p'
+  Q24: opts=4 ans=4 stem='A 26-year-old woman slipped and had blunt trauma t'
+
+=== Page 167 === [endocrine system disease can be manifested with proximal, painless muscle]
+  ORPHAN(pre): opts=4 ans=1
+  Q25: opts=4 ans=None stem='among the following choices,  what is the most app'
+  Q27: opts=0 ans=None stem=''
+  Q26: opts=0 ans=None stem=''
+
+=== Page 168 === [endocrine system disease can be manifested with proximal, painless muscle]
+  Q28: opts=0 ans=None stem=''
+  Q30: opts=0 ans=None stem=''
+  Q29: opts=4 ans=3 stem='paralysis of all intrinsic muscles of the hand exc'
+
+=== Page 169 === [endocrine system disease can be manifested with proximal, painless muscle]
+  ORPHAN(pre): opts=8 ans=3
+  Q33: opts=0 ans=None stem=''
+  Q32: opts=0 ans=None stem=''
+  Q31: opts=4 ans=3 stem='A physical therapist is treating an automobile mec'
+
+=== Page 170 === [endocrine system disease can be manifested with proximal, painless muscle]
+  Q34: opts=0 ans=None stem=''
+  Q35: opts=7 ans=3 stem='A patient with Osgood-Schlatter disease will exper'
+  Q36: opts=0 ans=None stem=''
+
+=== Page 171 === [endocrine system disease can be manifested with proximal, painless muscle]
+  Q38: opts=0 ans=None stem=''
+  Q37: opts=4 ans=2 stem='The therapist is treating a track athlete who spec'
+  Q40: opts=0 ans=None stem=''
+  Q39: opts=8 ans=4 stem='Which of the following actions places the greatest'
+
+=== Page 172 === [endocrine system disease can be manifested with proximal, painless muscle]
+  Q41: opts=0 ans=1 stem=''
+  Q42: opts=0 ans=2 stem=''
+  Q43: opts=3 ans=None stem='Athlete ( power lifter ) complain of pain in groin'
+
+=== Page 173 === [endocrine system disease can be manifested with proximal, painless muscle]
+  Q44: opts=0 ans=None stem=''
+  Q45: opts=0 ans=2 stem=''
+  Q46: opts=4 ans=None stem='Following a motor vehicle accident, a patient with'
+
+=== Page 174 === [endocrine system disease can be manifested with proximal, painless muscle]
+  Q48: opts=0 ans=None stem=''
+  Q47: opts=0 ans=4 stem=''
+
+=== Page 175 === [endocrine system disease can be manifested with proximal, painless muscle]
+  ORPHAN(pre): opts=4 ans=2
+  Q52: opts=0 ans=None stem=''
+  Q51: opts=0 ans=None stem=''
+  Q50: opts=0 ans=None stem=''
+  Q49: opts=4 ans=2 stem='player football takes trauma in anterior aspect of'
+
+=== Page 176 === [endocrine system disease can be manifested with proximal, painless muscle]
+  Q53: opts=0 ans=None stem=''
+  Q55: opts=0 ans=None stem=''
+  Q54: opts=8 ans=1 stem='football player fall in full flexion and media rot'
+  Q56: opts=4 ans=2 stem='Which of the following is the main cause of adduct'
+
+=== Page 177 === [endocrine system disease can be manifested with proximal, painless muscle]
+  ORPHAN(pre): opts=8 ans=None
+  Q58: opts=0 ans=None stem=''
+  Q57: opts=4 ans=None stem='A 17-year-old football player is referred to the o'
+  Q60: opts=0 ans=None stem=''
+  Q59: opts=4 ans=1 stem='You are treating a 16-year-old female athlete for '
+
+=== Page 178 === [endocrine system disease can be manifested with proximal, painless muscle]
+  Q61: opts=4 ans=1 stem='A clinical instructor is explaining to a physical '
+  Q62: opts=0 ans=None stem=''
+
+  img[0] KEPT page_178_img_0.png
+=== Page 179 === [endocrine system disease can be manifested with proximal, painless muscle]
+  Q64: opts=0 ans=None stem=''
+  Q63: opts=3 ans=None stem='Before strength hip flexors we do'
+
+=== Page 180 === [SKIPPED]
+=== Page 181 === [Neuromuscular System]
+
+=== Page 182 === [Neuromuscular System]
+  Q1: opts=4 ans=3 stem='Normal action potential:'
+  Q2: opts=3 ans=3 stem='Transfer chemical stimulation to mechanical:'
+  Q3: opts=3 ans=1 stem='Light touch loss, in which tract may happened?'
+  Q4: opts=0 ans=None stem=''
+
+=== Page 183 === [Neuromuscular System]
+  Q5: opts=3 ans=3 stem='While evaluating a patient who suffered a complete'
+  Q6: opts=4 ans=4 stem='In which location is the median nerve frequently o'
+  Q7: opts=3 ans=None stem='Supracondylar ridge of humerus injury to:'
+  Q8: opts=0 ans=2 stem=''
+
+=== Page 184 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=4
+  Q10: opts=4 ans=1 stem='A 14-year old girl place excessive valgus stress t'
+  Q11: opts=3 ans=None stem='Supracondylar ridge of humerus injury to'
+  Q9: opts=0 ans=3 stem=''
+
+=== Page 185 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=2
+  Q12: opts=2 ans=2 stem='pt. has median Nerve compression assist him by:'
+  Q13: opts=4 ans=3 stem='a college student presents with pain in the should'
+  Q14: opts=0 ans=None stem=''
+
+=== Page 186 === [Neuromuscular System]
+  Q15: opts=4 ans=2 stem='A patient presents to an outpatient facility with '
+  Q16: opts=4 ans=4 stem='A patient presents to an outpatient clinic with an'
+  Q17: opts=0 ans=None stem=''
+
+=== Page 187 === [Neuromuscular System]
+  Q18: opts=4 ans=1 stem='Acceleration injury (whiplash injury) may cause:'
+  Q19: opts=4 ans=None stem='A 19-year-old wrestler fell on his elbow and then '
+  Q20: opts=0 ans=1 stem=''
+
+=== Page 188 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q21: opts=4 ans=None stem='when the fracture accurse in neck of humerus what '
+  Q22: opts=3 ans=None stem='Most common compression of radial n in:'
+  Q23: opts=3 ans=None stem='Weakness of dorsiflexor of wrist and fingers due t'
+  Q24: opts=4 ans=None stem='Which of the following sites of fracture involving'
+  Q25: opts=4 ans=None stem='Common site of Radial nerve lesion:'
+  Q26: opts=2 ans=None stem='pt has median Nerve compression assess him by:'
+  Q27: opts=0 ans=None stem=''
+
+=== Page 189 === [Neuromuscular System]
+  Q28: opts=4 ans=None stem='which nerve which give back of the arm and forearm'
+  Q29: opts=2 ans=None stem='Sciatic nerve injury due to:'
+  Q30: opts=4 ans=None stem='Ulnar nerve pass:'
+  Q31: opts=3 ans=None stem='Delayed ulnar nerve due to fracture of:'
+  Q32: opts=4 ans=None stem='Most compression site of ulnar nerve in:'
+  Q33: opts=3 ans=None stem='ulnar nerve give supply to:'
+  Q34: opts=0 ans=None stem=''
+
+=== Page 190 === [Neuromuscular System]
+  Q35: opts=4 ans=None stem='guyon tunnel Injury of which nerve:'
+  Q36: opts=0 ans=1 stem=''
+  Q37: opts=0 ans=3 stem=''
+  Q38: opts=0 ans=2 stem=''
+
+=== Page 191 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q39: opts=0 ans=3 stem=''
+  Q40: opts=4 ans=None stem='Carpal tunnel syndrome causes:'
+  Q41: opts=0 ans=4 stem=''
+  Q42: opts=0 ans=None stem=''
+
+=== Page 192 === [Neuromuscular System]
+  Q43: opts=0 ans=4 stem=''
+  Q44: opts=0 ans=2 stem=''
+  Q45: opts=3 ans=None stem='In poliomylitis which is incorrect:'
+  Q46: opts=0 ans=1 stem=''
+
+=== Page 193 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q47: opts=0 ans=4 stem=''
+  Q48: opts=4 ans=None stem='Post polio clinical features:'
+  Q49: opts=4 ans=None stem='Convalescent stage of polio:'
+  Q50: opts=4 ans=None stem='The spaces between the covered parts of an axon ar'
+  Q51: opts=0 ans=1 stem=''
+
+=== Page 194 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=4
+  Q52: opts=4 ans=None stem='Which of the following neural fibers are the large'
+  Q53: opts=2 ans=None stem='Initiate muscle contraction ?'
+  Q54: opts=4 ans=None stem='The therapist is evaluating a patient with left-si'
+  Q55: opts=2 ans=None stem='patient with partial ataxia, physiotherapist make '
+  Q56: opts=0 ans=None stem=''
+
+  img[0] KEPT page_194_img_0.png
+=== Page 195 === [Neuromuscular System]
+  Q57: opts=4 ans=None stem='Nodes of Ranvier are found in:'
+  Q58: opts=4 ans=None stem='Nodes of Ranvier are found in:'
+  Q59: opts=4 ans=None stem='Ankylosing Spondylitis means:'
+  Q61: opts=3 ans=None stem='Ankylosing means :'
+  Q60: opts=0 ans=2 stem=''
+
+=== Page 196 === [Neuromuscular System]
+  ORPHAN(pre): opts=3 ans=None
+  Q62: opts=0 ans=3 stem=''
+  Q63: opts=4 ans=None stem='The therapist receives an order to treat a 42-year'
+  Q64: opts=0 ans=2 stem=''
+  Q65: opts=0 ans=None stem=''
+
+=== Page 197 === [Neuromuscular System]
+  Q66: opts=0 ans=3 stem=''
+  Q67: opts=4 ans=None stem='A patient informs his therapist that his problem b'
+  Q68: opts=0 ans=None stem=''
+
+=== Page 198 === [Neuromuscular System]
+  Q69: opts=4 ans=None stem='therapist is assisting a patient in gaining latera'
+  Q70: opts=4 ans=None stem='A posterior lateral herniation of the lumbar disc '
+  Q71: opts=0 ans=1 stem=''
+  Q72: opts=0 ans=None stem=''
+
+  img[0] KEPT page_198_img_0.png
+=== Page 199 === [Neuromuscular System]
+  Q73: opts=4 ans=3 stem='The failure to release acetylcholine at the neurom'
+  Q74: opts=4 ans=None stem='A 65-year-old man presents to physical therapy wit'
+  Q75: opts=4 ans=None stem='Multiple sclerosis MS which is incorrect:'
+  Q76: opts=3 ans=None stem='Pt with neurological condition with evaluation fou'
+  Q77: opts=0 ans=None stem=''
+
+=== Page 200 === [Neuromuscular System]
+  Q78: opts=4 ans=None stem='When instructing the family of a 9 year-old boy wi'
+  Q79: opts=3 ans=None stem='A 32-year-old construction worker fell off a ladde'
+  Q80: opts=0 ans=3 stem=''
+  Q81: opts=0 ans=None stem=''
+
+=== Page 201 === [Neuromuscular System]
+  Q82: opts=0 ans=2 stem=''
+  Q83: opts=4 ans=None stem='Which of the following nerve injuries is a conditi'
+  Q84: opts=4 ans=None stem='Axon is injured but nerve intact:'
+  Q85: opts=4 ans=None stem='Which of the following nerve injuries is a conditi'
+  Q86: opts=0 ans=None stem=''
+
+=== Page 202 === [Neuromuscular System]
+  Q87: opts=0 ans=1 stem=''
+  Q88: opts=4 ans=None stem='all the following is true about motor neuron disea'
+  Q89: opts=0 ans=1 stem=''
+  Q90: opts=0 ans=None stem=''
+
+  img[0] KEPT page_202_img_0.jpeg
+=== Page 203 === [Neuromuscular System]
+  Q91: opts=3 ans=None stem='when you evaluate a CVA patient what is the first '
+  Q94: opts=0 ans=3 stem=''
+  Q92: opts=4 ans=None stem='A patient who has suffered a recent stroke is bein'
+  Q93: opts=0 ans=1 stem=''
+
+  img[0] KEPT page_203_img_0.png
+=== Page 204 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q98: opts=4 ans=None stem='While ambulating a stroke patient (right side is t'
+  Q97: opts=3 ans=None stem='Facial nerve nuclei innervations:'
+  Q95: opts=4 ans=None stem='Which of the following is the most important to as'
+  Q96: opts=3 ans=None stem='A 57 - year - old patient presented with a 6 - hou'
+  Q99: opts=0 ans=4 stem=''
+
+=== Page 205 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q100: opts=4 ans=None stem='When should a physical therapist begin discharge p'
+  Q101: opts=4 ans=None stem='Patient with hypertension with sever stroke when w'
+  Q102: opts=4 ans=None stem='A physical therapist is treating a 76-year-old wom'
+  Q103: opts=0 ans=1 stem=''
+  Q104: opts=0 ans=None stem=''
+
+=== Page 206 === [Neuromuscular System]
+  Q105: opts=4 ans=None stem='A 69-year-old man with a cerebrovascular accident '
+  Q106: opts=0 ans=3 stem=''
+  Q107: opts=0 ans=4 stem=''
+  Q108: opts=0 ans=None stem=''
+
+=== Page 207 === [Neuromuscular System]
+  Q109: opts=3 ans=None stem='Patient with CVA damage LT Anterior cerebral arter'
+  Q110: opts=0 ans=1 stem=''
+  Q111: opts=4 ans=None stem='A 50-year-old suffering from a stroke was referred'
+  Q112: opts=0 ans=4 stem=''
+  Q113: opts=0 ans=None stem=''
+
+=== Page 208 === [Neuromuscular System]
+  Q114: opts=0 ans=4 stem=''
+  Q115: opts=4 ans=None stem='When evaluating a patient with an upper motor neur'
+  Q116: opts=3 ans=None stem='When evaluating Parkinson’s pt you observed unifor'
+  Q117: opts=0 ans=None stem=''
+
+=== Page 209 === [Neuromuscular System]
+  Q118: opts=4 ans=None stem='Which of the following neurological conditions is '
+  Q119: opts=4 ans=None stem='A therapist is evaluating a patient with an upper '
+  Q120: opts=0 ans=3 stem=''
+  Q121: opts=0 ans=3 stem=''
+
+=== Page 210 === [Neuromuscular System]
+  ORPHAN(pre): opts=3 ans=None
+  Q122: opts=0 ans=2 stem=''
+  Q123: opts=0 ans=2 stem=''
+  Q124: opts=0 ans=2 stem=''
+  Q125: opts=0 ans=4 stem=''
+
+=== Page 211 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q126: opts=0 ans=1 stem=''
+  Q127: opts=2 ans=None stem='when evaluating Parkinson’s gait?'
+  Q128: opts=4 ans=None stem='Abnormal pattern of gait that not occur in Parkins'
+  Q129: opts=0 ans=4 stem=''
+
+=== Page 212 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q130: opts=0 ans=1 stem=''
+  Q131: opts=0 ans=3 stem=''
+  Q132: opts=0 ans=2 stem=''
+
+=== Page 213 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q133: opts=0 ans=3 stem=''
+  Q134: opts=0 ans=4 stem=''
+  Q135: opts=0 ans=4 stem=''
+
+=== Page 214 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q136: opts=0 ans=2 stem=''
+  Q137: opts=4 ans=None stem='Prevention of transmission of pain beyond the dors'
+  Q138: opts=0 ans=2 stem=''
+  Q139: opts=0 ans=2 stem=''
+
+=== Page 215 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q140: opts=0 ans=4 stem=''
+  Q141: opts=0 ans=1 stem=''
+  Q142: opts=0 ans=4 stem=''
+
+=== Page 216 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q143: opts=0 ans=1 stem=''
+  Q144: opts=0 ans=2 stem=''
+  Q145: opts=0 ans=4 stem=''
+
+=== Page 217 === [Neuromuscular System]
+  ORPHAN(pre): opts=3 ans=None
+  Q146: opts=0 ans=1 stem=''
+  Q147: opts=0 ans=1 stem=''
+  Q148: opts=0 ans=4 stem=''
+
+=== Page 218 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q149: opts=0 ans=4 stem=''
+  Q150: opts=0 ans=4 stem=''
+  Q151: opts=0 ans=2 stem=''
+
+=== Page 219 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q152: opts=0 ans=4 stem=''
+  Q153: opts=0 ans=1 stem=''
+  Q154: opts=0 ans=2 stem=''
+
+  img[0] KEPT page_219_img_0.jpeg
+=== Page 220 === [Neuromuscular System]
+  ORPHAN(pre): opts=3 ans=None
+  Q155: opts=0 ans=2 stem=''
+  Q156: opts=0 ans=3 stem=''
+  Q157: opts=0 ans=3 stem=''
+  Q158: opts=0 ans=None stem=''
+
+=== Page 221 === [Neuromuscular System]
+  Q159: opts=0 ans=4 stem=''
+  Q160: opts=0 ans=1 stem=''
+  Q161: opts=3 ans=None stem='Patient complaining from back pain, with examinati'
+  Q162: opts=2 ans=None stem='Function of Golgi tendon organ:'
+  Q163: opts=0 ans=None stem=''
+
+=== Page 222 === [Neuromuscular System]
+  Q164: opts=3 ans=None stem='while you examine a patient you find decreased ten'
+  Q165: opts=4 ans=None stem='A 20-year-old patient injured in a car accident ha'
+  Q166: opts=4 ans=None stem='During physical therapy evaluation of a 53-year-ol'
+  Q167: opts=4 ans=None stem='A physical therapist is attempting to explain the '
+  Q168: opts=0 ans=None stem=''
+
+=== Page 223 === [Neuromuscular System]
+  Q170: opts=4 ans=None stem='What is correct about planter reflex innervations '
+  Q169: opts=4 ans=None stem='Which of the following is the most appropriate tec'
+  Q171: opts=3 ans=None stem='for relaxation of parkinson’s patient and to facil'
+  Q172: opts=0 ans=1 stem=''
+  Q173: opts=0 ans=1 stem=''
+
+=== Page 224 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q174: opts=3 ans=None stem='for relaxation of parkinson’s patient and to facil'
+  Q175: opts=3 ans=None stem='muscle spindle is stimulated by:'
+  Q176: opts=3 ans=None stem='Regarding muscle spindle all following are true ex'
+  Q177: opts=3 ans=None stem='Which is incorrect about muscle spindle?'
+  Q178: opts=0 ans=2 stem=''
+  Q179: opts=0 ans=None stem=''
+
+=== Page 225 === [Neuromuscular System]
+  Q180: opts=0 ans=4 stem=''
+  Q181: opts=4 ans=None stem='Which of the following is Ruffini’s end organs?'
+  Q183: opts=0 ans=1 stem=''
+  Q182: opts=0 ans=None stem=''
+
+=== Page 226 === [Neuromuscular System]
+  Q184: opts=3 ans=None stem='bradykinesia means:'
+  Q185: opts=4 ans=None stem='A 64-year-old patient with Parkinson’s disease tre'
+  Q186: opts=4 ans=None stem='When evaluating a patient with an upper motor neur'
+  Q187: opts=3 ans=None stem='Hypotoncity means:'
+  Q188: opts=4 ans=None stem='All are forms of hypertonia except:'
+  Q189: opts=0 ans=None stem=''
+
+=== Page 227 === [Neuromuscular System]
+  Q190: opts=4 ans=None stem='Hypertonia indicates'
+  Q191: opts=2 ans=None stem='Difficult speech is called:'
+  Q192: opts=2 ans=None stem='Difficulty of swallowing means:'
+  Q193: opts=4 ans=None stem='the term apraxia (clumsy syndrome) refers to?'
+  Q194: opts=4 ans=None stem='A 57-year-old paraplegic patient comes to the Phys'
+  Q195: opts=0 ans=4 stem=''
+
+=== Page 228 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q196: opts=2 ans=None stem='Bradyphrenia mean:'
+  Q197: opts=0 ans=1 stem=''
+  Q198: opts=4 ans=None stem='The term aphasia refers to:'
+  Q199: opts=4 ans=None stem='Which of the following is most appropriate in rega'
+  Q200: opts=0 ans=1 stem=''
+
+=== Page 229 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q201: opts=3 ans=None stem='Which of the following scientific terms is defined'
+  Q202: opts=4 ans=None stem='You are working with a patient who exhibits a flue'
+  Q203: opts=4 ans=None stem='The term used to describe difficulty in reading :'
+  Q204: opts=3 ans=None stem='Patient with stroke the neurologist refers him to '
+  Q205: opts=4 ans=None stem='A physiotherapist received a referral for a patien'
+  Q206: opts=0 ans=None stem=''
+
+=== Page 230 === [Neuromuscular System]
+  Q207: opts=4 ans=None stem='A physical therapist evaluating a 66 year old fema'
+  Q208: opts=4 ans=None stem='patient suffer from double vision means'
+  Q209: opts=0 ans=3 stem=''
+  Q210: opts=2 ans=None stem='What is meaning of dysmetria?'
+  Q211: opts=0 ans=None stem=''
+
+=== Page 231 === [Neuromuscular System]
+  Q212: opts=3 ans=None stem='neuron has no axon, no refractor organ but make sy'
+  Q213: opts=4 ans=None stem='patient has a complete spinal cord lesion at the C'
+  Q214: opts=3 ans=None stem='C8 SCI independent mobility with which adapted of '
+  Q215: opts=3 ans=None stem='Pt with SCI  there is weakness in his lower limb t'
+  Q216: opts=4 ans=None stem='pt with new SCI ( Spinl Cord Injury) reffersd to y'
+  Q217: opts=0 ans=None stem=''
+
+=== Page 232 === [Neuromuscular System]
+  Q218: opts=4 ans=None stem='To help decrease shear when transferring a patient'
+  Q219: opts=4 ans=None stem='Which of the following spinal levels is the lowest'
+  Q220: opts=4 ans=None stem='In SCI which of the following in not of complicati'
+  Q221: opts=0 ans=4 stem=''
+  Q222: opts=0 ans=None stem=''
+
+=== Page 233 === [Neuromuscular System]
+  Q223: opts=4 ans=None stem='A therapist is sent to the intensive care unit to '
+  Q224: opts=4 ans=None stem='In a patient with head injury, unexplained hypoten'
+  Q225: opts=4 ans=None stem='A therapist is treating a 35-year-old man who has '
+  Q226: opts=0 ans=None stem=''
+
+=== Page 234 === [Neuromuscular System]
+  Q227: opts=4 ans=None stem='A therapist is treating a patient with spinal cord'
+  Q228: opts=0 ans=1 stem=''
+  Q229: opts=4 ans=None stem='A 48 - year - old woman patient with paraplegia af'
+  Q230: opts=4 ans=None stem='Which of the following is the most appropriate sta'
+  Q231: opts=0 ans=None stem=''
+
+=== Page 235 === [Neuromuscular System]
+  Q232: opts=4 ans=None stem='A 20 - year - old patient with incomplete T6 spina'
+  Q233: opts=4 ans=None stem='A therapist is treating a patient with an injury a'
+  Q234: opts=4 ans=None stem='A physical therapist is reviewing the chart of 24-'
+  Q235: opts=4 ans=None stem='Fracture dislocation L4-5 will result in:'
+  Q236: opts=0 ans=None stem=''
+
+=== Page 236 === [Neuromuscular System]
+  Q237: opts=0 ans=4 stem=''
+  Q238: opts=0 ans=2 stem=''
+  Q239: opts=0 ans=4 stem=''
+
+=== Page 237 === [Neuromuscular System]
+  ORPHAN(pre): opts=4 ans=None
+  Q240: opts=0 ans=3 stem=''
+  Q241: opts=0 ans=4 stem=''
+  Q242: opts=4 ans=None stem='Which of the following is the most effective fall '
+  Q243: opts=2 ans=None stem='Main purpose from semi lying position:'
+  Q244: opts=0 ans=None stem=''
+
+=== Page 238 === [Neuromuscular System]
+  Q245: opts=4 ans=None stem='A 60-year-old woman who has suffered a recent stro'
+  Q246: opts=3 ans=None stem='A 52-year-old man with sciatica presents to outpat'
+  Q247: opts=0 ans=1 stem=''
+  Q248: opts=0 ans=None stem=''
+
+=== Page 239 === [SKIPPED]
+=== Page 240 === [Cardiovascular and Pulmonary Systems]
+
+=== Page 241 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=2 ans=3
+  Q1: opts=0 ans=None stem=''
+  Q2: opts=0 ans=None stem=''
+  Q3: opts=3 ans=None stem='Muscle that work the most in respiration?'
+  Q4: opts=0 ans=None stem=''
+
+=== Page 242 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=3 ans=2
+  Q5: opts=0 ans=None stem=''
+  Q6: opts=0 ans=None stem=''
+  Q7: opts=0 ans=None stem=''
+
+=== Page 243 === [Cardiovascular and Pulmonary Systems]
+  Q8: opts=2 ans=3 stem='Volkmann’s ischemic contracture occur due to : 1-f'
+  Q9: opts=2 ans=1 stem='which is correct about Volkmann’s ischemic contrac'
+  Q10: opts=0 ans=None stem=''
+
+=== Page 244 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=7 ans=4
+  Q11: opts=0 ans=None stem=''
+  Q12: opts=0 ans=None stem=''
+  Q13: opts=0 ans=None stem=''
+
+=== Page 245 === [Cardiovascular and Pulmonary Systems]
+  Q14: opts=4 ans=4 stem='Fracture Lower humerus fracture, therapist tend to'
+  Q15: opts=4 ans=3 stem='The therapist is stretching the biceps muscle in a'
+  Q16: opts=4 ans=None stem='The use of compression stockings on the feet and a'
+  Q17: opts=0 ans=4 stem=''
+
+=== Page 246 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=1
+  Q18: opts=0 ans=None stem=''
+  Q21: opts=0 ans=None stem=''
+  Q19: opts=0 ans=None stem=''
+  Q20: opts=4 ans=None stem='Average skeletal muscle blood flow at resting is:'
+
+=== Page 247 === [pulmonary artery (MPA). From there, the blood flows through the right and left pulmonary arter­]
+  Q22: opts=0 ans=None stem=''
+  Q23: opts=8 ans=2 stem='Left ventricle more important than Right ventricle'
+  Q24: opts=0 ans=None stem=''
+
+=== Page 248 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=4
+  Q25: opts=0 ans=None stem=''
+  Q27: opts=0 ans=None stem=''
+  Q28: opts=0 ans=None stem=''
+  Q26: opts=0 ans=None stem=''
+
+=== Page 249 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=6 ans=2
+  Q30: opts=0 ans=None stem=''
+  Q31: opts=0 ans=None stem=''
+  Q32: opts=4 ans=1 stem='Cardiac output means:output?'
+  Q29: opts=0 ans=None stem=''
+
+=== Page 250 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=8 ans=2
+  Q34: opts=0 ans=None stem=''
+  Q35: opts=0 ans=None stem=''
+  Q36: opts=0 ans=None stem=''
+  Q33: opts=0 ans=None stem=''
+
+=== Page 251 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=3
+  Q37: opts=0 ans=None stem=''
+  Q38: opts=0 ans=None stem=''
+  Q39: opts=4 ans=None stem='Irreversible risk factor in coronary artery diseas'
+
+=== Page 252 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=1
+  Q40: opts=0 ans=None stem=''
+  Q41: opts=4 ans=4 stem='Base of heart directed'
+
+=== Page 253 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=8 ans=3
+  Q43: opts=0 ans=None stem=''
+  Q44: opts=0 ans=None stem=''
+  Q42: opts=4 ans=2 stem='Parasympathetic action of heart'
+  Q45: opts=0 ans=None stem=''
+
+=== Page 254 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=1
+  Q46: opts=0 ans=None stem=''
+  Q47: opts=0 ans=None stem=''
+  Q48: opts=0 ans=None stem=''
+  Q49: opts=0 ans=None stem=''
+
+=== Page 255 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=6 ans=3
+  Q50: opts=0 ans=None stem=''
+  Q51: opts=0 ans=None stem=''
+  Q52: opts=0 ans=None stem=''
+  Q53: opts=0 ans=None stem=''
+
+=== Page 256 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=4
+  Q54: opts=0 ans=None stem=''
+  Q55: opts=4 ans=1 stem='56-year-old patient with an ejection fraction of 3'
+  Q56: opts=0 ans=None stem=''
+
+=== Page 257 === [Pulmonary]
+  ORPHAN(pre): opts=4 ans=2
+  Q57: opts=0 ans=None stem=''
+  Q58: opts=0 ans=None stem=''
+  Q59: opts=0 ans=None stem=''
+  Q60: opts=0 ans=None stem=''
+
+=== Page 258 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=7 ans=3
+  Q61: opts=0 ans=None stem=''
+  Q62: opts=0 ans=None stem=''
+  Q63: opts=0 ans=2 stem=''
+
+=== Page 259 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=3
+  Q65: opts=0 ans=None stem=''
+  Q64: opts=3 ans=None stem='Which make rapid decrease in heart rate ?'
+  Q66: opts=0 ans=3 stem=''
+
+=== Page 260 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=10 ans=2
+  Q67: opts=0 ans=None stem=''
+  Q68: opts=0 ans=None stem=''
+  Q69: opts=0 ans=None stem=''
+  Q70: opts=0 ans=None stem=''
+
+=== Page 261 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q71: opts=0 ans=None stem=''
+  Q72: opts=0 ans=None stem=''
+  Q73: opts=0 ans=None stem=''
+  Q74: opts=0 ans=2 stem=''
+
+=== Page 262 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=3
+  Q78: opts=0 ans=None stem=''
+  Q79: opts=0 ans=None stem=''
+  Q80: opts=0 ans=None stem=''
+
+=== Page 263 === [Cardiovascular and Pulmonary Systems]
+  Q81: opts=0 ans=None stem=''
+  Q82: opts=0 ans=None stem=''
+  Q83: opts=4 ans=2 stem='best exercise for COPD'
+
+=== Page 264 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=3
+  Q84: opts=0 ans=None stem=''
+  Q85: opts=0 ans=None stem=''
+  Q86: opts=0 ans=None stem=''
+  Q87: opts=0 ans=None stem=''
+
+=== Page 265 === [Cardiovascular and Pulmonary Systems]
+  Q88: opts=0 ans=None stem=''
+  Q89: opts=0 ans=None stem=''
+  Q90: opts=0 ans=2 stem=''
+
+=== Page 266 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=8 ans=None
+  Q86: opts=0 ans=2 stem=''
+  Q91: opts=0 ans=None stem=''
+  Q92: opts=0 ans=None stem=''
+  Q93: opts=0 ans=None stem=''
+
+=== Page 267 === [Cardiovascular and Pulmonary Systems]
+  Q94: opts=0 ans=None stem=''
+  Q95: opts=0 ans=None stem=''
+  Q96: opts=4 ans=4 stem='Which of the following is the most appropriate des'
+
+=== Page 268 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=3
+  Q97: opts=0 ans=None stem=''
+  Q98: opts=0 ans=None stem=''
+  Q99: opts=0 ans=None stem=''
+
+=== Page 269 === [Cardiovascular and Pulmonary Systems]
+  Q100: opts=0 ans=None stem=''
+  Q101: opts=0 ans=None stem=''
+  Q102: opts=3 ans=2 stem='In angina pectoris chest pain present in'
+
+=== Page 270 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=3 ans=3
+  Q104: opts=0 ans=None stem=''
+  Q103: opts=0 ans=None stem=''
+  Q105: opts=4 ans=None stem='The therapist works in a cardiac rehabilitation se'
+
+=== Page 271 === [Cardiovascular and Pulmonary Systems]
+  Q106: opts=0 ans=None stem=''
+  Q107: opts=4 ans=2 stem='when detect target heart rate in unstable angina w'
+  Q108: opts=3 ans=None stem='Physical Therapist detect alarm signs for cardiac '
+
+=== Page 272 === [Cardiovascular and Pulmonary Systems]
+  Q110: opts=0 ans=3 stem=''
+  Q109: opts=4 ans=3 stem='A therapist is ordered by a physician to treat a p'
+  Q111: opts=0 ans=None stem=''
+
+=== Page 273 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=4
+  Q112: opts=0 ans=None stem=''
+  Q113: opts=0 ans=None stem=''
+  Q114: opts=5 ans=None stem='A physical therapist is treating a patient who is '
+
+=== Page 274 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=7 ans=3
+  Q117: opts=0 ans=None stem=''
+  Q116: opts=0 ans=None stem=''
+  Q115: opts=0 ans=5 stem=''
+
+=== Page 275 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=8 ans=2
+  Q118: opts=0 ans=None stem=''
+  Q120: opts=0 ans=None stem=''
+  Q119: opts=0 ans=3 stem=''
+
+=== Page 276 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=2
+  Q121: opts=0 ans=None stem=''
+  Q122: opts=0 ans=None stem=''
+  Q123: opts=0 ans=None stem=''
+
+=== Page 277 === [pulmonary odema]
+  ORPHAN(pre): opts=7 ans=2
+  Q126: opts=0 ans=None stem=''
+  Q125: opts=0 ans=None stem=''
+  Q124: opts=0 ans=None stem=''
+
+=== Page 278 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=3
+  Q129: opts=0 ans=None stem=''
+  Q130: opts=0 ans=None stem=''
+  Q128: opts=0 ans=None stem=''
+  Q127: opts=4 ans=None stem='in early stage of bronchitis  there is'
+
+=== Page 279 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=8 ans=4
+  Q133: opts=0 ans=None stem=''
+  Q132: opts=0 ans=None stem=''
+  Q131: opts=0 ans=None stem=''
+
+=== Page 280 === [Cardiovascular and Pulmonary Systems]
+  Q134: opts=0 ans=None stem=''
+  Q135: opts=0 ans=None stem=''
+  Q136: opts=7 ans=2 stem='Which of the following is defined as Pulmonary ven'
+
+=== Page 281 === [Cardiovascular and Pulmonary Systems]
+  Q137: opts=0 ans=None stem=''
+  Q138: opts=0 ans=None stem=''
+  Q139: opts=0 ans=None stem=''
+  Q140: opts=7 ans=3 stem='A 60-year-old man underwent cardiac surgery yester'
+
+=== Page 282 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=12 ans=4
+  Q141: opts=0 ans=None stem=''
+  Q142: opts=0 ans=None stem=''
+  Q143: opts=0 ans=None stem=''
+
+=== Page 283 === [Pulmonary function and gas exchange deteriorate after pulmonary resection. The vital capacity,]
+  ORPHAN(pre): opts=7 ans=1
+  Q140: opts=4 ans=None stem='patient coming to you suffering from pain at calve'
+  Q147: opts=0 ans=None stem=''
+  Q146: opts=0 ans=None stem=''
+  Q145: opts=0 ans=None stem=''
+  Q144: opts=0 ans=None stem=''
+
+=== Page 284 === [Cardiovascular and Pulmonary Systems]
+  Q148: opts=0 ans=None stem=''
+  Q149: opts=0 ans=None stem=''
+  Q150: opts=4 ans=4 stem='Which of the following statements is NOT true abou'
+
+=== Page 285 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=11 ans=2
+  Q151: opts=0 ans=None stem=''
+  Q152: opts=0 ans=None stem=''
+  Q153: opts=0 ans=None stem=''
+
+=== Page 286 === [Cardiovascular and Pulmonary Systems]
+  Q154: opts=0 ans=None stem=''
+  Q155: opts=0 ans=None stem=''
+  Q156: opts=0 ans=None stem=''
+  Q157: opts=12 ans=1 stem='burger’s disease patient complains of pain after w'
+
+=== Page 287 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=3
+  Q158: opts=0 ans=None stem=''
+  Q159: opts=0 ans=None stem=''
+  Q160: opts=0 ans=3 stem=''
+
+=== Page 288 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=1
+  Q161: opts=0 ans=None stem=''
+  Q162: opts=0 ans=None stem=''
+  Q163: opts=4 ans=1 stem='The anatomical snuffbox contains a portion of this'
+
+=== Page 289 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=6 ans=3
+  Q166: opts=0 ans=None stem=''
+  Q165: opts=0 ans=None stem=''
+  Q167: opts=4 ans=None stem='in thrombosis we do'
+  Q164: opts=4 ans=None stem='A patient with cystic fibrosis has a great amount '
+
+=== Page 290 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=8 ans=3
+  Q168: opts=0 ans=None stem=''
+  Q169: opts=0 ans=3 stem=''
+
+=== Page 291 === [Pulmonary embolism begin first from]
+  ORPHAN(pre): opts=6 ans=2
+  Q170: opts=0 ans=None stem=''
+  Q171: opts=0 ans=None stem=''
+  Q172: opts=0 ans=None stem=''
+  Q173: opts=4 ans=4 stem='Basic Airway Management (Manual / Non equipment) a'
+
+=== Page 292 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=3 ans=None
+  Q174: opts=4 ans=3 stem='Which of the following measures/procedures are not'
+  Q175: opts=0 ans=None stem=''
+  Q176: opts=0 ans=1 stem=''
+
+=== Page 293 === [Pulmonary embolism]
+  ORPHAN(pre): opts=4 ans=2
+  Q177: opts=0 ans=None stem=''
+  Q178: opts=0 ans=None stem=''
+  Q179: opts=0 ans=None stem=''
+
+=== Page 294 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=8 ans=3
+  Q182: opts=0 ans=None stem=''
+  Q181: opts=0 ans=None stem=''
+  Q180: opts=4 ans=2 stem='patient with sever back pain, after examination yo'
+  Q183: opts=0 ans=None stem=''
+
+=== Page 295 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=8 ans=3
+  Q184: opts=0 ans=None stem=''
+  Q185: opts=0 ans=None stem=''
+  Q186: opts=0 ans=None stem=''
+
+=== Page 296 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=2
+  Q187: opts=4 ans=None stem='A physical therapist is reviewing the chart of a 4'
+  Q188: opts=0 ans=None stem=''
+  Q189: opts=4 ans=None stem='How should you open the airway of an unconscious c'
+
+=== Page 297 === [SKIPPED]
+=== Page 298 === [Cardiovascular and Pulmonary Systems]
+
+=== Page 299 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q1: opts=4 ans=None stem='A 6-month-old baby boy is refered by a neurosurgeo'
+  Q2: opts=4 ans=None stem='A 6-month-old patient with Erb’s palsy, leading to'
+  Q3: opts=4 ans=None stem='An injury of one of the following roots of brachia'
+  Q4: opts=4 ans=None stem='An infant with Erb’s palsy presents with the invol'
+  Q5: opts=2 ans=None stem='Rolling begin at:'
+  Q6: opts=0 ans=None stem=''
+
+=== Page 300 === [Cardiovascular and Pulmonary Systems]
+  Q7: opts=4 ans=None stem='In Erb’s paralysis, the deformity is called:'
+  Q8: opts=4 ans=None stem='Policeman’s tip or Porter’s tip position is seen i'
+  Q9: opts=4 ans=None stem='In Klumpke’s paralysis, the deformity is called:'
+  Q10: opts=4 ans=None stem='A 5-year-old patient with Erb’s palsy has been ref'
+  Q11: opts=4 ans=None stem='infant with Erb’s palsy he can full recover with g'
+  Q12: opts=0 ans=None stem=''
+
+=== Page 301 === [Cardiovascular and Pulmonary Systems]
+  Q13: opts=0 ans=4 stem=''
+  Q14: opts=3 ans=None stem='To test righting - equilibrium in child'
+  Q15: opts=4 ans=None stem='A 35-year-old patient with left side hemiplegia wi'
+  Q16: opts=4 ans=None stem='Which of the following management techniques is as'
+  Q17: opts=0 ans=None stem=''
+
+=== Page 302 === [Cardiovascular and Pulmonary Systems]
+  Q18: opts=4 ans=None stem='First motor action could be seen in pediatric is:'
+  Q19: opts=4 ans=None stem='Baby with poor head control your first choose of t'
+  Q20: opts=4 ans=None stem='What is the average head circumference of a normal'
+  Q21: opts=4 ans=None stem='How many weeks gestation (fetal development) is co'
+  Q22: opts=4 ans=None stem='Baby from prone can support chest at any month?'
+  Q23: opts=0 ans=None stem=''
+
+=== Page 303 === [Cardiovascular and Pulmonary Systems]
+  Q24: opts=0 ans=1 stem=''
+  Q25: opts=4 ans=None stem='What is the mean age for a baby in months to start'
+  Q26: opts=3 ans=None stem='Child can go up and down stairs what age?'
+  Q27: opts=4 ans=None stem='In normal milestone baby can jump by both legs in '
+  Q28: opts=3 ans=None stem='Child can walk tip toe what age?'
+  Q29: opts=0 ans=None stem=''
+
+=== Page 304 === [Cardiovascular and Pulmonary Systems]
+  Q30: opts=0 ans=3 stem=''
+  Q31: opts=4 ans=None stem='Baby recognize his mother at what age in month?'
+  Q32: opts=4 ans=None stem='Which of the following is the most likely age, in '
+  Q33: opts=4 ans=None stem='All the following is true about spasticity except:'
+  Q34: opts=0 ans=3 stem=''
+
+=== Page 305 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q35: opts=3 ans=None stem='Child can kick the ball in:'
+  Q36: opts=4 ans=None stem='Which of the following ages, in months, do most ch'
+  Q37: opts=4 ans=None stem='At any age the child can walk independably:'
+  Q38: opts=4 ans=None stem='In which age by month child can walk and balance?'
+  Q39: opts=4 ans=None stem='At any age baby hand preference:'
+  Q40: opts=0 ans=None stem=''
+
+=== Page 306 === [Cardiovascular and Pulmonary Systems]
+  Q41: opts=3 ans=None stem='Fear from prone position in pediatric known as:'
+  Q42: opts=0 ans=3 stem=''
+  Q43: opts=4 ans=None stem='What the most primitive reflex of human body?'
+  Q44: opts=4 ans=None stem='baby supine lying abducting both shoulders with 90'
+  Q45: opts=0 ans=None stem=''
+
+=== Page 307 === [Cardiovascular and Pulmonary Systems]
+  Q46: opts=4 ans=None stem='An infant is being examined by a physical therapis'
+  Q47: opts=4 ans=None stem='Hand during the evaluation of an infant, the thera'
+  Q48: opts=2 ans=None stem='What is the cause of hip dysplasia?'
+  Q49: opts=0 ans=2 stem=''
+
+  img[0] KEPT page_307_img_0.jpeg
+=== Page 308 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q50: opts=0 ans=4 stem=''
+  Q51: opts=3 ans=None stem='Hypotoncity means:'
+  Q52: opts=0 ans=1 stem=''
+  Q53: opts=0 ans=4 stem=''
+
+=== Page 309 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q54: opts=0 ans=2 stem=''
+  Q55: opts=0 ans=3 stem=''
+  Q56: opts=0 ans=4 stem=''
+
+=== Page 310 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q57: opts=0 ans=3 stem=''
+  Q58: opts=0 ans=4 stem=''
+  Q59: opts=0 ans=2 stem=''
+
+=== Page 311 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q60: opts=0 ans=1 stem=''
+  Q61: opts=0 ans=3 stem=''
+  Q62: opts=0 ans=2 stem=''
+
+=== Page 312 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q63: opts=0 ans=3 stem=''
+  Q64: opts=0 ans=4 stem=''
+  Q65: opts=0 ans=3 stem=''
+
+=== Page 313 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q66: opts=0 ans=4 stem=''
+  Q68: opts=0 ans=2 stem=''
+  Q67: opts=0 ans=3 stem=''
+
+=== Page 314 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q69: opts=0 ans=2 stem=''
+  Q70: opts=0 ans=2 stem=''
+  Q71: opts=0 ans=2 stem=''
+
+=== Page 315 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=3 ans=None
+  Q72: opts=0 ans=1 stem=''
+  Q73: opts=0 ans=2 stem=''
+  Q74: opts=0 ans=1 stem=''
+  Q75: opts=0 ans=1 stem=''
+
+=== Page 316 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q76: opts=0 ans=4 stem=''
+  Q77: opts=4 ans=None stem='A type of cerebral palsy where there is a damage t'
+  Q78: opts=0 ans=4 stem=''
+
+=== Page 317 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q79: opts=4 ans=None stem='A child with spastic diplegia is now independent i'
+  Q80: opts=0 ans=4 stem=''
+  Q81: opts=0 ans=None stem=''
+
+=== Page 318 === [Cardiovascular and Pulmonary Systems]
+  Q82: opts=0 ans=3 stem=''
+  Q83: opts=0 ans=4 stem=''
+  Q84: opts=0 ans=None stem=''
+
+=== Page 319 === [Cardiovascular and Pulmonary Systems]
+  Q85: opts=0 ans=3 stem=''
+
+=== Page 320 === [SKIPPED]
+=== Page 321 === [Cardiovascular and Pulmonary Systems]
+
+=== Page 322 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=1
+  Q1: opts=4 ans=1 stem='A patient reports to therapy stating that his “sug'
+  Q2: opts=4 ans=4 stem='To decrease the risk of hypoglycemia in a patient '
+  Q3: opts=3 ans=None stem='In controlled diabetes, physiotherapist orders pat'
+  Q4: opts=0 ans=None stem=''
+
+=== Page 323 === [Cardiovascular and Pulmonary Systems]
+  Q5: opts=4 ans=4 stem='A diabetic patient is exercising vigorously in an '
+  Q6: opts=0 ans=1 stem=''
+  Q7: opts=0 ans=None stem=''
+
+=== Page 324 === [Cardiovascular and Pulmonary Systems]
+  Q8: opts=3 ans=3 stem='After arriving at the home of a home health patien'
+  Q9: opts=4 ans=2 stem='Which of the following durations, in months, is th'
+  Q10: opts=0 ans=None stem=''
+
+=== Page 325 === [Cardiovascular and Pulmonary Systems]
+  Q11: opts=4 ans=4 stem='Rickets is due to deficiency of vitamin:'
+  Q12: opts=4 ans=2 stem='Which of the following is the minimum separation, '
+  Q13: opts=0 ans=None stem=''
+
+=== Page 326 === [Cardiovascular and Pulmonary Systems]
+  Q14: opts=4 ans=2 stem='Visceral diseases of the abdomen and pelvis are li'
+  Q15: opts=4 ans=1 stem='Bone pain at night is a red flag symptom of what d'
+  Q16: opts=0 ans=None stem=''
+
+=== Page 327 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=1
+  Q18: opts=4 ans=None stem='During exercise pregnancy percentage of blood flow'
+  Q17: opts=4 ans=2 stem='Obesity is a risk factor for:'
+  Q19: opts=3 ans=None stem='Postnatal diastasis recto? The most effective to d'
+  Q20: opts=0 ans=None stem=''
+
+=== Page 328 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q21: opts=0 ans=4 stem=''
+  Q22: opts=4 ans=None stem='Ehag for Bee Which of the following musculoskeleta'
+  Q23: opts=0 ans=None stem=''
+
+=== Page 329 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q24: opts=0 ans=1 stem=''
+  Q25: opts=4 ans=None stem='Which of the following is the most likely cause of'
+  Q26: opts=0 ans=None stem=''
+
+=== Page 330 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q27: opts=0 ans=1 stem=''
+  Q29: opts=0 ans=1 stem=''
+  Q28: opts=0 ans=None stem=''
+
+=== Page 331 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q30: opts=0 ans=4 stem=''
+  Q31: opts=0 ans=4 stem=''
+  Q32: opts=0 ans=None stem=''
+
+=== Page 332 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=3 ans=None
+  Q33: opts=0 ans=1 stem=''
+  Q34: opts=0 ans=3 stem=''
+  Q35: opts=0 ans=1 stem=''
+  Q36: opts=0 ans=None stem=''
+
+=== Page 333 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q37: opts=0 ans=2 stem=''
+  Q38: opts=0 ans=4 stem=''
+  Q39: opts=0 ans=None stem=''
+
+=== Page 334 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=None
+  Q40: opts=0 ans=2 stem=''
+  Q41: opts=0 ans=None stem=''
+
+=== Page 335 === [SKIPPED]
+=== Page 336 === [Cardiovascular and Pulmonary Systems]
+
+=== Page 337 === [Cardiovascular and Pulmonary Systems]
+  Q1: opts=4 ans=None stem='Twenty-four hours following a major thermal burn, '
+  Q2: opts=0 ans=None stem=''
+  Q3: opts=0 ans=None stem=''
+  Q4: opts=0 ans=None stem=''
+  Q5: opts=0 ans=None stem=''
+  Q6: opts=16 ans=None stem='Burn affecting epidermis and superficial part of d'
+
+=== Page 338 === [Cardiovascular and Pulmonary Systems]
+  Q7: opts=0 ans=None stem=''
+  Q8: opts=0 ans=None stem=''
+  Q9: opts=0 ans=None stem=''
+  Q10: opts=0 ans=None stem=''
+  Q11: opts=15 ans=None stem='A 35 years old patient with third degree burns aff'
+
+=== Page 339 === [Cardiovascular and Pulmonary Systems]
+  Q13: opts=0 ans=None stem=''
+  Q12: opts=0 ans=None stem=''
+  Q14: opts=0 ans=None stem=''
+  Q15: opts=0 ans=None stem=''
+  Q16: opts=20 ans=None stem='What is the major concern of the physical therapis'
+
+=== Page 340 === [SKIPPED]
+=== Page 341 === [Cardiovascular and Pulmonary Systems]
+
+=== Page 342 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=3 ans=1
+  Q1: opts=0 ans=1 stem='the convex-concave role of the knee joint in open '
+  Q2: opts=4 ans=3 stem='Which of the following is associated with the prop'
+  Q3: opts=0 ans=None stem=''
+
+=== Page 343 === [Cardiovascular and Pulmonary Systems]
+  Q4: opts=3 ans=3 stem='which statement is incorrect about the passive mov'
+  Q5: opts=4 ans=3 stem='Which of the following is most commonly associated'
+  Q6: opts=3 ans=None stem='Accessory movement is not:'
+  Q7: opts=0 ans=None stem=''
+
+=== Page 344 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=3 ans=1
+  Q8: opts=3 ans=3 stem='Joint play ROM which occurs not named with:'
+  Q9: opts=3 ans=2 stem='During underwater exercises which will be difficul'
+  Q10: opts=0 ans=None stem=''
+
+=== Page 345 === [Cardiovascular and Pulmonary Systems]
+  Q11: opts=3 ans=2 stem='Which of the following types of stretching is asso'
+  Q12: opts=4 ans=3 stem='If muscles co contract in equal force. Co-contract'
+  Q13: opts=0 ans=None stem=''
+
+=== Page 346 === [Cardiovascular and Pulmonary Systems]
+  Q14: opts=5 ans=2 stem='A 65 - year - old man with Congestive Heart Failur'
+  Q15: opts=0 ans=None stem=''
+
+=== Page 347 === [Cardiovascular and Pulmonary Systems]
+  Q16: opts=4 ans=4 stem='Which of the following is the general recommendati'
+  Q17: opts=4 ans=None stem='A 37-year-old presented woman with vaginal prolaps'
+  Q18: opts=0 ans=None stem=''
+
+=== Page 348 === [Cardiovascular and Pulmonary Systems]
+  ORPHAN(pre): opts=4 ans=1
+  Q19: opts=4 ans=1 stem='A 65-year-old patient who suffered a stroke has be'
+  Q20: opts=0 ans=None stem=''
+
+=== Page 349 === [Cardiovascular and Pulmonary Systems]
+  Q21: opts=4 ans=2 stem='Which of the following is most effective in mobili'
+  Q22: opts=4 ans=1 stem='Which of the following training exercises is defin'
+  Q23: opts=0 ans=None stem=''
+
+=== Page 350 === [Therapeutic exercise involves movement prescribed to correct impairments, restore muscular]
+  Q24: opts=3 ans=3 stem='If the proximal bone of the joint is fixed and the'
+  Q25: opts=4 ans=3 stem='Which of the following is most commonly associated'
+  Q26: opts=0 ans=None stem=''
+
+=== Page 351 === [Therapeutic exercise involves movement prescribed to correct impairments, restore muscular]
+  Q27: opts=4 ans=4 stem='Which of the following is the most appropriate des'
+  Q28: opts=4 ans=2 stem='21-year-old female patient presents with neck pain'
+  Q29: opts=0 ans=None stem=''
+
+=== Page 352 === [Therapeutic exercise involves movement prescribed to correct impairments, restore muscular]
+  Q30: opts=4 ans=4 stem='Generally the ROM not depends on:'
+  Q31: opts=4 ans=2 stem='During weight bearing, a soft tissue contracture r'
+  Q32: opts=4 ans=None stem='After strengthening exercises for elderly, what sh'
+  Q33: opts=0 ans=None stem=''
+
+=== Page 353 === [Therapeutic exercise involves movement prescribed to correct impairments, restore muscular]
+  ORPHAN(pre): opts=4 ans=3
+  Q34: opts=0 ans=None stem=''
+
+=== Page 354 === [SKIPPED]
+=== Page 355 === [Therapeutic exercise involves movement prescribed to correct impairments, restore muscular]
+
+=== Page 356 === [Therapeutic exercise involves movement prescribed to correct impairments, restore muscular]
+  Q1: opts=4 ans=1 stem='You apply TENS for a patient and you find sever pa'
+  Q2: opts=0 ans=None stem=''
+  Q3: opts=4 ans=1 stem='Electrotherapy has physiological effect of heat th'
+
+=== Page 357 === [Therapeutic exercise involves movement prescribed to correct impairments, restore muscular]
+  ORPHAN(pre): opts=4 ans=3
+  Q5: opts=4 ans=1 stem='Burn is a response to thermal insult from external'
+  Q6: opts=0 ans=None stem=''
+  Q4: opts=0 ans=None stem='Applied electrical stimulation to area for long la'
+
+=== Page 358 === [Burns caused due to constant direct currents are called:]
+  Q7: opts=0 ans=4 stem=''
+  Q8: opts=4 ans=4 stem='In electrical stimulation intensity for muscle con'
+  Q9: opts=3 ans=None stem='Type of laser used in PT ttt :'
+  Q10: opts=0 ans=None stem=''
+
+=== Page 359 === [Burns caused due to constant direct currents are called:]
+  Q11: opts=4 ans=3 stem='Electrical stimulation duration to produce smooth '
+  Q12: opts=0 ans=3 stem=''
+  Q13: opts=0 ans=None stem=''
+
+=== Page 360 === [Burns caused due to constant direct currents are called:]
+  Q14: opts=4 ans=None stem='Which type of laser is used by a physical therapis'
+  Q15: opts=0 ans=2 stem=''
+  Q16: opts=0 ans=1 stem=''
+
+=== Page 361 === [Burns caused due to constant direct currents are called:]
+  ORPHAN(pre): opts=4 ans=1
+  Q17: opts=4 ans=3 stem='All the following are from the characteristic of l'
+  Q18: opts=3 ans=1 stem='In radiating energy when we use it 30 inch from th'
+  Q19: opts=0 ans=None stem=''
+
+=== Page 362 === [Burns caused due to constant direct currents are called:]
+  Q20: opts=4 ans=None stem='A patient with supraspinatus tendonitis is undergo'
+  Q22: opts=0 ans=1 stem=''
+  Q21: opts=0 ans=4 stem=''
+  Q23: opts=0 ans=None stem=''
+
+=== Page 363 === [Burns caused due to constant direct currents are called:]
+  Q24: opts=0 ans=4 stem=''
+  Q25: opts=3 ans=2 stem='U.S can be mostly absorbed by skeletal muscle as i'
+  Q26: opts=0 ans=None stem=''
+
+  img[0] KEPT page_363_img_0.png
+=== Page 364 === [Burns caused due to constant direct currents are called:]
+  Q27: opts=4 ans=3 stem='Which of the following is the most appropriate cha'
+  Q28: opts=4 ans=None stem='Which of the following results from changes to qua'
+  Q29: opts=0 ans=None stem=''
+
+=== Page 365 === [Burns caused due to constant direct currents are called:]
+  Q30: opts=0 ans=2 stem=''
+  Q31: opts=4 ans=4 stem='A 63-year-old woman presents to physical therapy w'
+  Q32: opts=0 ans=None stem=''
+
+=== Page 366 === [Burns caused due to constant direct currents are called:]
+  Q33: opts=4 ans=4 stem='T.E.N.S frequency :'
+  Q34: opts=4 ans=2 stem='Which of the following is the therapeutic frequenc'
+  Q35: opts=3 ans=None stem='Frequency that can make titanic muscle contraction'
+  Q36: opts=0 ans=1 stem=''
+
+=== Page 367 === [Burns caused due to constant direct currents are called:]
+  ORPHAN(pre): opts=4 ans=1
+  Q37: opts=4 ans=1 stem='When using ultrasound in treating chronic bursitis'
+  Q38: opts=4 ans=2 stem='Which of the following is the most appropriate max'
+  Q39: opts=0 ans=None stem=''
+
+=== Page 368 === [Burns caused due to constant direct currents are called:]
+  Q40: opts=4 ans=4 stem='A patient comes with severe low back pain. After e'
+  Q41: opts=4 ans=1 stem='Which of the following theories support the use of'
+  Q42: opts=0 ans=None stem=''
+
+=== Page 369 === [Burns caused due to constant direct currents are called:]
+  Q43: opts=4 ans=4 stem='When treating chronic pain which type of TENS used'
+  Q44: opts=4 ans=2 stem='Patient has chronic brachialgia which is the best '
+  Q45: opts=0 ans=None stem=''
+
+=== Page 370 === [Burns caused due to constant direct currents are called:]
+  Q46: opts=4 ans=2 stem='Patient with elbow pain for 5 months and just stop'
+  Q47: opts=2 ans=1 stem='What is the best modality to use prior to stretchi'
+  Q48: opts=0 ans=None stem=''
+
+=== Page 371 === [Burns caused due to constant direct currents are called:]
+  Q49: opts=4 ans=3 stem='A 75-year-old patient with severe osteoarthritis h'
+  Q50: opts=2 ans=1 stem='What is the best modality to use after muscle sore'
+  Q51: opts=0 ans=None stem=''
+
+=== Page 372 === [Burns caused due to constant direct currents are called:]
+  Q52: opts=4 ans=1 stem='Which of the following is the most appropriate com'
+  Q53: opts=4 ans=1 stem='When patient coming for you has limited ROM due to'
+  Q54: opts=0 ans=None stem=''
+
+=== Page 373 === [Burns caused due to constant direct currents are called:]
+  Q55: opts=4 ans=1 stem='Decrease edema in ankle joint by :'
+  Q56: opts=4 ans=1 stem='Decrease edema in ankle joint by:'
+  Q57: opts=3 ans=None stem='Therapist use electrical method for pumping action'
+  Q58: opts=0 ans=None stem=''
+
+=== Page 374 === [Burns caused due to constant direct currents are called:]
+  ORPHAN(pre): opts=4 ans=2
+  Q59: opts=4 ans=4 stem='Which current used for wound healing?'
+  Q60: opts=4 ans=4 stem='Contraction of muscle by electrical stimulation wh'
+  Q61: opts=0 ans=None stem=''
+
+=== Page 375 === [Burns caused due to constant direct currents are called:]
+  Q62: opts=3 ans=1 stem='All of the following are physiological effect of e'
+  Q63: opts=4 ans=None stem='The rate of electrical nerve stimulation through t'
+  Q64: opts=0 ans=3 stem=''
+
+=== Page 376 === [Burns caused due to constant direct currents are called:]
+  ORPHAN(pre): opts=3 ans=1
+  Q65: opts=3 ans=2 stem='Heating with (E.S) which is not correct?'
+  Q66: opts=3 ans=2 stem='Electrical nerve stimulation frequency is:'
+  Q67: opts=4 ans=None stem='A 58-year-old patient comes to the Physical Therap'
+  Q68: opts=0 ans=None stem=''
+
+=== Page 377 === [Burns caused due to constant direct currents are called:]
+  ORPHAN(pre): opts=4 ans=4
+  Q69: opts=4 ans=3 stem='Which of the following is an example of monophasic'
+  Q70: opts=4 ans=2 stem='SWD transfers energy by:'
+  Q71: opts=0 ans=None stem=''
+
+=== Page 378 === [Burns caused due to constant direct currents are called:]
+  Q72: opts=4 ans=4 stem='Your plan of care includes use of iontophoresis in'
+  Q73: opts=4 ans=3 stem='What is your best first treatment/ intervention of'
+  Q74: opts=0 ans=None stem=''
+
+=== Page 379 === [Burns caused due to constant direct currents are called:]
+  Q75: opts=0 ans=3 stem=''
+  Q76: opts=0 ans=None stem=''
+
+=== Page 380 === [Burns caused due to constant direct currents are called:]
+  Q77: opts=3 ans=1 stem='Maximum ultrasound frequancy:'
+  Q78: opts=4 ans=3 stem='A patient is being treated with iontophoresis, dri'
+  Q79: opts=0 ans=None stem=''
+
+=== Page 381 === [Burns caused due to constant direct currents are called:]
+  Q80: opts=4 ans=4 stem='An elderly obese woman is diagnosed with a fractur'
+  Q81: opts=4 ans=2 stem='Patient with a contaminated surgical wound on lumb'
+  Q82: opts=0 ans=None stem=''
+
+=== Page 382 === [Burns caused due to constant direct currents are called:]
+  Q83: opts=3 ans=1 stem='Patient coming with industrial burn involved the d'
+  Q84: opts=0 ans=None stem=''
+
+=== Page 383 === [Burns caused due to constant direct currents are called:]
+  Q85: opts=4 ans=3 stem='To treat patient with deep heat, which is not form'
+  Q86: opts=4 ans=1 stem='Which of the following physiological effects is co'
+  Q87: opts=4 ans=3 stem='When use iontophoresis; it is a type of:'
+  Q88: opts=0 ans=None stem=''
+
+=== Page 384 === [Burns caused due to constant direct currents are called:]
+  Q89: opts=4 ans=2 stem='What is the type of electrical current that is use'
+  Q90: opts=4 ans=None stem='The therapist has given a patient an ultraviolet t'
+  Q91: opts=0 ans=3 stem=''
+
+  img[0] KEPT page_384_img_0.png
+=== Page 385 === [Burns caused due to constant direct currents are called:]
+  ORPHAN(pre): opts=4 ans=1
+  Q92: opts=4 ans=2 stem='After exposure to U.V.R patient of come with pigme'
+  Q93: opts=4 ans=1 stem='Pt has pain due to deep muscle strain we use:'
+  Q94: opts=3 ans=1 stem='What is best for scar tissue:'
+  Q95: opts=0 ans=None stem=''
+
+=== Page 386 === [Burns caused due to constant direct currents are called:]
+  Q96: opts=4 ans=3 stem='A therapist is treating a patient with an infected'
+  Q97: opts=4 ans=3 stem='Which of the following can make hypersensitivity?'
+  Q98: opts=3 ans=None stem='What is the best electrical modalities chosen to t'
+  Q99: opts=0 ans=None stem=''
+
+=== Page 387 === [Burns caused due to constant direct currents are called:]
+  ORPHAN(pre): opts=4 ans=3
+  Q100: opts=4 ans=4 stem='A 48-year-old patient with pelvic floor muscle wea'
+  Q101: opts=2 ans=1 stem='contraindication in TENS stimulation ?'
+  Q102: opts=0 ans=None stem=''
+
+=== Page 388 === [Burns caused due to constant direct currents are called:]
+  Q103: opts=4 ans=1 stem='A therapist is treating a patient with a strain at'
+  Q104: opts=3 ans=2 stem='A 25-year-old patient comes to the Physical Therap'
+  Q105: opts=0 ans=None stem=''
+
+=== Page 389 === [Burns caused due to constant direct currents are called:]
+  Q106: opts=4 ans=3 stem='A 40-year-old woman presented to the physical ther'
+  Q107: opts=4 ans=3 stem='Muscle reeducation In comparing the use of cold pa'
+  Q108: opts=0 ans=None stem=''
+
+=== Page 390 === [Burns caused due to constant direct currents are called:]
+  Q109: opts=4 ans=3 stem='A 58-year-old woman presented with severe hip pain'
+  Q110: opts=4 ans=4 stem='Use of shortwave diathermy and microwave diathermy'
+  Q111: opts=0 ans=None stem=''
+
+=== Page 391 === [Burns caused due to constant direct currents are called:]
+  Q112: opts=4 ans=1 stem='Short wave (SWD) contraindications:'
+  Q113: opts=3 ans=2 stem='SWD contraindication is:'
+  Q114: opts=0 ans=None stem=''
+
+=== Page 392 === [Burns caused due to constant direct currents are called:]
+  Q115: opts=4 ans=2 stem='Which of the following is the main contraindicatio'
+  Q116: opts=4 ans=3 stem='Which of the following is contraindicated to ultra'
+  Q117: opts=4 ans=None stem='When using electrical stimulation with a unit that'
+  Q118: opts=0 ans=None stem=''
+
+=== Page 393 === [Burns caused due to constant direct currents are called:]
+  Q119: opts=4 ans=None stem='A patient is receiving electrical stimulation for '
+  Q120: opts=4 ans=4 stem='A physician has ordered a specific type of electri'
+  Q121: opts=2 ans=None stem='How to check shortwave before application?'
+  Q122: opts=0 ans=None stem=''
+
+=== Page 394 === [Burns caused due to constant direct currents are called:]
+  Q123: opts=4 ans=1 stem='Infrared can cause burn, what’s distance should be'
+  Q124: opts=4 ans=2 stem='A 35-year-old patient presented to the Physical Th'
+  Q125: opts=0 ans=None stem=''
+
+=== Page 395 === [Burns caused due to constant direct currents are called:]
+  Q126: opts=4 ans=2 stem='Which of the following statements is false about t'
+  Q127: opts=3 ans=None stem='Ultrasonic under water technique the head will be:'
+  Q128: opts=4 ans=None stem='A therapist is treating a patient with a venous in'
+  Q129: opts=4 ans=None stem='Physical therapist is ordered to evaluate a patien'
+  Q130: opts=0 ans=None stem=''
+
+=== Page 396 === [Burns caused due to constant direct currents are called:]
+  Q131: opts=4 ans=3 stem='Coupling media of ultrasonic which of the followin'
+  Q132: opts=4 ans=3 stem='For denervated ms we use at least:'
+  Q133: opts=3 ans=3 stem='In Bell`s palsy we use:'
+  Q134: opts=0 ans=None stem=''
+
+=== Page 397 === [Burns caused due to constant direct currents are called:]
+  Q135: opts=4 ans=2 stem='One of these electrical stimulation methods does n'
+  Q136: opts=3 ans=3 stem='Pt of bells palsy long time treated with (E.S) you'
+  Q137: opts=4 ans=None stem='When applying electrical muscle stimulation how ma'
+  Q138: opts=0 ans=None stem=''
+
+=== Page 398 === [Burns caused due to constant direct currents are called:]
+  Q139: opts=4 ans=2 stem='During immersion technique in paraffin wax, the te'
+  Q140: opts=3 ans=2 stem='Wax bathes are available in many variations of siz'
+  Q141: opts=4 ans=3 stem='Which of the following is the ideal temperature, i'
+  Q142: opts=0 ans=None stem=''
+
+=== Page 399 === [Burns caused due to constant direct currents are called:]
+  Q143: opts=4 ans=2 stem='Ice massaging is contraindicated with:'
+  Q144: opts=4 ans=3 stem='Which of the following pathological conditions is '
+  Q145: opts=4 ans=None stem='Therapist is treating a new patient with a diagnos'
+  Q146: opts=0 ans=None stem=''
+
+=== Page 400 === [Burns caused due to constant direct currents are called:]
+  Q147: opts=4 ans=1 stem='Apist routinely places ice on the ankle of a patie'
+  Q148: opts=2 ans=2 stem='Tool provide physiotherapist with visual and audit'
+  Q149: opts=0 ans=None stem=''
+
+=== Page 401 === [SKIPPED]
+=== Page 402 === [Burns caused due to constant direct currents are called:]
+
+=== Page 403 === [ANATOMY]
+  Q1: opts=4 ans=None stem='ANATOMY A physical therapist attempts to palpate t'
+  Q2: opts=4 ans=None stem='When evaluating forearm muscles, the therapist ask'
+  Q3: opts=4 ans=None stem='A 56-year-old man presents to the clinic after 1 m'
+  Q4: opts=4 ans=None stem='A physical therapist reviews a physician’s examina'
+  Q5: opts=0 ans=None stem=''
+
+=== Page 404 === [VIP - Quiz bank]
+  Q6: opts=4 ans=None stem='Which of the following joints of the upper limb do'
+  Q7: opts=4 ans=None stem='Which of the following characteristics is unique t'
+  Q8: opts=4 ans=None stem='A 28-year-old patient with quadriceps muscles weak'
+  Q9: opts=4 ans=None stem='You are a home therapist treating a patient who un'
+  Q10: opts=0 ans=None stem=''
+  Q11: opts=4 ans=None stem='Which of the following is the most likely cause of'
+
+=== Page 405 === [VIP - Quiz bank]
+  ORPHAN(pre): opts=4 ans=None
+  Q1: opts=4 ans=None stem='CARDIOPULMONARY The electrical signal responsible '
+  Q2: opts=4 ans=None stem='In patient with coronary heart disease which of th'
+  Q3: opts=4 ans=None stem='A 72 year-old is recovering at home from a myocard'
+  Q4: opts=0 ans=None stem=''
+  Q5: opts=4 ans=None stem='Which of the following is another name of “tubercu'
+  Q6: opts=4 ans=None stem='Which of the following is described as covering th'
+
+=== Page 406 === [VIP - Quiz bank]
+  ORPHAN(pre): opts=4 ans=None
+  Q7: opts=4 ans=None stem='A physical therapist prepares to perform manual vi'
+  Q8: opts=4 ans=None stem='Which of the following is the main advantage of se'
+  Q9: opts=4 ans=None stem='As a general rule of prescribing exercise for any '
+  Q10: opts=4 ans=None stem='A physical therapist designs an exercise program f'
+  Q11: opts=0 ans=None stem=''
+
+=== Page 407 === [VIP - Quiz bank]
+  Q12: opts=4 ans=None stem='An older person with diagnosis of congestive heart'
+  Q13: opts=4 ans=None stem='The lung is inflated at all times, under normal co'
+  Q14: opts=4 ans=None stem='A patient with”Buerger’s disease” has been referre'
+  Q15: opts=4 ans=None stem='A middle-aged man is admitted to the Stroke Unit f'
+  Q16: opts=0 ans=None stem=''
+
+=== Page 408 === [VIP - Quiz bank]
+  Q17: opts=4 ans=None stem='Which of the following is the main aim of acute re'
+  Q18: opts=4 ans=None stem='A “cerebral embolism” can cause serious cerebrovas'
+  Q19: opts=4 ans=None stem='Which of the following is the most likely cause of'
+  Q20: opts=4 ans=None stem='A patient presents with a large plantar ulcer that'
+  Q21: opts=3 ans=None stem='A 65-year-old man with “Congestive Heart Failure” '
+  Q22: opts=0 ans=None stem=''
+
+=== Page 409 === [VIP - Quiz bank]
+  Q1: opts=4 ans=None stem='ORTHOSI & PROSTHESIS The main goal of an ergonomic'
+  Q2: opts=4 ans=None stem='Hip joint stability depends on which of the follow'
+  Q3: opts=4 ans=None stem='Patient wearing a below knee prosthesis, complain '
+  Q4: opts=4 ans=None stem='Which of the following statements defines orthosis'
+  Q5: opts=4 ans=None stem='One joint hip flexor contracture result:'
+  Q6: opts=0 ans=None stem=''
+
+=== Page 410 === [VIP - Quiz bank]
+  Q7: opts=4 ans=None stem='A patient was recently referred to a therapist wit'
+  Q8: opts=4 ans=None stem='A physical therapist reviews the medical chart of '
+  Q9: opts=4 ans=None stem='Following major surgery of the right hip, a patien'
+  Q10: opts=4 ans=None stem='Which of the following will be resulted when a phy'
+  Q11: opts=0 ans=None stem=''
+
+=== Page 411 === [KNOWLEDGE]
+  Q12: opts=4 ans=None stem='Which of the following shoulder motions is easily '
+  Q1: opts=4 ans=None stem='POSTURE & AXES KNOWLEDGE Which of the following bo'
+  Q1: opts=4 ans=None stem='A physical therapist attempts to quantify the amou'
+  Q2: opts=4 ans=None stem='A patient management model is a comprehensive appr'
+  Q3: opts=0 ans=None stem=''
+
+=== Page 412 === [VIP - Quiz bank]
+  Q4: opts=4 ans=None stem='Which of the following factors is classified as a '
+  Q5: opts=4 ans=None stem='A 24-year-old man comes to the clinic with right k'
+  Q6: opts=4 ans=None stem='An athlete comes to the Physiotherapy Department w'
+  Q7: opts=4 ans=None stem='A 72 year-old woman is being treated for depressio'
+  Q8: opts=0 ans=None stem=''
+
+=== Page 413 === [VIP - Quiz bank]
+  Q9: opts=4 ans=None stem='A 92 year-old woman presents with hot, red, and ed'
+  Q10: opts=4 ans=None stem='A physical therapist prepares to administer the Be'
+  Q11: opts=4 ans=None stem='A physical therapist attempts to obtain informatio'
+  Q12: opts=4 ans=None stem='A patient suffers from burns, which include the ep'
+  Q1: opts=0 ans=None stem='POSTURE & AXES'
+
+=== Page 414 === [VIP - Quiz bank]
+  Q1: opts=4 ans=None stem='A 27-year-old woman who is a 3-month pregnant, pre'
+  Q2: opts=4 ans=None stem='A 33-year-old man is undergoing conditioning rehab'
+  Q3: opts=4 ans=None stem='A 60-year-old obese, hypertensive, and diabetic pa'
+  Q4: opts=0 ans=None stem=''
+
+=== Page 415 === [ORTHOPEDIC]
+  Q1: opts=4 ans=None stem='A six month-old child was referred to physical the'
+  Q2: opts=4 ans=None stem='A right hemiplegic patient, who had a left CVA 3  '
+  Q3: opts=4 ans=None stem='Which of the following is the main aim of rehabili'
+  Q4: opts=4 ans=None stem='A 45-year-old patient presented with a 3-week hist'
+  Q5: opts=0 ans=None stem=''
+
+=== Page 416 === [VIP - Quiz bank]
+  Q6: opts=4 ans=None stem='Which of the following is another name of “fractur'
+  Q7: opts=4 ans=None stem='On which of the following nerves cubitus valgus de'
+  Q8: opts=4 ans=None stem='A 2-year-old child, spastic diplegic, is brought t'
+  Q9: opts=4 ans=None stem='A 42-year-old woman presented to the clinic with r'
+  Q10: opts=4 ans=None stem='In degenerative joint disease which is not occure?'
+  Q11: opts=0 ans=None stem=''
+
+=== Page 417 === [VIP - Quiz bank]
+  Q12: opts=4 ans=None stem='A 40-year-old woman with hip dysfunction is referr'
+  Q13: opts=4 ans=None stem='A middle-aged diabetic patient enters into the Phy'
+  Q14: opts=4 ans=None stem='A 26-year-old weightlifter presented with severe l'
+  Q15: opts=4 ans=None stem='A 40-year-old man presents following a fall. He re'
+  Q16: opts=0 ans=None stem=''
+
+=== Page 418 === [VIP - Quiz bank]
+  Q17: opts=4 ans=None stem='A 38-year-old patient complains of right shoulder '
+  Q18: opts=4 ans=None stem='A diagnosis of bicipital tendinitis has been made '
+  Q19: opts=4 ans=None stem='A 47-year-old woman comes to the clinic for assess'
+  Q20: opts=4 ans=None stem='A patient is recovering from stroke and demonstrat'
+  Q21: opts=0 ans=None stem=''
+
+=== Page 419 === [VIP - Quiz bank]
+  Q22: opts=4 ans=None stem='Which of the following types of stretching is asso'
+  Q23: opts=3 ans=None stem='Which of the following stretching techniques is as'
+  Q24: opts=4 ans=None stem='A 40-vear-old patient with right above-knee amputa'
+  Q25: opts=4 ans=None stem='A patient rehabilitating from a radial head fractu'
+  Q26: opts=0 ans=None stem=''
+
+=== Page 420 === [VIP - Quiz bank]
+  Q27: opts=4 ans=None stem='A physical therapist works with a patient status p'
+  Q28: opts=4 ans=None stem='If the proximl bone of joint fixed the distal part'
+  Q29: opts=4 ans=None stem='A 51-year-old patient with “right hemiplegia” was '
+  Q30: opts=0 ans=None stem=''
+
+=== Page 421 === [VIP - Quiz bank]
+  Q1: opts=4 ans=None stem='physical therapist identifies that an infant is un'
+  Q2: opts=4 ans=None stem='A physical therapist assesses a one-month-old infa'
+  Q3: opts=4 ans=None stem='A physical therapist completes a developmental ass'
+  Q4: opts=4 ans=None stem='One of the most common congenital anomalies that i'
+  Q5: opts=0 ans=None stem=''
+
+=== Page 422 === [VIP - Quiz bank]
+  Q6: opts=4 ans=None stem='An appropriate fine motor behavior that should be '
+  Q7: opts=4 ans=None stem='Which of the following is the most common age, in '
+  Q8: opts=4 ans=None stem='Which of the following ages, in months, do most ch'
+  Q9: opts=4 ans=None stem='Which of the following is associated with a reduce'
+  Q10: opts=4 ans=None stem='A physical therapy plan of care for a newborn with'
+  Q11: opts=0 ans=None stem=''
+
+=== Page 423 === [ELECTRO & HYDRO]
+  Q1: opts=4 ans=None stem='Which of the following grades occurs egains resist'
+  Q2: opts=4 ans=None stem='ELECTRO & HYDRO A 25-year-old man with left latera'
+  Q1: opts=4 ans=None stem='A 35-year-old man presents with a 6-month history '
+  Q2: opts=4 ans=None stem='Which of the following is most likely to benefit f'
+  Q3: opts=0 ans=None stem=''
+
+=== Page 424 === [VIP - Quiz bank]
+  Q4: opts=4 ans=None stem='A 63-year-old woman referred to the Physical Thera'
+  Q5: opts=4 ans=None stem='Which of the following is most commonly used to re'
+  Q6: opts=4 ans=None stem='A 56-year-old man comes to the Physical Therapy Cl'
+  Q7: opts=4 ans=None stem='The use of a physical agent, heat transfer, or flo'
+  Q8: opts=0 ans=None stem=''
+
+=== Page 425 === [VIP - Quiz bank]
+  Q9: opts=4 ans=None stem='Which medical condition is most commonly prevented'
+  Q10: opts=4 ans=None stem='Your examination reveals muscle spasms of the deep'
+  Q11: opts=4 ans=None stem='A 42-year-old woman recently diagnosed with multip'
+  Q12: opts=4 ans=None stem='A 58-year-old woman presented with severe hip pain'
+  Q13: opts=0 ans=None stem=''
+
+=== Page 426 === [VIP - Quiz bank]
+  Q14: opts=4 ans=None stem='A patient with Bell’s palsy was referred to the re'
+  Q15: opts=4 ans=None stem='A patient with a purulent venous insufficiency ulc'
+  Q16: opts=4 ans=None stem='A physical therapist prepares a patient education '
+  Q17: opts=0 ans=None stem=''
+
+=== Page 427 === [VIP - Quiz bank]
+  Q1: opts=4 ans=None stem='A weight lifter exhibits marked hypertrophy after '
+  Q2: opts=4 ans=None stem='A 25-year-old man comes to the clinic with left kn'
+  Q3: opts=4 ans=None stem='A 16-year-old adolescent presented with foot slap '
+  Q4: opts=0 ans=None stem=''
+
+=== Page 428 === [VIP - Quiz bank]
+  Q1: opts=4 ans=None stem='Which of the following is the appropriate label fo'
+  Q2: opts=4 ans=None stem='A patient is referred to physical therapy with a C'
+  Q3: opts=4 ans=None stem='Which of the following is the most appropriate pos'
+  Q4: opts=4 ans=None stem='A patient employed in a machine shop is referred t'
+  Q5: opts=0 ans=None stem=''
+
+=== Page 429 === [VIP - Quiz bank]
+  Q6: opts=4 ans=None stem='With a traction injury to the anterior division of'
+  Q7: opts=4 ans=None stem='A physical therapist examines a patient diagnosed '
+  Q8: opts=4 ans=None stem='The contractile elements of intrafusal muscle fibe'
+  Q9: opts=4 ans=None stem='The problems associated with ankylosing spondyliti'
+  Q10: opts=4 ans=None stem='To prepare a patient with an incomplete T12 parapl'
+  Q11: opts=0 ans=None stem=''
+
+=== Page 430 === [VIP - Quiz bank]
+  Q12: opts=4 ans=None stem='A physical therapist examines the gait of a 62-yea'
+  Q13: opts=4 ans=None stem='A 40-year-old patient complaining of radiating pai'
+  Q14: opts=4 ans=None stem='Which of the following nerve injury blocks the ner'
+  Q15: opts=4 ans=None stem='A 70-year-old woman complains of a weak bladder. S'
+  Q16: opts=0 ans=None stem=''
+
+=== Page 431 === [VIP - Quiz bank]
+  Q17: opts=4 ans=None stem='A 60-year-old hemiplegic patient is treated in the'
+  Q18: opts=4 ans=None stem='A therapist starts on the bed training program of '
+  Q19: opts=4 ans=None stem='Which of the following positions is associated wit'
+  Q20: opts=4 ans=None stem='A physiotherapist receives a referral for a patien'
+  Q21: opts=0 ans=None stem=''
+
+=== Page 432 === [VIP - Quiz bank]
+  Q22: opts=4 ans=None stem='A physical therapist completes a vertebral artery '
+  Q23: opts=4 ans=None stem='A motor unit is the smallest functional unit of th'
+  Q24: opts=4 ans=None stem='A physician indicates that a patient rehabilitatin'
+  Q25: opts=4 ans=None stem='A 46-year-old patient with bradykinesia was referr'
+  Q26: opts=0 ans=None stem=''
+
+=== Page 433 === [VIP - Quiz bank]
+  Q27: opts=4 ans=None stem='A Image(s) A 34-vear-old patient with long-standin'
+  Q28: opts=4 ans=None stem='30-year-old man injured in a car accident has been'
+  Q29: opts=4 ans=None stem='A physiotherapist receives a referral for a patien'
+  Q30: opts=4 ans=None stem='A 59 year-old ex-machinist demonstrates significan'
+  Q31: opts=0 ans=None stem=''
+
+  img[0] KEPT page_433_img_0.jpeg
+=== Page 434 === [VIP - Quiz bank]
+  Q32: opts=4 ans=None stem='A 13-year-old female diagnosed with cerebral palsy'
+  Q33: opts=4 ans=None stem='A 30-year-old patient has a fracture-dislocation o'
+  Q34: opts=0 ans=None stem=''
+
+=== Page 435 === [SKIPPED]
+=== Page 436 === [VIP - Quiz bank]
+
+=== Page 437 === [VIP - Quiz bank]
+  Q1: opts=4 ans=None stem='Glasgow coma scale, what is the patient’s score?'
+  Q2: opts=0 ans=None stem=''
+  Q3: opts=0 ans=None stem=''
+  Q4: opts=0 ans=None stem=''
+  Q5: opts=12 ans=None stem='A therapist is ordered to evaluate and treat a ful'
+  Q6: opts=3 ans=None stem='A 23 - year - old football player suffered a knee '
+
+=== Page 438 === [VIP - Knowledge]
+  Q7: opts=0 ans=None stem=''
+  Q8: opts=0 ans=None stem=''
+  Q9: opts=0 ans=None stem=''
+  Q10: opts=0 ans=None stem=''
+  Q11: opts=13 ans=None stem='which is not correct about oxford scale?'
+  Q12: opts=4 ans=None stem='All of the following are objective measurements us'
+  Q13: opts=4 ans=None stem='Which of the following should a therapist evaluate'
+
+=== Page 439 === [VIP - Knowledge]
+  Q14: opts=0 ans=None stem=''
+  Q15: opts=0 ans=None stem=''
+  Q16: opts=0 ans=None stem=''
+  Q17: opts=0 ans=None stem=''
+  Q18: opts=16 ans=None stem='A therapist is instructing a physical therapy stud'
+
+=== Page 440 === [VIP - Knowledge]
+  Q19: opts=0 ans=None stem=''
+  Q20: opts=0 ans=None stem=''
+  Q21: opts=0 ans=None stem=''
+  Q22: opts=0 ans=None stem=''
+  Q23: opts=19 ans=None stem='A physical therapist is beginning the evaluation o'
+
+=== Page 441 === [VIP - Knowledge]
+  Q24: opts=0 ans=None stem=''
+  Q25: opts=0 ans=None stem=''
+  Q26: opts=0 ans=None stem=''
+  Q27: opts=0 ans=None stem=''
+  Q28: opts=12 ans=None stem='patient can’t make hyperextension of shoulder and '
+  Q29: opts=3 ans=None stem='A part of the musculoskeletal exam may include mea'
+
+=== Page 442 === [VIP - Knowledge]
+  Q30: opts=0 ans=None stem=''
+  Q31: opts=0 ans=None stem=''
+  Q32: opts=0 ans=None stem=''
+  Q33: opts=0 ans=None stem=''
+  Q34: opts=15 ans=None stem='A therapist places a pen in front of a patient and'
+
+=== Page 443 === [VIP - Knowledge]
+  Q35: opts=4 ans=None stem='The therapist is treating a male patient for a sec'
+  Q36: opts=5 ans=None stem='A local orthopedic doctor, who is a main referral '
+  Q37: opts=4 ans=None stem='A therapist places a pen in front of a patient and'
+  Q38: opts=4 ans=None stem='Doctors see on patient door word (terminal illness'
+  Q39: opts=4 ans=None stem='when you sit-up a patient from long sitting after '
+
+=== Page 444 === [VIP - Knowledge]
+  Q40: opts=1 ans=None stem='A therapist is teaching a family to care for a fam'
+  Q41: opts=4 ans=None stem='A therapist is treating a 35-year-old man diagnose'
+  Q42: opts=4 ans=None stem='A patient at an outpatient facility experiences th'
+  Q43: opts=0 ans=None stem='Following a cerebrovascular accident involving the'
+  Q44: opts=4 ans=None stem='The therapist is treating a patient who recently r'
+
+=== Page 445 === [VIP - Knowledge]
+  Q45: opts=4 ans=None stem='In yellow and red flags which of the following not'
+  Q46: opts=4 ans=None stem='A 27-year-old man with a diagnosis of incomplete s'
+  Q47: opts=4 ans=None stem='A 60-year-old man sustained a fracture of the hip '
+  Q48: opts=3 ans=None stem='Patient have 4/5 muscle power what is the minimum '
+  Q49: opts=4 ans=None stem='which of the following is the most appropriate dur'
+
+=== Page 446 === [VIP - Knowledge]
+  Q50: opts=4 ans=None stem='Which of the following is the primary aim of the p'
+  Q51: opts=4 ans=None stem='Which of the following is the most appropriate ter'
+  Q52: opts=4 ans=None stem='A 37-year-old man referred to the Physical Therapy'
+  Q53: opts=4 ans=None stem='A 25-year-old man referred to the Physical Therapy'
+  Q54: opts=4 ans=None stem='Which of the following is the main moral duty of a'
+  Q55: opts=4 ans=None stem='A physical therapist is searching for evidence to '
+
+=== Page 447 === [VIP - Knowledge]
+  Q56: opts=4 ans=None stem='A 29-year-old woman referred to physical therapy f'
+  Q57: opts=4 ans=None stem='Patient has depressing; Which cause him to have th'
+  Q58: opts=4 ans=None stem='Perform a blind finger sweep of the throat Which o'
+  Q59: opts=3 ans=None stem='A physical therapist in an outpatient clinic is ca'
+  Q60: opts=0 ans=None stem='A physician is preparing a patient for an upcoming'
+  Q61: opts=0 ans=None stem='Which of the following are tests for peripheral ar'
+
+=== Page 448 === [VIP - Knowledge]
+  Q62: opts=0 ans=None stem='The therapist is ordered to evaluate a patient in '
+  Q63: opts=0 ans=None stem='At what age does a human have the greatest amount '
+  Q64: opts=4 ans=None stem='A patient is sitting over the edge of a table and '
+  Q65: opts=4 ans=None stem='Which of the following is categorized as illegal o'
+  Q66: opts=4 ans=None stem='Which plan of care is typically recommended during'
+  Q67: opts=4 ans=None stem='When measuring ROM of the wrist put the axis on:'
+  Q68: opts=4 ans=None stem='The type exercise where distal part is fixed and p'
+
+=== Page 449 === [VIP - Knowledge]
+  Q69: opts=3 ans=None stem='Closed pack position of knee is'
+  Q70: opts=4 ans=None stem='What is the closed packed position of the shoulder'
+  Q71: opts=4 ans=None stem='A 28-year-old man presents to the clinic a pain in'
+  Q72: opts=4 ans=None stem='A 44-year-old woman presents to the clinic with le'
+  Q73: opts=4 ans=None stem='Which of the following is the most likely cause of'
+  Q74: opts=4 ans=None stem='A 66-year-old patient complains of sensory changes'
+
+=== Page 450 === [VIP - Knowledge]
+  Q75: opts=4 ans=None stem='A 70 - year - old man presented with a history of '
+  Q76: opts=4 ans=None stem='Muscle strength depend on all except:'
+  Q77: opts=4 ans=None stem='Which of the following is an example of first clas'
+  Q78: opts=0 ans=None stem='A therapist is evaluating a wound in a patient wit'
+  Q79: opts=0 ans=None stem='A patient who has suffered a recent fracture of th'
+  Q80: opts=4 ans=None stem='A patient presents to therapy with an ankle injury'
+
+=== Page 451 === [VIP - Knowledge]
+  Q81: opts=0 ans=None stem='It is most likely than when treating a patient wit'
+
+=== Page 452 === [SKIPPED]
+=== Page 453 === [VIP - Knowledge]
+
+=== Page 454 === [VIP - Figures]
+  Q1: opts=0 ans=None stem='Dermatome of letter B a- L3-4 b- L4-5 c- L4 S1 d- '
+  Q2: opts=0 ans=None stem=''
+  Q3: opts=0 ans=None stem=''
+  Q4: opts=0 ans=None stem=''
+  Q5: opts=0 ans=None stem='This angle in the picture means a- genu valgum b- '
+  Q6: opts=0 ans=None stem='What is the deformity shown in x-ray: a- Hallux va'
+
+  img[1] KEPT page_454_img_1.jpeg
+  img[2] KEPT page_454_img_2.jpeg
+  img[3] KEPT page_454_img_3.jpeg
+  img[4] KEPT page_454_img_4.jpeg
+  img[5] KEPT page_454_img_5.jpeg
+  img[6] KEPT page_454_img_6.png
+=== Page 455 === [VIP - Figures]
+  Q7: opts=0 ans=None stem=''
+  Q8: opts=0 ans=None stem=''
+  Q9: opts=0 ans=None stem=''
+  Q10: opts=0 ans=None stem=''
+  Q11: opts=0 ans=None stem='fixed stiffness of 1st IPJ joint of big toe called'
+  Q12: opts=0 ans=None stem='What is the action of these muscle a- hip Adductio'
+  Q13: opts=0 ans=None stem='The least muscle affected by this stretching shown'
+
+  img[0] KEPT page_455_img_0.jpeg
+  img[1] KEPT page_455_img_1.jpeg
+  img[2] KEPT page_455_img_2.jpeg
+  img[3] KEPT page_455_img_3.jpeg
+  img[4] KEPT page_455_img_4.jpeg
+  img[5] KEPT page_455_img_5.jpeg
+=== Page 456 === [VIP - Figures]
+  Q14: opts=0 ans=None stem=''
+  Q15: opts=0 ans=None stem=''
+  Q16: opts=0 ans=None stem=''
+  Q17: opts=0 ans=None stem=''
+  Q18: opts=0 ans=None stem='The most muscle affected by this stretching shown '
+  Q19: opts=0 ans=None stem='what’s the name of this muscle a- Biceps brachii b'
+
+  img[0] KEPT page_456_img_0.jpeg
+  img[1] KEPT page_456_img_1.jpeg
+  img[2] KEPT page_456_img_2.png
+  img[3] KEPT page_456_img_3.jpeg
+  img[4] KEPT page_456_img_4.jpeg
+  img[5] KEPT page_456_img_5.jpeg
+=== Page 457 === [VIP - Figures]
+  Q20: opts=0 ans=None stem=''
+  Q21: opts=0 ans=None stem=''
+  Q22: opts=0 ans=None stem=''
+  Q23: opts=0 ans=None stem='What is the action of this muscle shape? a- hip ad'
+  Q24: opts=0 ans=None stem=''
+  Q25: opts=0 ans=None stem='A physical therapist instructs a patient to perfor'
+
+  img[0] KEPT page_457_img_0.jpeg
+  img[1] KEPT page_457_img_1.jpeg
+  img[2] KEPT page_457_img_2.jpeg
+  img[3] KEPT page_457_img_3.jpeg
+  img[4] KEPT page_457_img_4.png
+  img[5] KEPT page_457_img_5.png

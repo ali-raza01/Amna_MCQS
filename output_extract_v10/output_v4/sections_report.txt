@@ -1,0 +1,18 @@
+SECTION REPORT
+============================================================
+
+Section: Muscloskeletal | 1.A Anatomy
+  Pages     : 17 – 31
+  Questions : 52 (numbered 1–52)
+  Seq range : Q1 – Q52
+
+Section: Muscloskeletal | 4.Q Correct Answer: 4
+  Pages     : 32 – 49
+  Questions : 63 (numbered 53–116)
+  Seq range : Q53 – Q115
+  ⚠ Missing : 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 102
+
+Section: Muscloskeletal | 1.A Biomechanics
+  Pages     : 51 – 84
+  Questions : 100 (numbered 1–100)
+  Seq range : Q116 – Q215

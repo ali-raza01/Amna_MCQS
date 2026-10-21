@@ -1,0 +1,3127 @@
+=== Page 17 ===
+Q1 [global 1] stem: 'What is this position called :'
+   1. half kneeling
+   2. prone kneeling
+   3. sitting kneeling son?
+   1. Maximum heart rate
+   2. Maximum cardiac output
+   3. Maximum exercise tolerance
+   4. Maximum rate of oxygen consumption
+Q2 [global 2] stem: 'One of the following does not use phosphotognase of the body:'
+   1. weight lifting
+   2. jogging
+   3. running a marathon
+   4. diving
+img[1] KEPT page_017_img_1.png
+
+=== Page 18 ===
+Q1 [global 3] stem: 'One of the following is not an aerobic exercise:'
+   1. weight lifting
+   2. jogging
+   3. running a marathon
+   4. diving
+Q2 [global 4] stem: 'Which of the following features is about Pacinian corpuscles?'
+   1. Rapidly adapting
+   2. Change in muscle length
+   3. Change in muscle tension
+   4. Detection of acceleration and deceleration
+Q3 [global 5] stem: 'All other answers is incorrect because :\nChange in muscle length is a function of muscle spindles\nch'
+
+=== Page 19 ===
+Q1 [global 6] stem: 'One of the following is not depends on oxygen of the body:'
+   1. aerobic
+   2. anaerobic
+Q2 [global 7] stem: 'What type of exercise where energy needs are not provided by oxygen?'
+   1. Aerobic
+   2. lsotonic
+   3. Isometric
+   4. Anaerobic
+Q3 [global 8] stem: 'Which of the following is the most helpful to diagnose a myocardial infarct?'
+   1. Troponin
+   2. Aminotransferase
+   3. Gluco phosphokinase
+   4. Creatine phosphokinase
+Q4 [global 9] stem: 'Which of the following is the main benefit of adaptation in aerobic exercise?'
+   1. Decreases mental stress
+   2. Decreases hypercholesterolemia
+   3. Enhances neuromuscular coordination
+   4. Increases efficiency of cardiovascular system
+
+=== Page 20 ===
+Q1 [global 10] stem: 'A resting pulse rate of 40-60 beats per minute would unlikely to be found in:'
+   1. elderly individuals with arteriosclerotic heart disease.
+   2. patients taking digitalis.
+   3. children under five years of age.
+   4. marathon runners.
+
+=== Page 21 ===
+Q1 [global 11] stem: ''
+   1. Upper trapezius
+   2. Posterior deltoid
+   3. Latissimus dorsi
+   4. Triceps brachialis
+Q2 [global 12] stem: 'Te ade ic Pm amare beer ts ak ee (preemead pemaioems of lear: oom Leven page\nmary tare\nclinical find'
+   1. Drooped eyelid
+   2. Disruption of sensation causing abnormal sensation
+   3. Inability to perform purposeful voluntary movements
+   4. Involuntary repetitive movement characterized by twisting
+Q3 [global 13] stem: 'Terms of other anwers :\nParesthesias : .Disruption of sensation causing abnormal sensation\nApraxia: '
+img[0] KEPT page_021_img_0.png
+
+=== Page 22 ===
+Q1 [global 14] stem: 'tal arm aligned with the third metacarpal. What should be used as the axis point?\nLunate\nscaphoid\nCa'
+   1. Lunate
+   2. Hamate
+   3. Pisiform
+   4. Scaphoid which muscle close the mouth:
+   1. masseter
+   2. lateral ptyrgoid
+   3. platysma
+img[0] KEPT page_022_img_0.png
+
+=== Page 23 ===
+Q1 [global 15] stem: 'Which of the following group of hip muscles is being stretched (see image)?'
+   1. Flexors and abductors
+   2. Extensors and adductors
+   3. Extensors and internal rotators
+   4. Extensors and external rotators which of the following elevate the jaw:
+   1. masseter
+   2. levator lipii
+   3. mentalis
+   4. orbicularis oris
+img[0] KEPT page_023_img_0.png
+
+=== Page 24 ===
+Q1 [global 16] stem: 'What is the function of the muscles in the image (see image)?'
+   1. Flexion of the hip
+   2. Extension of the hip
+   3. Adduction of the hip
+   4. External rotation of the hip rotates the arm?
+   1. Teres minor
+   2. Latissimus dorsi
+   3. Pectoralis major
+   4. Serratus anterior following muscles is most likely damaged?
+   1. Frontalis
+   2. Masseter
+   3. Temporalis
+   4. Orbicularis oris
+img[0] KEPT page_024_img_0.png
+
+=== Page 25 ===
+Q1 [global 17] stem: 'which muscle Raise the skin of the chin.:'
+   1. buccinators
+   2. levator libii
+   3. mentalis
+   4. platysma which muscle Close and protrude the lips, as in whistling?
+   1. masseter
+   2. mentalis
+   3. orbicularis oris
+   4. depressor libii which muscle close the eyes ?
+   1. buccinators
+   2. orbicularis oris
+   3. orbicularis occuli
+   4. masseter fected in this case?
+   1. Risorius
+   2. Frontalis
+   3. Masseter
+   4. Orbicularis oculi
+
+=== Page 26 ===
+  [supplemented OCR from img indices: 1]
+Q1 [global 18] stem: ''
+   1. buccinators
+   2. corrugator
+   3. frontalis
+   4. depressor angulii
+Q2 [global 19] stem: 'What are the three muscles attached to the first cuneiform bone?'
+   1. The anterior tibialis, the posterior tibialis, and the fibularis (pberoneus) longus
+   2. The extensor digitorum, the flexor hallucis, and the fibularis (peroneus) longus
+   3. The anterior tibialis, the peroneus brevis, and the fibularis (peroneus) longus
+   4. The flexor carpi ulnaris, the flexor pollicis brevis, and the flexor pollicis longu which of following muscle doesn’t closes the mouth:
+   1. masseter
+   2. ptrygoidus medialis
+   3. temporalis
+   4. suprahoid ms
+Q3 [global 20] stem: 'What are the three muscles attached to the first cuneiform bone?'
+   1. The anterior tibialis, the posterior tibialis, and the fibularis (peroneus) longus
+   2. The extensor digitorum, the flexor hallucis, and the fibularis (peroneus) longus
+   3. The anterior tibialis, the peroneus brevis, and the fibularis (peroneus) longus
+   4. The flexor carpi ulnaris, the flexor pollicis brevis, and the flexor pollicis longu
+
+=== Page 27 ===
+Q1 [global 21] stem: 'this muscle?'
+   1. Elbow flexion with the forearm rm in a pronated position
+   2. Elbow flexion with the forearm in a supinated position
+   3. Elbow extension with the forearm in a pronated position
+   4. Elbow flexion with the forearm in a midway (neutral) position
+
+=== Page 28 ===
+Q1 [global 22] stem: ''
+   1. Orbicularis
+   2. Annualus
+   3. Circularis
+   4. Muscularis
+Q2 [global 23] stem: 'Origin of ms : posterior aspect of head of fibula and medial aspect of tibia ?'
+   1. soleus
+   2. Tibialis anterior
+   3. Tibialis posterior
+Q3 [global 24] stem: 'Which muscle originates from the posterior fibula and mid of tibia ?'
+   1. soleus
+   2. Tibialis anterior
+   3. Tibialis posterior
+
+=== Page 29 ===
+Q1 [global 25] stem: ''
+   1. biceps
+   2. brachioradialis
+   3. brachialis
+   4. pectoralis major be evaluated ?
+   1. biceps brachii
+   2. brachialis
+   3. brachioradialis
+   4. anconeous
+
+=== Page 30 ===
+Q1 [global 26] stem: 'tions of the upper extremity will maximally elongate the biceps brachii?'
+   1. Shoulder extension, elbow extension, and forearm pronation
+   2. Shoulder extension, elbow extension, and forearm supination
+   3. Shoulder external rotation, elbow extension, and forearm pronation
+   4. Shoulder external rotation, elbow extension, and forearm supination
+Q2 [global 27] stem: 'Sterno-clavicular joint is enforced by except :'
+   1. sterno-clavicular lig
+   2. intra-articular disc
+   3. intra-clavicular lig
+   4. acromio-clavicular lig
+
+=== Page 31 ===
+Q1 [global 28] stem: ''
+   1. Axillary
+   2. Supascapular
+   3. Long thoracic
+   4. Musculocutaneous extension at the metacarpophalangeal (MCP) joints of the involved hand?
+   1. Dorsal interossei
+   2. palmar interossel
+   3. Extensor carpi radialis brevis
+   4. Extensor digitorum langeal joints in the splint?
+   1. Full flexion and slight radial pull
+   2. Full flexion and slight ulnar pull.
+   3. Full extension and slight radial pull
+   4. Full extension and slight ulnar pull.
+img[4] KEPT page_031_img_4.jpeg
+
+=== Page 32 ===
+Q1 [global 29] stem: ''
+   1. A
+   2. L
+   3. K
+   4. Q as “4” in the figure?
+   1. Subcapital
+   2. Basicervical
+   3. Subtrochanteric
+   4. .Intertrochanteric labelled as “1”?
+   1. Subcapital
+   2. Basicervical
+   3. Transcervical
+   4. Subtrochanteric
+img[1] KEPT page_032_img_1.png
+img[2] KEPT page_032_img_2.png
+
+=== Page 33 ===
+Q1 [global 30] stem: 'tion of the hip. Which of the following muscles is the therapist evaluating?'
+   1. Sartorius
+   2. Hamstring
+   3. Tensor fascia lata
+   4. Gluteus maximus standing (see image)?
+   1. Coxa varum
+   2. Genu varum
+   3. Genu valgum
+   4. Genu recurvatum tion of the hip. Which of the following muscles is the therapist evaluating?
+   1. Sartorius
+   2. Hamstring
+   3. Tensor fascia lata
+   4. Gluteus maximus
+img[1] KEPT page_033_img_1.png
+
+=== Page 34 ===
+Q1 [global 31] stem: 'A 51-year-old man comes to the Physical Therapy Clinic for assessment of right hip pain\n(lateral sid'
+   1. lIliopsoas
+   2. Psoas minor
+   3. Psoas major
+   4. Tensor fascia latae
+Q2 [global 32] stem: '¢\nWhat muscle make lateral rotation of Humerus :'
+   1. Pectoral major
+   2. Teres minor
+   3. Teres major
+   4. Rotator cuff
+Q3 [global 33] stem: 'Which muscle not related to rotator cuff:'
+   1. teres minor
+   2. teres major
+   3. supraspinatus
+   4. infraspinatus.
+
+=== Page 35 ===
+Q1 [global 34] stem: ''
+   1. evator scapulae
+   2. latissimus dorsi
+   3. rhomboid major
+   4. rhomboid minor following are other possible associated motions or postures expected in this patient?
+   1. Tibial, femoral, and pelvic internal rotation,
+   2. Tibial, femoral, and pelvic external rotation,
+   3. Tibial and femoral external rotation with external pelvic rotation.
+   4. Tibial and femoral internal rotation with external pelvic rotation. which muscle act in Med rotation, adduction and extension of shoulder joint?
+   1. pectoralis minor
+   2. serratus anterior
+   3. teres minor
+   4. latissmus dorsi
+
+=== Page 36 ===
+Q1 [global 35] stem: 'Which of the following is not part of the triangular fibrocartilage complex of the wrist?'
+   1. Dorsal radio-ulnar ligament
+   2. Ulnar collateral ligament
+   3. Radial collateral ligament
+   4. Ulnar articular cartilage
+Q2 [global 36] stem: 'Which of the following is not part of the triangular fibrocartilage complex of the wrist?'
+   1. flexor Carpi ulnaris
+   2. flexor Carpi radialis
+   3. flexor digitorum profundus
+   4. biceps brachii
+img[1] KEPT page_036_img_1.png
+
+=== Page 37 ===
+Q1 [global 37] stem: ''
+   1. pectoralis major true
+   2. serratus ant
+   3. sub scapularis
+   4. teres major
+
+=== Page 38 ===
+Q1 [global 38] stem: ''
+   1. pectorals major
+   2. serratus ant
+   3. sub scapularis
+   4. teres major
+Q2 [global 39] stem: 'Winging of the scapula could be due to damage to this nerve:'
+   1. long thoracic nerve
+   2. thoracodorsal nerve
+   3. lower subscapular nerve
+   4. upper subscapular nerve.
+
+=== Page 39 ===
+Q1 [global 40] stem: 'Which of the following is not included in shoulder complex?'
+   1. clavicle
+   2. scapula
+   3. humerus
+   4. sternum.
+
+=== Page 40 ===
+Q1 [global 41] stem: 'What is the action of this muscle shape ?'
+   1. hip adduction
+   2. hip extenstion
+   3. back extension and getting up from the inclining position?
+   1. soleus
+   2. hamstring
+   3. quadriceps femoris
+   4. iliopsoas.
+Q2 [global 42] stem: 'While on supine and bending your knees towards the chest which muscle is doing that?'
+   1. lliopsoas muscle
+   2. quadriceps muscles
+   3. quadratus lumborum
+   4. pectineus.
+img[0] KEPT page_040_img_0.png
+
+=== Page 41 ===
+Q1 [global 43] stem: 'Which of the following muscles unlock the knee?'
+   1. vastus medialis obligqus
+   2. popliteus muscle
+   3. gastrocnemius muscle
+   4. sartorius muscle
+Q2 [global 44] stem: 'Muscle response for getting up form sitting and claiming stair and walking:'
+   1. gluteus maximus
+   2. quadriceps
+   3. Tensor fascia Lata.
+Q3 [global 45] stem: 'Best muscle to strength for ascending stair and initiating stand up from sitting:'
+   1. gluteus Medius
+   2. quadriceps
+   3. hamstring
+   4. soleus.
+
+=== Page 42 ===
+Q1 [global 46] stem: ''
+   1. high collagen content
+   2. laxity lead to hyper mobility
+   3. connect on bone to another
+   4. usually heals fast and need not support the lateral collateral ligament ( LCL)?
+   1. Knee at 60 degree of flexion and the hip externally rotated.
+   2. Knee at 20 degree of flexion and the hip at neutral.
+   3. Knee at 90 degree of flexion and hip externally rotated.
+   4. Knee at 0 degree and the hip at neutral. supraspinatus muscle palpation?
+   1. slight abduction with internal rotation
+   2. abduction with external rotation
+
+=== Page 43 ===
+Q1 [global 47] stem: ''
+   1. 2nd rib
+   2. Sterno clavicular joint
+   3. 1st rib
+Q2 [global 48] stem: 'The shoulder work with 3 joints except:'
+   1. glenohumeral joint
+   2. acromioclavicular (AC) joint
+   3. costosternal joint.
+   4. sternoclavicular
+Q3 [global 49] stem: 'orption of calcium in the intestine depends on which of the following vitamins?\nb\nwo\nponap®™\n0UOg-\nA'
+   1. sternoclavicular joint
+   2. acromiocilavicular joint
+   3. glenohumeral joint
+   4. costosternal joint.
+
+=== Page 44 ===
+Q1 [global 50] stem: ''
+   1. The anterior tibialis, the posterior tibialis, and the fibularis (peroneus) longus
+   2. The extensor digitorum, the flexor hallucis, and the fibularis (peroneus) longus
+   3. The anterior tibialis, the peroneus brevis, and the fibularis (peroneus) longus
+   4. The flexor carpi ulnaris, the flexor pollicis brevis, and the flexor pollicis longu vis?
+   1. the distance between the female ischial spines is greater
+   2. the angle of the female pubic arch is smaller
+   3. the female pelvis as a whole is deeper, and the bones are heavier and thicker
+   4. the female iliac bones are less flared standing is the:
+   1. coracoclavicular
+   2. glenohumeral
+   3. coracohumeral
+   4. transverse humeral.
+
+=== Page 45 ===
+Q1 [global 51] stem: 'Which of the following articulate with the middle cuneiform?'
+   1. Navicular
+   2. Talus
+   3. First metatarsal
+   4. Cuboid pregnant patient?
+   1. 300
+   2. 400
+   3. 500
+   4. 600
+Q2 [global 52] stem: 'Which of the following didn’t pass through acromio-humeral?'
+   1. supraspinatus
+   2. tendon of long head of biceps
+   3. infraspinatus
+   4. superior portion of glenohumeral capsule
+
+=== Page 46 ===
+Q1 [global 53] stem: 'The name of muscle cell is:'
+   1. myocyte
+   2. actin
+   3. myosin
+   4. noname
+Q2 [global 54] stem: 'Which don’t present in dermis ?'
+   1. tactile
+   2. blood vessels muscle:
+   1. collagen
+   2. titin
+   3. actin
+   4. myosin
+Q3 [global 55] stem: 'All of the following contents of dermis except:'
+   1. sweating gland
+   2. tactile corpuscles or tissue
+   3. blood vessels.
+
+=== Page 47 ===
+Q1 [global 56] stem: ''
+   1. ventral root
+   2. alpha motor neuron
+   3. gamma motor neuron
+   4. sensory neuron
+Q2 [global 57] stem: 'Acromegaly is due to malfunction of :'
+   1. Pituitary gland
+   2. Thyroid gland
+   3. thymus
+
+=== Page 48 ===
+Q1 [global 58] stem: 'Which gland regulate the growth of bones:'
+   1. thyroid gland
+   2. Anterior pituitary gland
+   3. Adrenal Glands
+Q2 [global 59] stem: 'Increase growth of bone:'
+   1. ant lobe of pituitary gland
+   2. thyroid
+
+=== Page 49 ===
+Q1 [global 60] stem: 'Allis true about medial meniscus except:'
+   1. more injury than lateral meniscus
+   2. absorb of about 90% of load on knee joint
+   3. injury from hyperextension
+Q2 [global 61] stem: 'Sensory end organs are absent from the:'
+   1. muscle
+   2. periosteum
+   3. synovial membrane
+   4. articular cartilage
+   5. joint capsule
+
+=== Page 50 ===
+
+=== Page 51 ===
+
+=== Page 52 ===
+Q1 [global 62] stem: 'Patient walking on slippery surface we teach him to do:\n1- COG keeping close to the body\n2- Wide bas'
+
+=== Page 53 ===
+Q1 [global 63] stem: 'at heel strike. What is the degree of knee flexion during normal gait?\n1- 10\n2-20\n3- 30\n4- 40\nis the'
+
+=== Page 54 ===
+  [supplemented OCR from img indices: 0]
+Q1 [global 64] stem: 'during the gait cycle?\n1- Left lateral flexion\n2- Right lateral flexion\n3- Extension\n4- Flexion\nAnte'
+Q2 [global 65] stem: 'Anterior\nTinea alba\nRectus\nabdominis\nObliquus externus\nabdominis\nObtiquus internus\n‘abdominis\nTransv'
+Q3 [global 66] stem: 'Tes0e| we\n‘Quadratus lumborum}\nLatissimus dorsi\nErector ost\nspinae LLongissimus\nMuttfidus\nPosterior'
+img[0] KEPT page_054_img_0.png
+
+=== Page 55 ===
+Q1 [global 67] stem: 'tremity. Which of the following is the most appropriate assistive device and gait pattern?\n1- Crutch'
+
+=== Page 56 ===
+  [supplemented OCR from img indices: 0]
+Q1 [global 68] stem: 'While gait training a patient following a cerebral vascular accident, you observe the knee on\nthe af'
+Q2 [global 69] stem: 'Selected Pathologic “Mechanical Rationale and/or Associated\nLikely lmpaiement, Precuroce Compensatio'
+
+=== Page 57 ===
+Q1 [global 70] stem: 'A 43-year-old woman with walking dysfunction and inability to clear her foot from the ground\nduring '
+Q2 [global 71] stem: 'C.O.G during locomotion observation can change the gait due to:\n1- c.0.g go upward and oblique to st'
+img[0] KEPT page_057_img_0.jpeg
+img[1] KEPT page_057_img_1.png
+
+=== Page 58 ===
+Q1 [global 72] stem: 'on during the exercise session in order to minimize this gait deviation?\n1- Gluteus medius\n2- Gluteu'
+img[0] KEPT page_058_img_0.jpeg
+
+=== Page 59 ===
+  [supplemented OCR from img indices: 1]
+Q1 [global 73] stem: 'gait is: OR patient move crutches first then move legs to them:\n1- swing through\n2- swing to\nc- 2 ga'
+Q2 [global 74] stem: '50;'
+Q3 [global 75] stem: 'FLEXIOI\nEXTENSION'
+img[0] KEPT page_059_img_0.jpeg
+img[1] KEPT page_059_img_1.jpeg
+
+=== Page 60 ===
+Q1 [global 76] stem: 'what is not a part of stance phase?\n1-deceleration\n2-midstance\n3-intial contact\n4-preswing\n¢\ntwo low'
+img[0] KEPT page_060_img_0.jpeg
+
+=== Page 61 ===
+  [supplemented OCR from img indices: 1]
+Q1 [global 77] stem: 'the gait cycle?\n1- Neutral position\n2- 5-degree dorsiflexion\n3- 5-degree plantarflexion\n4-10-degree '
+Q2 [global 78] stem: 'All of the following in the gait cycle except:\n1- Swing phase\n2- Mid swing\n3- Initial contact\n4- Hea'
+img[0] KEPT page_061_img_0.png
+img[1] KEPT page_061_img_1.jpeg
+
+=== Page 62 ===
+Q1 [global 79] stem: 'Which of the following types of gait training are most likely described as\nboth crutches moved forwa'
+Q2 [global 80] stem: 'Evaluating the gait of a patient with left hemiplegia, you note toe drag during mid swing on\nthe lef'
+
+=== Page 63 ===
+Q1 [global 81] stem: 'If there is weakness of right gluteus medius dropping pelvis of occurs at\n1- right pelvic drop at st'
+Q2 [global 82] stem: 'Quadriceps function in swing phase:\n1- accelerated knee flexion.\n2- prevent excessive knee flexion.'
+Q3 [global 83] stem: 'When comparing the gait cycle of young adults to the gait cycle of older adults, what would\na therap'
+
+=== Page 64 ===
+Q1 [global 84] stem: 'A physical therapist begins gait training for a patient with bilateral knee flexion contractures\nat '
+img[0] KEPT page_064_img_0.jpeg
+
+=== Page 65 ===
+Q1 [global 85] stem: 'At what point in the gait cycle is the center of gravity the lowest?\n1- Double support.\n2- Terminal '
+Q2 [global 86] stem: 'patient during walking raise his hip to clear toes from ground due to:\n1- paralysis of dorsiflexors\n'
+Q3 [global 87] stem: 'An outpatient physical therapist is gait training a patient recently discharged from the hos-\npital.'
+
+=== Page 66 ===
+Q1 [global 88] stem: 'use of can in contralateral hand will:'
+Q2 [global 89] stem: '- not affected gait pattern.\n2- reduce energy expenditure in normal person.\n3- decrease the floor re'
+Q3 [global 90] stem: 'As a result of a gait analysis, a therapist has determined that the patient ambulates with ex-\ncessi'
+Q4 [global 91] stem: 'joint play R O M which occurs not named with:\n1- necessary to completion of joints ROM\n2- Passively '
+
+=== Page 67 ===
+Q1 [global 92] stem: 'ing muscles are active concentrically?\n1- Hamstrings\n2- Gluteus maximus\n3- Gastrocnemius\n4- All of t'
+
+=== Page 68 ===
+Q1 [global 93] stem: 'Knee joint ROM:\n1- flexion 110 — extension 0\n2- flexion 130 — extension 0\n3- flexion 140 — extension'
+
+=== Page 69 ===
+Q1 [global 94] stem: 'all of the following are synovial joints except:\n1- Elbow joint\n2- Knee joint\n3- Hip joint\n4-Symphys'
+
+=== Page 70 ===
+Q1 [global 95] stem: 'The joint between adjacent vertebrae that includes an in vertebral disc is classified as which\ntype '
+
+=== Page 71 ===
+Q1 [global 96] stem: 'Which of the following is not an example of a synarthrodial joint in the body?\n1- Coronal suture\n2- '
+
+=== Page 72 ===
+Q1 [global 97] stem: 'Sudeck’s atrophy which is not true:\n1- sever burning pain\n2- sympathetic hyperactivity\n3- trophic ch'
+
+=== Page 73 ===
+Q1 [global 98] stem: 'An 11-year-old patient with post-fracture stiffness of the elbow has been\nreferred to a therapist fo'
+Q2 [global 99] stem: '32 - year - old patient requires a physical therapy assessment to start the postoperative re-\nhabili'
+
+=== Page 74 ===
+Q1 [global 100] stem: 'Infection of microorganism lead to:\n1- osteomyelitis\n2- Rocket\n3- Equinovarus\nbody in space?\n1- Bala'
+
+=== Page 75 ===
+Q1 [global 101] stem: 'Which of the following is the most likely affected area?\n1- Talus\n2- Scaphoid\n3- Vertebral\n4- Femora'
+img[0] KEPT page_075_img_0.jpeg
+
+=== Page 76 ===
+Q1 [global 102] stem: 'What is the approximate angle between the femoral shaft and neck in a\nhealthy person?\n1- 90°\n2- 125°'
+
+=== Page 77 ===
+Q1 [global 103] stem: 'which fracture is treated by traction?\n1- femur fracture\n2- ankle fracture\n3- knee fracture\nmight de'
+Q2 [global 104] stem: 'Right convex Scoliosis we find:\n1- Lateral trunk flexion & concave side to RT.\n2- Lateral trunk flex'
+img[0] KEPT page_077_img_0.jpeg
+
+=== Page 78 ===
+Q1 [global 105] stem: 'Which of the following is a possible cause of anterior pelvic tilting?\n1- Weak lateral trunk muscles'
+
+=== Page 79 ===
+Q1 [global 106] stem: 'body part to another?\n1- Postural control\n2- Strength\n3- Balance\nwhich is incorrect about plump line'
+
+=== Page 80 ===
+Q1 [global 107] stem: 'Shoulder abduction and adduction movement occur in\n1- sagittal plane\n2- scapular plane\n3- coronal pl'
+Q2 [global 108] stem: 'In which of the following axis and plane on the human body, flexion and extension motion\nwill occur?'
+Q3 [global 109] stem: 'Human body flexion and extension which plane occurs?\n1- axial to transverse plane.\n2- sagittal plane'
+
+=== Page 81 ===
+Q1 [global 110] stem: 'Internal rotation and external rotation on which plane can performed:\n1- Longitudinal plane around h'
+
+=== Page 82 ===
+Q1 [global 111] stem: 'In horizontal axis which divided into caudal and cranial\n1- sagittal\n2- coronal\n3- axial\n4- transver'
+Q2 [global 112] stem: 'Acute osteomyelitis is most commonly caused by:\n1- staphylococcus aureus\n2- actinomyces bovis\n3- noc'
+
+=== Page 83 ===
+Q1 [global 113] stem: 'lower extremity, which of the following does not normally occur?\n1- The left side of the pelvis init'
+
+=== Page 84 ===
+Q1 [global 114] stem: 'A physical therapist is performing a functional capacity evaluation on a patient with a L4-\nL5 herni'
+
+=== Page 85 ===
+
+=== Page 86 ===
+Q1 [global 115] stem: 'first metatarsal?\na-Inferiorly\nb-Superiorly\nc-Laterally\nd-A and C\nabout the complications resulting '
+
+=== Page 87 ===
+Q1 [global 116] stem: 'at:\nA-full extension\nB-90 degrees of flexion\nC-70 degrees of flexion\nD-30 degrees of flexion\nperform'
+
+=== Page 88 ===
+Q1 [global 117] stem: 'shoulder to gain abduction range of motion?'
+   A. Posteriorly
+   B. Anteriorly
+   C. Inferiorly shoulder to gain abduction range of motion? a-Posteriorly b-Anteriorly
+
+=== Page 89 ===
+Q1 [global 118] stem: 'following vertebrae is the most likely to be involved?\na- Fourth lumbar vertebra\nb- Fifth cervical v'
+
+=== Page 90 ===
+Q1 [global 119] stem: 'is the most appropriate?'
+   A. Lunges
+   B. Sit-ups
+   C. Push-ups
+   D. Squatting mass in theelderly population?
+   A. Aerobic
+   B. Aquatic
+   C. Stretching
+   D. Progressive resistance
+Q2 [global 120] stem: '14- Exercise in elderly to keep bone density ?\na-Aerobic\nb-Resistive\nc-Hydro exe'
+
+=== Page 91 ===
+Q1 [global 121] stem: 'most appropriate management?'
+   A. Aquatic
+   B. lsokinetic
+   C. Close kinematic
+   D. Open kinematic chain convex-concave rule?
+   A. Femur is rolling and gliding in the same direction on the tibia
+   B. Tibia is rolling and gliding in the same direction on the femur
+   C. Tibia is rolling and gliding in different direction on the femur
+   D. Femur is rolling and gliding in different direction on the tibia spondylolisthesis. What definition of spondylolisthesis is helpful for diagnosis?
+   A. Forward slippage of a vertebra on the vertebra above it
+   B. Forward slippage of a vertebra on the vertebra below it
+   C. Posterior slippage of a vertebra on the vertebra above it
+   D. Posterior slippage of a vertebra on the vertebra below it
+
+=== Page 92 ===
+Q1 [global 122] stem: '18- Spondylolisthesis :\na- vertebrae above vertebra dislocate posterior\nb- vertebrae below vertebra '
+
+=== Page 93 ===
+Q1 [global 123] stem: '24-Which is the following being foot deformity?\na- halluxvalgus\nb- genuvarum.\nc- Genu valgum'
+
+=== Page 94 ===
+Q1 [global 124] stem: 'findings could the therapist detect during the physical evaluation ?\na-metatarsophalangeal joint fle'
+
+=== Page 95 ===
+Q1 [global 125] stem: 'relation to the left hip and foot. This condition is commonly referred to as:\na-genu varum\nb-genu va'
+   a. genurecurvatum
+   b. genuvarum
+   c. genuvalgum
+   d. hallux valgus will produce:
+   a. genu valgum
+   b. genu varum
+   c. genu recurvatum
+   d. dislocation of knee is:
+   a. Coxa vara.
+   b. genu valgum.
+
+=== Page 96 ===
+  [supplemented OCR from img indices: 0]
+Q1 [global 126] stem: ''
+   c. genu varum.
+   d. talipescalcaneovalgus. e. bilateral flat foot. is most likely the source of the patient’s signs and symptoms? a-Greater trochanteric bursitis b-Avascular necrosis c-Slipped femoral capital epiphysis d-Septic arthritis
+Q2 [global 127] stem: 'Slipped femoral capital epiphysis:\nIt is most common in the adolescent period (boys ages 10-16 y. & '
+img[0] KEPT page_096_img_0.jpeg
+
+=== Page 97 ===
+Q1 [global 128] stem: '32-Patient with disc herniation and decrease back motion P.T ASSIST:\nA- sterno-costal angle\nb-lumbos'
+
+=== Page 98 ===
+Q1 [global 129] stem: '37- Thumb limited movement which of the following muscle not affected:\na- Flex. Policies bevies\nb- A'
+
+=== Page 99 ===
+Q1 [global 130] stem: '40- During test of splenius capitis which action not needed :'
+   a) Extension
+   b) Flexion
+   c) Rotation semispinalis capitis muscle, which of the following movements is not required? a- flexion b- extention c- rotation d- lateral flexion
+Q2 [global 131] stem: '42- The splenius capitis muscle is a prime mover for :\na- neck flexion\nb- neck extension\nc- neck rot'
+
+=== Page 100 ===
+Q1 [global 132] stem: '44- which of following not needed in testing the sternocleidomastoid muscle:\na-head flexion\nb-head e'
+   B. Transient synovitis of the hip
+   C. Slipped proximal femoral epiphysis
+Q2 [global 133] stem: 'D- Avascular necrosis of the femoral head\nrehabilitation of a patient with:\na-Legg-CalvePerthes’ dis'
+
+=== Page 101 ===
+Q1 [global 134] stem: 'Legg-Calve Perthes disease (LCPD):\nresulting avascular necrosis of the proximal femoral head is from'
+   A. Wrist sprain
+   B. Extensor tendonitis
+   C. Median nerve injury
+   D. Avascular necrosis of scaphoid except: a- It is uncommon after 15 years of age
+
+=== Page 102 ===
+Q1 [global 135] stem: '50- The depth of glenoid is increased by what?\na- Labrum\nb- scapula\nc- cervical\nd- ligaments\n52- Inv'
+
+=== Page 103 ===
+Q1 [global 136] stem: 'most frequently disrupted is the:\na- deltoid\nb- Anterior Talo-fibular ligament\nc- posterior Talo-fib'
+
+=== Page 104 ===
+Q1 [global 137] stem: 'Which of the following bones is most likely fractured?'
+   A. Uina
+   B. Radius
+   C. Humerus
+   D. Clavicle
+Q2 [global 138] stem: "59- Kienbock's disease is due to a vascular necrosis of :\na- femoral neck\nb- medial cuneiform bone\nc"
+
+=== Page 105 ===
+Q1 [global 139] stem: 'angle increase the deformity is:\na- coxa valga\nb- genu Valgus\nC- genu recurvatum\nD- coxa vera'
+
+=== Page 106 ===
+Q1 [global 140] stem: '65-volkmans ischemic contracture occurs due to:\na-fracture of medial epcondyle of humerus\nb-fracture'
+
+=== Page 107 ===
+Q1 [global 141] stem: ''
+   a) shaft of femur
+   b) carpal bones
+   c) pelvis
+   d) calcenus
+Q2 [global 142] stem: '69-Which of the following bones is mostly treated with skola traction after a\nfracture?\nA.Tibia'
+   B. Knee
+   C. Pelvis
+   D. Femoral shaft tissues?
+   A. Weak and painful
+   B. Weak and painless
+   C. Strong and painful
+   D. Strong and painless
+
+=== Page 108 ===
+Q1 [global 143] stem: ''
+   C. Strong and Painful: Minor lesion in a part f the muscle or tendon and its attachment.
+   D. Strong and Painless: No lesion in the contractile structure
+Q2 [global 144] stem: '72- isometric contraction as a test in minor lesion\na- Strong painful\nb- Strong painless\nc- Weak pai'
+   A. Ober
+   B. Faber
+   C. Lachman
+   D. McMurray
+
+=== Page 109 ===
+Q1 [global 145] stem: 'weakness of hipabductors (see image)?'
+   A. Ober
+   B. Thomas
+   C. Lachman
+   D. Trendelenburg
+Q2 [global 146] stem: '77- Trendelenburg Test for:\na- hip abnormalities\nb- knee problems'
+img[0] KEPT page_109_img_0.jpeg
+
+=== Page 110 ===
+Q1 [global 147] stem: '79- Pt with lordosis from standing and +ve Thomas test due to:\na- strong lumbar extensors\nb- fixed f'
+   a. Ober test - Iliotibial band
+   b. Straight leg raising test - hamstring
+   c. Thomas test - Iliopsoas
+   d. Thomson - gastrocenmies
+Q2 [global 148] stem: '81-During an evaluation, the therapist taps on the flexor retinaculum of the\npatient’s wrist, which '
+
+=== Page 111 ===
+Q1 [global 149] stem: '82-Pt has tear with rotation movement Which test not need:\na- drawar test\nb- lachmen test\nC- Trendul'
+   A. Lachman
+   B. McMurray
+   C. Varus stress
+   D. Trendelenburg stabilityof which of the following?
+   A. Anterior cruciate ligament
+   B. Lateral collateral ligament
+   C. Medial collateral ligament
+   D. Posterior cruciate ligament
+
+=== Page 112 ===
+Q1 [global 150] stem: '86- The pivot test is for:\na- anterior cruciate ligament\nb- posterior cruciate ligament\nc- medial me'
+   A. Clarke
+   B. Apley's
+   C. Lachman's
+   D. Mc Murray's
+
+=== Page 113 ===
+Q1 [global 151] stem: '90-A therapist is examining a 3-years-old child who is positioned as follows:\nsupine, hips flexed to'
+
+=== Page 114 ===
+Q1 [global 152] stem: ''
+   a. Shortening of iliotibial band
+   b. Integrity of Achilles tendon
+   c. Shortening of iliopsoas
+   d. Integrity of quadriceps tendon degrees then lower slowly, this is: a- Codman’s Test ( for rotator cuff tear) ( also called drop arm test) b- Infraspinatus test
+Q2 [global 153] stem: '96- A therapist is screening a patient complaining of pain at the anterior left\nshoulder region. The'
+
+=== Page 115 ===
+Q1 [global 154] stem: 'vertebra over L5 vertebra. What is the grade of the displacement?\nprobable diagnosis?'
+
+=== Page 116 ===
+Q1 [global 155] stem: 'likely source of the symptoms?'
+   A. Sciatic Pain
+   B. L3-L4 Disc Protrusion
+   C. Cauda Equina Syndrome
+   D. Sacral Osteophyte
+Q2 [global 156] stem: '102-A 48-year-old woman has a pain in her right foot 3 months ago receiving\ntreatment in the clinic.'
+   A. Acute ankle sprain
+   B. Chronic ankle sprain
+   C. Acute plantar fasciitis
+   D. Chronic plantar fasciitis position. Which of the following is the most likely diagnosis?
+   A. Medial ankle sprain
+   B. Lateral ankle sprain
+   C. Anterior ankle impingement
+   D. Posterior ankle impingement
+
+=== Page 117 ===
+Q1 [global 157] stem: 'analgesics and rest the pain subsides which grade of ankle sprain?\na- 1\nb- 2\nc-3\nd- 4\n105- Patient h'
+   A. Hip flexors and spine flexors
+   B. Hip flexors and spine extensors
+   C. Hip extensors and spine flexors
+   D. Hip extensors and spine extensors
+Q2 [global 158] stem: 'Notes:\n108- A clinical instructor is explaining to his student how a muscle contract.\nThe instructor'
+
+=== Page 118 ===
+  [supplemented OCR from img indices: 0]
+Q1 [global 159] stem: ''
+   4. Cocking of myosin head. As ATP is hydrolyzed to ADP and
+Q2 [global 160] stem: 'Pi, the myosin head\nretuins to its prestike'
+   2. The power (working) stroke. ADP and Pi are reheased and the myosin head pivots and bends, changing to tis bent low-energy shape. “As 2 result t pulls om the actim flament, sliding it toward the M-line.
+Q3 [global 161] stem: 'Cross-bridge cycle of muscle contraction\n109- A 37-year-old man complained of weakness in his arm. 6'
+   A. Ulnar
+   B. Radial
+   C. Median
+   D. Musculocutaneous
+img[0] KEPT page_118_img_0.png
+
+=== Page 119 ===
+Q1 [global 162] stem: 'fingers and wrist dorsiflexor muscle. Which of the following nerves is involved?'
+   A. Ulnar
+   B. Radial
+   C. Median
+   D. Spinal accessory following nerves is affected?
+   A. Sciatic
+   B. Femoral
+   C. Superior gluteal
+   D. Inferior gluteal irritation. Which position is best for that goal? a- forward flexion, contralateral sidebending, ipsilateral rotation. b- forward flexion, contralateral sidebending, contralateral rotation. c- forward flexion, ipsilateral sidebending, ipsilateral rotation. d- forward flexion, ipsilateral sidebending, contralateral rotation.
+
+=== Page 120 ===
+Q1 [global 163] stem: 'muscle testing which joint would be expected to show a painless weakness?\na- hip\nb- elbow\nc- ankle\nd'
+
+=== Page 121 ===
+Q1 [global 164] stem: 'sleeping positions.Which of the following would be most comfortable?\nA-Supine with no pillows under '
+
+=== Page 122 ===
+Q1 [global 165] stem: '124- Which of the following is not benefit in physiotherapy:\na- increase muscle fiber size\nb- increa'
+
+=== Page 123 ===
+Q1 [global 166] stem: 'ligament in the minimum protection phase?'
+   A. Decrease pain
+   B. Normalize gait
+   C. Range of motion
+   D. Increase strength of mobilization?
+   A. Large amplitude rhythmic oscillations are performed with in the range
+   B. Small amplitude rhythmic oscillations are performed at the beginning of the range
+   C. Small amplitude rhythmic oscillations are performed at the limit of available motion.
+   D. Large amplitude rhythmic oscillations are performed up to limit of the available motion
+Q2 [global 167] stem: 'How long, in weeks, will it take before recovery from the wasting?'
+   A. 10
+Q3 [global 168] stem: 'B.15'
+   C. 20
+   D. 25
+
+=== Page 124 ===
+Q1 [global 169] stem: 'will show approximately 1° of scapular motion for which of the following?'
+   A. 2° of glenohumeral motion
+   B. 4° of glenohumeral motion
+   C. 6° of glenohumeral motion
+   D. 8° of glenohumeral motion
+Q2 [global 170] stem: '131- a percentage of 1% of Scapulohumeralmovement is accompanied by :\na- 2% of glenohumeral\nb- 4% of'
+
+=== Page 125 ===
+Q1 [global 171] stem: '134- Osteoarthritis OA in old age due to:\na- traumatic\nb- tear and wear process\nBut the symptoms of '
+
+=== Page 126 ===
+Q1 [global 172] stem: 'The symptoms of Pain on the outside of the hip and thigh or in the buttock:\nPain when lying on the a'
+   a) Adhesive capsulitis
+   b) Supra spinatoustendenitis
+   c) Rotator cuff tear
+Q2 [global 173] stem: '139- The rotator cuff of the shoulder joint is weakest:\na- superiorly\nb- anteriorly\nc- posteriorly\nd'
+
+=== Page 127 ===
+Q1 [global 174] stem: 'ROM in abd. And rot. That may cause by:\na- frozen shoulder\nb- supraspinatus tendonitis\nc- rotator cu'
+   A. Supraspinatus tenon, glenohumeral ligament, subacromial bursa
+   B. Supraspinatus tendon, long head of bicep tendon, subacromial bursa
+Q2 [global 175] stem: 'C.Subscapularis tendon, supraspinatus tendon, long head of bicep tendon'
+   D. Long head of bicep tendon, short head of bicep tendon and radial nerve most likely diagnosis?
+   A. Bankart Lesion
+   B. Deltoid Bursitis
+   C. Adhesive Capsulitis
+   D. Subacromial Impingement
+Q3 [global 176] stem: '143- Acute adhesive capsulitis:\na- acute inflammation capsule with fibrous'
+
+=== Page 128 ===
+Q1 [global 177] stem: 'deltoid?\na- Infraspinatus\nb- Subscapularis\nc-Teres minor\nd-Supraspinatus\nperform this movement succe'
+
+=== Page 129 ===
+Q1 [global 178] stem: 'patient?'
+   A. Strengthening of the rhomboids and stretching of the upper trapezius
+   B. Strengthening of the pectoral muscles and the upper trapezius muscles
+   C. Stretching of the upper trapezius and strengthening the middle and lower trapezius
+   D. Stretching of pectoral muscles and strengthening the middle and lower trapezius initiate themovement?
+Q2 [global 179] stem: 'Rationale\nFollowing a reconstruction of massive tear of the rotator cuff, the full active\nshoulder f'
+
+=== Page 130 ===
+Q1 [global 180] stem: 'pathology?\na-Rotator cuff tear\nb-Acromio - clavicular joint separation\nc-lmpingement\nd-Labrum tear\nt'
+   A. Frozen shoulder
+   B. Bankart Lesion
+   C. Rotator cuff rupture
+   D. Supraspinatus impingement
+
+=== Page 131 ===
+Q1 [global 181] stem: '153- partial painful arch of ROM between 90-120 what is the cause ?\na- supraspinatus impingement\nb-a'
+   A. Jumping
+   B. Walking
+   C. Running
+   D. Stair climbing
+Q2 [global 182] stem: '156- in chondromalacia consider in the treatment ?\na- patellar tapping and strenthening of the quadr'
+
+=== Page 132 ===
+Q1 [global 183] stem: '157- Patient has chondromalacia contraindicated to use?\na- mobalization\nb- taping , bandage\nc- stren'
+   A. Knee osteoarthritis
+   B. Chondromalacia patella
+   C. Anterior cruciate ligament injury
+   D. Medial collateral ligament injury condition?
+Q2 [global 184] stem: 'A- Jumpers knee\nB- Perthes disease\nC- Chondromalacia\nD- IIliotibial-ban frictional syndrome'
+
+=== Page 133 ===
+Q1 [global 185] stem: 'the procedure?'
+   A. |Irreparable ligaments
+   B. Elbow flexors paralysis
+   C. Insufficient bone stock
+   D. Heterotopic ossification of the following does the therapist need to first address? a- Lack of passive left knee flexion. b- Lack of passive left knee extension c- Lack of active left knee extension d- Ability to ambulate with a lesser assistive device. arthritis? a- Causes pain usually symmetrically because it is a systemic condition. b- Not usually more painful in the morning. c- This type of arthritis commonly involves the distal interphalangeal joint. d- Mainly involves weight-bearing joints.
+
+=== Page 134 ===
+Q1 [global 186] stem: 'Which of the following is the most important line of treatment?'
+   A. Skincare to prevent trophic ulcer
+   B. Vigorous mobilization of stiff joints
+   C. Interruption of the sympathetic reflex arc
+   D. Strengthening of the hand muscle to preventing wasting callus around radial head not remember This may be due to :
+Q2 [global 187] stem: "A- osteoarthritis of wrist\nB -prearticular ossification\nC- Sudeck's atrophy/reflex sympathetic dystr"
+
+=== Page 135 ===
+Q1 [global 188] stem: 'Which of the following muscles should be stretched in this case?\nAlliopsoas\nB Lumbar flexor\nC Gluteu'
+   a. head of femur
+   b. trochanteric
+   c. shift of femur
+   d. neck of femur.
+
+=== Page 136 ===
+Q1 [global 189] stem: '173- What does the tightness of the low back muscle produce?'
+   A. Lateral pelvic tilt and scoliosis
+   B. Anterior tilt of the pelvis and lordosis
+   C. Posterior tilt of the pelvis and lordosis
+   D. Anterior tilt of the pelvis and kyphosis
+Q2 [global 190] stem: '174-As which of the following vertebral column or trunk problems the weakness\nof the abdominal muscl'
+   A. Increased lumber lordosis
+   B. Increased thoracic kyphosis
+   C. Increased posterior pelvic tilt
+   D. Decreased posterior pelvic tilt
+Q3 [global 191] stem: '175- Patient with abd scapula, round shoulder, kyphosis ,ant rotation of pelvic'
+   A. Lordosis
+   B. Sway back
+   C. Flat back
+   D. Kypholordosis
+Q4 [global 192] stem: 'Which of the following is the most appropriate management?\nA- Calcium intake\nB- Regular painkiller\nC'
+
+=== Page 137 ===
+Q1 [global 193] stem: 'the following is a demonstration of this condition?\nA .Drop of the left pelvis during stance on the '
+   A. Mallet finger
+Q2 [global 194] stem: 'B Trigger finger'
+   C. Swan neck deformity
+   D. Boutonniere deformity
+
+=== Page 138 ===
+Q1 [global 195] stem: 'a positive test?\na- Thompson’s test — plantarflexion of the ankle\nb- Homan’s test — plantarflexion o'
+
+=== Page 139 ===
+Q1 [global 196] stem: 'intra-articular and extra-articular injury?'
+   A. Ober's
+   B. Gapping
+   C. Integrity
+   D. Quadrant
+Q2 [global 197] stem: '188-The therapist is performing an orthopedic test on a 25-year-old man with\nthe chief complaint of '
+   A. Anterior and superior
+   B. Anterior and inferior
+   C. Posterior and superior
+   D. Posterior and inferior
+
+=== Page 140 ===
+Q1 [global 198] stem: 'referral to you for early mobilization to prevent:\na- Stiffness\nb- Recurrent dislocation\nC- Osteoart'
+   a) Strength Quad
+   b) Hamstring
+   c) Both
+Q2 [global 199] stem: '196-Talipesequinovarus:'
+   a. Ankle dorsi flexed, everted, adducted
+
+=== Page 141 ===
+Q1 [global 200] stem: ''
+   b. Ankle plantar flexed, inverted, abducted
+   c. Ankle dorsi flexed, everted, abducted
+   d. Ankle plantar flexed, inverted, adducted
+Q2 [global 201] stem: '197- Which statement not correct about talipesequinovarus:\na- Clubfoot\nb- maybe congenital.\nc- D.F a'
+
+=== Page 142 ===
+Q1 [global 202] stem: 'corticosteroids?'
+   A. Myopathy
+   B. Depression
+   C. Osteoporosis
+   D. Decreased appetite
+Q2 [global 203] stem: '205- A 62-year-old patient is diagnosed with osteoporosis and has no fractures.\nFor the last month, '
+   A. Trunk flexion and rotation
+   B. Trunk flexion and extension
+   C. Trunk rotation and abdominal stabilization
+   D. Trunk extension and abdominal stabilization
+
+=== Page 143 ===
+Q1 [global 204] stem: '- position of hip fusion:\n- neutral abduction, external rotation of 0-30 deg&, 20-25 -deg of flexion'
+   A. Internal rotation, flexion, and adduction
+   B. External rotation, flexion, and abduction
+   C. Internal rotation, extension, and abduction
+   D. External rotation, extension, and adduction
+Q2 [global 205] stem: '210-A 76-year-old woman received a cemented right hip arthroplasty (THA) 24\nhours ago. The surgeon d'
+
+=== Page 144 ===
+Q1 [global 206] stem: '212- Patient with depression of metatarsal pad and claw toe the clinical picture:\na- Hyperext of met'
+   A. Knee flexion, ankle normal, short quadriceps muscle
+   B. Knee flexion, ankle dorsiflexion, short hamstring muscle
+   C. Knee flexion, ankle plantar flexion, short quadriceps muscle
+   D. Knee flexion, ankle plantar flexion, lengthened soleus muscle
+Q2 [global 207] stem: '214- patient with winged scapula and excessive internal rotation needs to\na- stretch middle and lowe'
+
+=== Page 145 ===
+Q1 [global 208] stem: '217- triple arthrodesis involves:\na-Calcaneocuboid, talonavicular and talocalcaneal.\nb-Tibiotalar, c'
+   A. Ankle sprain
+   B. Sciatic nerve injury
+   C. Achilles tendon tear
+   D. Deep vein thrombosis
+Q2 [global 209] stem: '220- Fracture due to repeated minor injury:\na- pathological\nb- fatigue\nc- repeated stress\nd- compres'
+
+=== Page 146 ===
+Q1 [global 210] stem: '221- burst fracture?\na- Humerus\nb- Ankle\nC- spine\nlongitudinal axis of fumer is decreased in the cas'
+
+=== Page 147 ===
+Q1 [global 211] stem: 'the angle increase the deformity is:\na-coxa valga\nb-genu Valgus\nC- genu recurvatum\n226- The first th'
+
+=== Page 148 ===
+Q1 [global 212] stem: 'complication that is most likely to be seen and of concern is:\na- facet joint impingement.\nb- disk h'
+
+=== Page 149 ===
+Q1 [global 213] stem: 'firing order?\nA- Bilateral abdominals, bilateral quadriceps, bilateral tibialis anterior.\nB- Bilater'
+
+=== Page 150 ===
+Q1 [global 214] stem: 'therapy. The therapist should expect which of the following findings?\na-Left shoulder high, left sca'
+   A. Bathing
+   B. Combing
+   C. Carrying heavy object
+   D. Reaching hand into back pocket
+Q2 [global 215] stem: '241-Benefits of isotonic exercise include the following except:\na- high mechanical energy'
+
+=== Page 151 ===
+Q1 [global 216] stem: 'Which of the following is the most likely explanation?'
+   A. Sprain
+   B. Synovitis
+   C. Muscle cramp
+   D. Delayed onset muscles soreness
+Q2 [global 217] stem: 'It would be best to use this technique be propositioning the patient’s arm in:\na- 95 degrees of abdu'
+
+=== Page 152 ===
+Q1 [global 218] stem: 'patient to perform the correct sacroiliac mobilization of the left in nominate?\na- Right side lying\n'
+
+=== Page 153 ===
+Q1 [global 219] stem: ''
+   A. Not able to abduct the leg
+   B. Perform a complete range of abduction from a side-lying position
+   C. Perform a complete range of abduction from the supine position
+   D. Perform an incomplete range of abduction from the supine position bilaterally at 60 . What is the best course of treatment? a- Lumbar traction , hot packs, and ultrasound. b- McKenzie style lumbar extensions, a posture program, hamstring stretching, and a home exercise program. c- McKenzie style lumbar extensions, a posture program, hamstring stretching, home program, hot packs, and ultrasound. d- Lumbar traction, hot packs, ultrasound, and hamstring stretching. muscles?
+   A. Quadriceps
+   B. Hamstrings
+   C. Gastrocnemius
+   D. Tibialis anterior
+
+=== Page 154 ===
+Q1 [global 220] stem: 'extremities while the patient is sitting?\na- 900 of hip flexion, 900 of knee flexion, and 100 of dor'
+   C. Elevating the foot allows the pelvis to tilt uoward and decreases the lumbar lordosis
+   D. Elevating the foot relieves stress from the feet and decreases the presser on the knee
+Q2 [global 221] stem: '254-A physical therapist is asked to evaluate a 37-year-old man with right side\nsciatica. The therap'
+
+=== Page 155 ===
+Q1 [global 222] stem: 'convexconcave rule?'
+   A. Rotational mobilization
+   B. Medial-lateral mobilization
+   C. Anterior-posterior mobilization
+   D. Inferior-superior mobilization the best position for lumbar traction?
+   A. Prone with no pillow
+   B. Supine with both knees flexed
+   C. Prone with a pillow under the abdomen
+   D. Supine with a pillow under the lumbar spine
+Q2 [global 223] stem: '266-A 65 - year old man with left hip pain for the past year . The physical\ntherapist assesses the p'
+
+=== Page 156 ===
+Q1 [global 224] stem: 'of the affected lower limb will be:'
+   A. External rotation, extension & abduction
+   B. Internal rotation, flexion & adduction
+   C. Internal rotation, extension & abduction
+   D. External rotation, flexion & abduction the tibial tuberosity with pain in resistive knee flexion what is your diagnosis?
+   A) Hamstring strain
+   B) hip arthritis
+   C) sports hernia
+   D) joint inflammation
+Q2 [global 225] stem: 'What is the most likely cause of the problem?'
+   A. Hamstring strain
+   B. Sportsman's hernia
+   C. Osteoarthritis of hip joint
+   D. Tightness in the hip flexors(iliopsoas
+
+=== Page 157 ===
+Q1 [global 226] stem: 'of these are:\na- Dupuytren’s contracture Tendon hand affected\nb-Volkaman contracture Tendons hand&wr'
+
+=== Page 158 ===
+
+=== Page 159 ===
+
+=== Page 160 ===
+Q1 [global 227] stem: '“Baseball “ mallet finger ?'
+   1. metacarpal
+   2. distal phalanx
+Q2 [global 228] stem: 'The blood flow percentages among athletes during exercise will:'
+   1. increases 15 fold with 60 mHg/ ml
+   2. increases 25 fold with 60 mHg/ ml
+Q3 [global 229] stem: '¢\n- What is the blood flow for an athlete at rest?'
+   1. 1 to 2 ml/min/110g
+   2. 6 to 7 ml/min/110g
+   3. 60 to 80 mi/min/110g betes recommend all of the following except:
+   1. decreasing or omitting carbohydrate snacks just following intense exercise or activity.
+   2. decreasing or omitting the insulin dose just prior to exercise or athletic activity.
+   3. decreasing or omitting the insulin dose just following the exercise or athletic activity.
+Q4 [global 230] stem: 'ingesting up to 30 grams of additional carbohydrate for every 30 minutes interval of intense ex-\nerc'
+
+=== Page 161 ===
+Q1 [global 231] stem: 'which of the following is the most likely cause?\nOR long jumping athlete female 23 years , comes to '
+   1. Sensation
+   2. Proprioception
+   3. Muscle strength
+   4. Ligament stretch recovery?
+   1. Pain management
+   2. Swelling reduction
+   3. Collagen re-modeling
+   4. Proprioception develop
+
+=== Page 162 ===
+Q1 [global 232] stem: ''
+   1. Resistive exercise in all directions
+   2. Pendulum ex for high-intensity resistive exercises to achieve muscle hypertrophy?
+   1. 8
+   2. 12
+   3. 16
+   4. 20 r Question 10
+Q2 [global 233] stem: 'An athlete with unstable fracture neck of humerus , refereed to you to improve mobility.\nWhich form '
+   1. isometric
+   2. resistive exercise in all directions not put full weight in walking:
+   1. patella fracture
+   2. tibia fracture
+   3. MCL rupture
+   4. Rupture of something of fibers
+
+=== Page 163 ===
+Q1 [global 234] stem: ''
+   1. medial collateral ligament
+   2. semilunar cartilage at the knee
+   3. femoral condyles
+   4. upper shaft of the tibia most likely damaged in this type of injury?
+   1. Lateral and medial menisci and patellar tendon
+   2. Medial meniscus, medial collateral ligament, and ACL
+   3. Medial collateral ligament, medial hamstring, and quadriceps muscle
+   4. Lateral collateral ligament, iliotibial band, and lateral hamstring tendon ture?
+   1. Patellofemoral joint
+   2. Anterior cruciate ligament
+   3. Medial meniscus
+   4. Femoral condyles
+
+=== Page 164 ===
+Q1 [global 235] stem: 'causing damage to the ACL only?'
+   1. Varus blow to the knee with the foot planted and an audible pop.
+   2. Foot planted, medial tibial rotation, and an audible pop.
+   3. Valgus blow to the knee with the foot planted and no audible pop.
+   4. Foot planted, lateral tibial rotation, and no audible pop.
+Q2 [global 236] stem: 'Which of the following is the most likely cause of anterior cruciate ligament injury ?'
+   1. Forceful knee bending
+   2. .Lateral twisting of the knee
+   3. Blow to the lateral side of the knee
+   4. Blow to the posterior side of the knee cruciate ligament reconstruction?
+   1. Stationary cycle, close chain exercise, elliptical trainer
+   2. Close chain exercises, balance board, full weight-bearing.
+   3. Isometric exercise, partial weight-bearing, ankle pumping
+   4. Patellar mobilization, open chain exercises, balance training
+
+=== Page 165 ===
+Q1 [global 237] stem: '¢\nWhich of the following is inappropriate exercise for a patient who received an anterior cruci-\nate'
+   1. Lateral step-ups
+   2. Heel slides
+   3. Stationary bike
+   4. Pool walking. following is the best advice?
+   1. There are no precautions
+   2. The patient should avoid all athletic activity for 1 year.
+   3. The patient should avoid all athletic activity until there is a minimum of 20% difference in the bilateral quadriceps muscle as measure isokinetically.
+   4. The patient should wear a brace and compete in only light athletic events. this knee extension?
+   1. Grade 2
+   2. Grade 3
+   3. Grade 4
+   4. Grade 5
+
+=== Page 166 ===
+Q1 [global 238] stem: 'Which of the following strains on the knee causes tears of the meniscus?'
+   1. Adduction
+   2. Abduction
+   3. Hyperextension
+   4. Combined flexion and rotation
+Q2 [global 239] stem: 'Which is the most likely structure injured if the patient is complaining of knee locking?'
+   1. Meniscus
+   2. ACL tear
+   3. OA’s
+   4. MCL and laterally rotations:
+   1. meniscus injury
+   2. ligament injury
+   3. muscular injury
+   4. capsular injury. r Question 24
+Q3 [global 240] stem: 'A 26-year-old woman slipped and had blunt trauma to the knee joint. She developed severe\npain and sw'
+   1. Bone
+   2. Capsular
+   3. Ligament
+   4. Meniscus
+
+=== Page 167 ===
+Q1 [global 241] stem: ''
+   1. weak vastus medialis
+   2. weak semitendinosus
+   3. Weak quadriceps
+   4. weak biceps femoris
+
+=== Page 168 ===
+Q1 [global 242] stem: ''
+   1. Median nerve
+   2. Ulnar nerve
+   3. Radial nerve
+   4. . posterior interosseous nerve cident. Which of the following structures is the least likely to be injured?
+   1. Tibial nerve
+   2. Popliteal artery
+   3. Common peroneal nerve
+   4. Anterior cruciate ligament
+
+=== Page 169 ===
+Q1 [global 243] stem: 'avoided in early rehabilitation?'
+   1. Full knee extension
+   2. 450 of knee flexion
+   3. 90 o of knee flexion
+   4. 150 of knee flexion appropriate kind of intervention?
+   1. Fitness
+   2. Psychological
+   3. Biomechanical
+   4. Strengthening ing upper extremity repetitive motion injuries. Which of the following is incorrect advice?
+   1. Use your entire hand rather than just the fingers when holding an object
+   2. Position tasks so that they are performed below shoulder height.
+   3. Use tools with small straight handles when possible
+   4. When performing a forceful task, keep the materials slightly lower than the elbow.
+
+=== Page 170 ===
+Q1 [global 244] stem: 'A patient with Osgood-Schlatter disease will experience the most difficulty and pain while:\nplaying '
+   1. Jumper’s knees.
+   2. Anterior cruciate ligament sprain.
+   3. Osgood-Schlatter disease expect to note the most edema?
+Q2 [global 245] stem: 'Radial ulnar joint\nOlecranon bursa\nUlno-humeral joint\nLateral triangle\n159'
+
+=== Page 171 ===
+Q1 [global 246] stem: 'to develop fast-twitch muscle fibers. Characteristics of this type of fiber include:'
+   1. Fatigues slowly, fiber colors appear red and used more in aerobic
+   2. Fatigues quickly, fiber colors appear white and used in anaerobic
+   3. Fatigues quickly, fiber colors appear white and used more in aerobic
+   4. Fatigues slowly, fiber colors appear white, and used more in anaerobic in injury?
+   1. Analgesia
+   2. Stable joint
+   3. Non-constant pain
+   4. Absence of swelling
+Q2 [global 247] stem: 'Which of the following actions places the greatest stress on the patellofemoral joint?\nWhen the foot'
+
+=== Page 172 ===
+Q1 [global 248] stem: 'positive result of this test suggests which of the following structures as the source of pain?'
+   1. Iliotibial band
+   2. Biceps femoris
+   3. Quadriceps
+   4. Lateral collateral ligament. abdomen what is the most likely cause?
+   1. adductor strain
+   2. sports hernia
+   3. jumpers knee
+Q2 [global 249] stem: '161'
+
+=== Page 173 ===
+Q1 [global 250] stem: 'Which of the following is the most likely grade of the sprain?'
+   1. 1
+   2. 2
+   3. 3
+   4. 4 help in the immediate management of atelectasis, it would not be appropriate to implement:
+   1. pain reduction techniques
+   2. segmental breathing
+   3. incentive spirometry
+   4. paced breathing
+Q2 [global 251] stem: '162'
+
+=== Page 174 ===
+Q1 [global 252] stem: 'following is the most likely injury?'
+   1. Shin splints
+   2. Achilles tendonitis
+   3. Rupture of plantaris muscle
+   4. Rupture of the deep portion of soleus muscle reconstruction?
+Q2 [global 253] stem: 'Avoid walking\nAvoid knee extension\nAvoid excessive anterior shear force\nAvoid excessive posterior sh'
+
+=== Page 175 ===
+Q1 [global 254] stem: ''
+   1. The posterior cruciate ligament prevents posterior translation of the tibia on the femur.
+   2. Posterior bands of the posterior cruciate ligament are their tightest in full Knee extension.
+   3. The posterior cruciate ligament is attached to the lateral meniscus and not to the medial menis-
+Q2 [global 255] stem: 'Cus.'
+   4. The posterior cruciate ligament helps with medial rotation of the tibia during full knee ex- tension with open chain activities. r Question 50 igament that restricts the excess posterior translation of femur over tibia
+Q3 [global 256] stem: '. lateral collateral ligament\n. medial collateral ligament\n. anterior cruciate ligament\n. posterior '
+
+=== Page 176 ===
+Q1 [global 257] stem: 'football player fall in full flexion and media rotation?'
+   1. ACL
+   2. PCL
+   3. Medial collateral
+   4. medial meniscus
+Q2 [global 258] stem: '« Question 54\nA 20-year-old athlete is complaining that his knee locks, and he has to move it around'
+   1. Torn meniscus
+   2. Chondral Lesion
+   3. Patellar Subluxation
+   4. Quadriceps Tendonitis symptoms of meniscal tear are:
+Q3 [global 259] stem: '- Apopping sensation.\nSwelling or stiffness.\nPain, especially when twisting or rotating your knee.\nD'
+   1. Neuropathies
+   2. Overuse injury
+   3. Muscular weakness
+   4. Congenital hip deformity
+
+=== Page 177 ===
+Q1 [global 260] stem: 'was a spring-like end :'
+   1. Arthritis
+   2. Inflammation
+   3. Meniscal injury
+   4. Ligamentous injury
+Q2 [global 261] stem: '« Question 58\nAn athlete comes to the Physiotherapy Department with a right knee injury is undergoin'
+   1. -Capsular injury
+   2. Meniscal injury
+   3. Muscular injury
+   4. Ligamentous injury r Question 59
+Q3 [global 262] stem: 'A 17-year-old football player is referred to the outpatient physical therapy clinic with a diag-\nnos'
+   1. Fit the patient with a brace that prevents him from actively moving the knee into the last available 200 of extension. Prescribe general lower extremity strengthening with the ex- ception of side lying hip adduction.
+   2. Do not fit the patient with a brace. All lower extremity strengthening exercises are indicated.
+   3. Fit the patient with a brace that prevents him from actively moving the knee into the last available
+Q4 [global 263] stem: '200 of extension. Avoid all open-chain strengthening for the lower extremity.'
+   4. Do not fit the patient with a brace. Prescribe general lower extremity strengthening with the ex- ception of side lying hip adduction.
+Q5 [global 264] stem: '« Question 60\nYou are treating a 16-year-old female athlete for patellofemoral malalignment syndrome'
+   1. patellar stabilizing brace.
+   2. derotation brace.
+   3. knee orthosis with a hinge joint.
+   4. knee orthosis with an offset hinge joint.
+
+=== Page 178 ===
+Q1 [global 265] stem: ''
+   1. The femur laterally rotates on the tibia.
+   2. The femur medially rotates on the tibia
+   3. The tibia laterally rotates on the femur
+   4. The tibia medially rotates on the femur. condition?
+   1. Tennis Elbow
+   2. Student Elbow
+   3. Golfer’s Elbow
+   4. Nursemaid Elbow
+img[0] KEPT page_178_img_0.png
+
+=== Page 179 ===
+Q1 [global 266] stem: 'scribed?'
+   1. flexor
+   2. Wrist extensor
+   3. Shoulder flexor
+   4. Shoulder extensor
+
+=== Page 180 ===
+
+=== Page 181 ===
+
+=== Page 182 ===
+Q1 [global 267] stem: 'Rate of regeneration of severed nerve is:\n1- 0.1 mm /day\n2- 1mm /day\n3- 1 cm /day\n4- none\nNormal act'
+
+=== Page 183 ===
+Q1 [global 268] stem: 'Which of the following is involved in the perception of dull aching pain?\n1- spinotectal tract\n2- sp'
+
+=== Page 184 ===
+Q1 [global 269] stem: 'Which of the following is the appropriate label for “8”, in this schematic\nfigure of the cross-secti'
+Q2 [global 270] stem: 'A 14-year old girl place excessive valgus stress to the right elbow during a fall from a bicy-\ncle. '
+
+=== Page 185 ===
+Q1 [global 271] stem: 'A therapist is evaluating a patient in an intensive care unit. The therapist notes no eye open-\ning,'
+Q2 [global 272] stem: 'pt. has median Nerve compression assist him by:\n1- Weak of medial 2 fingers & decrease grasping obje'
+Q3 [global 273] stem: 'a college student presents with pain in the shoulder that began the week after finals, but\nshe canno'
+
+=== Page 186 ===
+Q1 [global 274] stem: 'with affection of phrenic nerve we stretch?\n1- sternocleidomastoid\n2- trapezius\n3- diaphragm\n4- mass'
+Q2 [global 275] stem: 'A patient presents to an outpatient facility with complaints of pain in the groin area (along\nthe me'
+Q3 [global 276] stem: 'A patient presents to an outpatient clinic with an order to evaluate and treat the right fore-\narm a'
+
+=== Page 187 ===
+Q1 [global 277] stem: 'You are performing sensory tests on a patient diagnosed with C6 nerve root impingement.\nTesting shou'
+Q2 [global 278] stem: 'Acceleration injury (whiplash injury) may cause:\n1- pain in posterior aspect of neck\n2- pain at post'
+   1. Neck pain
+   2. Neck swelling
+   3. Tenderness along the back of the neck, Muscle spasms (in the side or back of your neck)
+   4. Difficulty moving the neck around
+   5. Headache
+   6. Pain shooting from the neck to the shoulder or arm
+Q3 [global 279] stem: 'A 19-year-old wrestler fell on his elbow and then complained of pins and\nneedles sensation in his sm'
+
+=== Page 188 ===
+Q1 [global 280] stem: 'The muscles that supplied by phrenic nerve C3, C4 and C5 are called:\n1- scalene\n2- sternocleidomasto'
+
+=== Page 189 ===
+Q1 [global 281] stem: "Radial nerve most probable compressed region:\n1- elbow\n2- finger\n3- shoulder\n4- wrist\n' CR Question "
+
+=== Page 190 ===
+Q1 [global 282] stem: 'The ulnar nerve supplies all of the following muscles except:\n1- adductor pollicis.\n2- flexor pollic'
+Q2 [global 283] stem: 'when examine patient for carpal tunnel syndrome, which nerve do you examine?\n1- Radial n.\n2- Ulnar n'
+
+=== Page 191 ===
+Q1 [global 284] stem: 'A 45-year-old patient was complaining of tingling sensation and numbness on his 1st 2nd\nand the radi'
+Q2 [global 285] stem: 'A therapist is beginning an evaluation of a 34-year-old woman with a diagnosis of carpal\ntunnel synd'
+Q3 [global 286] stem: 'Carpal tunnel syndrome causes:\n1- claw hand\n2- wrist drop.\n3- paralysis of all muscles of the hand\n4'
+Q4 [global 287] stem: 'Site of compression of median nerve in:\n1- elbow\n2- wrist\n3- shoulder\n180'
+
+=== Page 192 ===
+Q1 [global 288] stem: 'The following muscles are innervated by the median nerve except:\n1- pronator teres\n2- pronator quadr'
+
+=== Page 193 ===
+Q1 [global 289] stem: 'Polio virus transfer through:\n1- Respiratory tract\n2- Skin\n3- Hepatic failure\n4- GIT\nC\nSacral dimple'
+Q2 [global 290] stem: 'The spaces between the covered parts of an axon are called:\n1- ventricles\n2- synaptic clefts\n3- node'
+
+=== Page 194 ===
+  [supplemented OCR from img indices: 0]
+Q1 [global 291] stem: 'terms best describes this type of movement?\n1- Lead-pipe rigidity\n2- Ballismus\n3- Chorea\n4- Athetosi'
+img[0] KEPT page_194_img_0.png
+
+=== Page 195 ===
+Q1 [global 292] stem: 'Electrically insulating material in a nerve fiber is:\n1- Nodes of Ranvier\n2- Axon\n3- Dendrites\n4- My'
+Q2 [global 293] stem: 'Nodes of Ranvier are found in:\n1- brain\n2- heart\n3- axon\n4- eye'
+Q3 [global 294] stem: 'Nodes of Ranvier are found in:\n1- Myelinated nerve fibers\n2- Non myelinated nerve fibers\n3- RBC\n4- W'
+Q4 [global 295] stem: 'Ankylosing means :\n1- loosed packed position\n2- joint stiffness\n3- closed packed position\nNOTE:\nanky'
+Q5 [global 296] stem: 'Ankylosing Spondylitis means:\n1- loosed packed position\n2- abnormal condition of stiffness and fusio'
+
+=== Page 196 ===
+Q1 [global 297] stem: 'WHICH statement incorrect about Brown-Sequard syndrome?\n1- ipsilateral babinski sign\n2- ipsilateral '
+
+=== Page 197 ===
+Q1 [global 298] stem: 'A therapist receives an order to evaluate and treat a 76-year-old woman\nwho was involved in a motor '
+Q2 [global 299] stem: 'A 42-year-old construction worker received a burst fracture in the cervical spine when struck\nby a f'
+Q3 [global 300] stem: 'A patient informs his therapist that his problem began 3 months after a bout of the flu. The\npatient'
+
+=== Page 198 ===
+  [supplemented OCR from img indices: 0]
+Q1 [global 301] stem: 'in the gastrocnemius muscle. Where is this muscle located?\n1- Back of leg\n2- Front of leg\n3- Back of'
+img[0] KEPT page_198_img_0.png
+
+=== Page 199 ===
+Q1 [global 302] stem: "referred as:\n1- Guillain-Barré syndrome\n2- Compressive myelopathy\n3- Friedreich's ataxia\n4- None of "
+
+=== Page 200 ===
+Q1 [global 303] stem: 'A 28-year-old woman complained of progressive worsening of physical functions and was\ndiagnosed by h'
+Q2 [global 304] stem: 'When instructing the family of a 9 year-old boy with Duchene muscular dystrophy, the main\nemphasis i'
+Q3 [global 305] stem: 'A 32-year-old construction worker fell off a ladder. In his effort to prevent the fall, the worker\nr'
+Q4 [global 306] stem: 'A 31-year-old man has loss of vision in one eye, staggering gait, numbness in bilateral\nupper extrem'
+
+=== Page 201 ===
+Q1 [global 307] stem: 'following is the most likely diagnosis?\n1- Myotonia\n2- Myopathies\n3- Myasthenia gr\n4- Motor neuron d'
+
+=== Page 202 ===
+Q1 [global 308] stem: 'In order of grade of severity, which of these nerve injuries is the worst?\n1- neurotemesis\n2- transi'
+Q2 [global 309] stem: 'Motor neuron disease which of the following is not true:\n1- Affect anterior horn cell in spinal cord'
+Q3 [global 310] stem: 'all the following is true about motor neuron disease except\n1- Affect anterior horn cell in spinal c'
+Q4 [global 311] stem: 'Hemiplegia is :\n1- Loss half field of vision\n2- Paralysis halve of the body\n191'
+img[0] KEPT page_202_img_0.jpeg
+
+=== Page 203 ===
+Q1 [global 312] stem: 'all the following is true about motor neuron disease except:\n1- Affect anterior horn cell in spinal '
+Q2 [global 313] stem: 'patient have stroke which position increase complication?\n1- sitting on chair with head and neck in '
+Q3 [global 314] stem: 'A patient who has suffered a recent stroke is being treated by a physical therapist. The\npatient exh'
+Q4 [global 315] stem: 'when you evaluate a CVA patient what is the first thing to notice\n1- imbalance and in-coordination\n2'
+img[0] KEPT page_203_img_0.png
+
+=== Page 204 ===
+Q1 [global 316] stem: 'Facial nerve nuclei innervations:\n1- Bilateral pyramidal innervations\n2- Unilateral pyramidal innerv'
+
+=== Page 205 ===
+Q1 [global 317] stem: 'ments is about the Babinski reflex of the plantar surface of the foot?\n1- Diagnoses extrapyramidal t'
+
+=== Page 206 ===
+Q1 [global 318] stem: 'chart?\n1- Nursing assessment\n2- Physician’s orders/notes\n3- Respiratory assessment\n4- Dietary assess'
+
+=== Page 207 ===
+Q1 [global 319] stem: 'Which of the following is true about anterior cerebral artery?\n1- affect in lower extremity in same '
+
+=== Page 208 ===
+Q1 [global 320] stem: 'Anterior cerebral artery:\n* Contralateral monoplegia cortical sensory loss.\n* sometimes behavioral a'
+
+=== Page 209 ===
+Q1 [global 321] stem: 'Which of the following is the scientific term used to describe the condition?\n1- Mutism\n2- Spasticit'
+
+=== Page 210 ===
+Q1 [global 322] stem: 'Earliest sign of parkinsonism:\n1- Diplopia\n2- Tremor\n3- Festinating gait\nParkinsonism disease is :\n1'
+
+=== Page 211 ===
+Q1 [global 323] stem: 'Parkinson’s gait, which is not true:\n1- Wide base of support with arm swing\n2- Propulsion gait\n3- Fe'
+
+=== Page 212 ===
+Q1 [global 324] stem: 'In Treatment of Parkinson pt :\n1- strengthening of elongated muscles and stretching of rigid flexors'
+
+=== Page 213 ===
+Q1 [global 325] stem: 'improve the patient’s performance on the days when she performs poorly?\n1- The therapist can encoura'
+
+=== Page 214 ===
+Q1 [global 326] stem: 'or redness is noted at this time. Which of the following is the best treatment plan?\n1- Gastrocnemiu'
+
+=== Page 215 ===
+Q1 [global 327] stem: 'vertebral artery insufficiency in order to ascertain the adequacy of blood supply to the:\n1- vertebr'
+
+=== Page 216 ===
+Q1 [global 328] stem: 'was the prior therapist most likely performing?\n1- Barognosis test\n2- Stereognosis test\n3- Graphesth'
+
+=== Page 217 ===
+Q1 [global 329] stem: 'motor unit contain?\n1- Motor neuron and their axons & all m.s supplied.\n2- Motor neucli in A.H.C & a'
+
+=== Page 218 ===
+Q1 [global 330] stem: 'the injury is in one of the following locations:\n1- Inferior right hemisphere of the somatosensory c'
+
+=== Page 219 ===
+Q1 [global 331] stem: 'Which of the following is an inappropriate treatment approach?\n1- Start treatment at the same time e'
+img[0] KEPT page_219_img_0.jpeg
+
+=== Page 220 ===
+Q1 [global 332] stem: '@© @Eestin:\npt suffering from weakness of biceps brachials the corresponding myotome is\n1- C4\n2-C5\n3'
+
+=== Page 221 ===
+Q1 [global 333] stem: 'What does this reflex give information about spinal levels?\n1- C1-C3\n2- C3-C4\n3- C4-C5\n4- C6-C8\nWhat'
+
+=== Page 222 ===
+Q1 [global 334] stem: 'Reflex quadriceps muscle is:\n1-L4\n2-L5\n3- $1\n4- $2\n’ GRE Question 165\nwhile you examine a patient yo'
+
+=== Page 223 ===
+Q1 [global 335] stem: 'What is correct about planter reflex innervations is?\n1- L4-L5\n2- L2-L3\n3- L5-S1\n4-L5 -S1.2\nQuestion'
+
+=== Page 224 ===
+Q1 [global 336] stem: 'which statement is about Golgi tendon organ?\n1- it monitor muscle length.\n2- its affected by muscle '
+
+=== Page 225 ===
+Q1 [global 337] stem: 'clonus. Which of the following is the most likely cause?\n1- Cranial nerve injury\n2- Peripheral nerve'
+
+=== Page 226 ===
+Q1 [global 338] stem: 'pyramidal tract make decussation at:\n1- medulla\n2- midbrain\n3- pons\n4- cerebral cortex\nY CRE Questio'
+
+=== Page 227 ===
+Q1 [global 339] stem: 'Hypertonicity means:\n1- decrease tone in muscle\n2- increase tone\n3- incoordination\n{ (GE Question 19'
+
+=== Page 228 ===
+Q1 [global 340] stem: 'The term dyspraxia refers to?\n1- inability to perform purposfull movements\n2- swallowig\n3- slow moti'
+
+=== Page 229 ===
+Q1 [global 341] stem: 'Wernicke’s area in which gyrus of the brain located?\n1- superior part of temporal lobe\n2- arcuate fa'
+
+=== Page 230 ===
+Q1 [global 342] stem: 'What is the scientific term for this condition?\n1- Allesthesia\n2- Barognosis\n3- Astereognosis\n4- Pro'
+
+=== Page 231 ===
+Q1 [global 343] stem: 'Ataxia means :\n1- in-coordination in movement\n2- inability to perform action\n3- movement very slow\nQ'
+
+=== Page 232 ===
+Q1 [global 344] stem: 'In SCI which of the following in not of complications:\n1- hyperreflexia\n2- systemic hypertension\n3- '
+
+=== Page 233 ===
+Q1 [global 345] stem: 'correct information to convey to the patient?\n1- Psychogenic erection is possible, reflexogenic erec'
+
+=== Page 234 ===
+Q1 [global 346] stem: 'which nerve give motor &sensory branch supplying facial muscle is?\n1-V\n2- Vl\n3- VIl\n4- VIII\n. CR Que'
+
+=== Page 235 ===
+Q1 [global 347] stem: 'most appropriate assessment tool to track patient improvement over visits?\n1- Glasgow Coma Scale (GC'
+
+=== Page 236 ===
+Q1 [global 348] stem: 'marily innervates this key muscle group?\n1- L2\n2-L3\n3- L4\n4-L5\n’ CRE Question 238\nThe following is a'
+
+=== Page 237 ===
+Q1 [global 349] stem: 'of Babinski sign?\n1- Absence of sensation.\n2- Loss of coordination in movement.\n3- abnormal response'
+
+=== Page 238 ===
+Q1 [global 350] stem: 'patient have? How should the physical therapist approach treatment?\n1- ldeomotor apraxia. The physic'
+
+=== Page 239 ===
+
+=== Page 240 ===
+
+=== Page 241 ===
+Q1 [global 351] stem: 'Rock-port 1 mile test used to test?\n1- muscles\n2- cardiovascular fitness\n3- CNS\nchest physiotherapy?'
+
+=== Page 242 ===
+Q1 [global 352] stem: 'Muscle that participate in respiration?\n1-SCM ms\n2-abdominals ms\n3-intercostals ms'
+
+=== Page 243 ===
+Q1 [global 353] stem: 'Symptoms affect the forearm, wrist, and hand. They include:\n- pain\n- Decreased sensation\n- Paleness '
+
+=== Page 244 ===
+Q1 [global 354] stem: 'This condition:'
+   1. ls caused by an interference with the venous return
+   2. Is caused by an interference of the nerve supply
+   3. May occur if the fracture is sustained in the upper extremity
+   4. None of the above exercise. Which of the following is an inappropriate list of benefits?
+   1. Increased efficiency of the myocardium to obtain oxygen, decreased high-density lipo- protein (HDL) and decreased cholesterol
+   2. Decreased low-density lipoprotein (LDL), decreased triglycerides, and decreased blood pres- sure.
+   3. Increased efficiency of the myocardium to obtain oxygen, decreased cholesterol, and decreased
+Q2 [global 355] stem: 'LDL.'
+   4. Both 1 and 3 are inappropriate lists
+
+=== Page 245 ===
+Q1 [global 356] stem: 'What is the blood flow for an athlete at resting?'
+   1. 1 to 2 ml/min/110g
+   2. 6 to7 mli/min/110g
+   3. 60 to 80 mli/min/110g
+Q2 [global 357] stem: 'Fracture Lower humerus fracture, therapist tend to do very gradual stretch:'
+   1. to prevent disuse atrophy
+   2. to prevent hypertrophy
+   3. to stimulate muscle
+   4. to prevent muscle and tendon rupture. ual stretch to:
+   1. avoid disuse atrophy
+   2. avoid hypertrophy
+   3. prevent muscle and tendon tear
+   4. stimulate muscle population?
+   1. Chronic venous disease
+   2. Recent total knee replacement
+   3. Burn patients
+   4. Chronic arterial disease
+
+=== Page 246 ===
+Q1 [global 358] stem: 'curve. What is the therapist’s greatest concern?'
+   1. The patient’s complaint of low back pain
+   2. Gait deviation.
+   3. Pulmonary status.
+   4. Poor upright standing posture
+Q2 [global 359] stem: 'hen O2 demand in heart decrease what happened ?\ndecrease HR multiplied by systolic pressure\ndecrease'
+   1. decrease VO2 max.
+   2. Decrease heart rate .
+   3. Increase plasma volume .
+   4. Increase cardiac output .
+Q3 [global 360] stem: 'Average skeletal muscle blood flow at resting is:\n1-4 ml/min per 100g'
+   2. 5-8 ml/min per 100g
+   3. 9-12 ml/min per 100g
+   4. 13-16 ml/min per 100g
+Q4 [global 361] stem: '—_\n235'
+
+=== Page 247 ===
+Q1 [global 362] stem: 'increase to:'
+   1. 15-25 fold rising to 50to 80 ml/min/100g of ms
+   2. 6-7ml/min/100g of ms
+   3. averages 1-2ml/min/100g of ms
+   4. it’s not estimated
+
+=== Page 248 ===
+Q1 [global 363] stem: '¢\nvoltage of heart\n-90\n+90\n+60\n-30\nThe formula for calculating ‘maximum heart rate’ is:'
+   1. 120 minus age
+   2. 180 minus age
+   3. 200 minus age
+   4. 220 minus age
+Q2 [global 364] stem: 'PONS\nWhat is the minimal heart rate to measure target heart rate before exercise?'
+   1. n 20-30
+   2. 63 or 60 output?
+   1. Volume of blood pumped by each ventricle per beat.
+   2. Volume of blood in the ventricle at the end of systole.
+   3. Volume of blood in the ventricle at the end of diastole.
+   4. Volume of blood pumped by each ventricle per minute
+
+=== Page 249 ===
+Q1 [global 365] stem: 'Cardiac output means:output?'
+   1. blood pumped from ventricle/min
+   2. blood pumped from ventricle/beat
+   3. blood still in ventricle during systolic
+   4. blood still in ventricle during diastolic
+Q2 [global 366] stem: 'Cardiac pacemaker:'
+   1. in AV node
+   2. create these rhythmical impulse
+Q3 [global 367] stem: 'Which is true about the pacemaker of the heart?\nit is the tissue that has more Rhythmic in the heart'
+
+=== Page 250 ===
+Q1 [global 368] stem: 'Which is true about SA node:'
+   1. type of myocardium with higher rhythm
+   2. type of myocardium which generate electrical impulse
+   3. consist of nerve cell
+   4. in AV nodee
+Q2 [global 369] stem: 'Which of the following initiate the electricity of the heart ?\nSA node\nAV node\nAV bundle\nPurkinje fi'
+
+=== Page 251 ===
+
+=== Page 252 ===
+Q1 [global 370] stem: 'Modifiable risk factors:\nsmoking, exposure to second-hand smoke, hypertension, hyperlipidemia, high '
+   1. Verapamil causes decreased contractility of the heart and vasodilation of the coronary arteries
+   2. Verapamil causes decreased contractility of the heart and vasoconstriction of the coronary ar- teries
+   3. Verapamil causes increased contractility of the heart and vasodilation of the coronary arteries
+   4. Verapamil causes increased contractility of the heart and vasoconstriction of the coronary arter- ies
+
+=== Page 253 ===
+Q1 [global 371] stem: 'In old patient can find'
+   1. stroke volume decrease
+   2. stroke volume increase
+   3. stroke volume decrease with increase cardiac out put
+Q2 [global 372] stem: 'S.A.Node :'
+   1. Consist of myocardium contractile tissue
+   2. It's type of myocytes with higher rhythm
+   3. type of myocytes which generate electrical impulse and control heart rate
+
+=== Page 254 ===
+Q1 [global 373] stem: 'Arterial blood pressure means'
+   1. rdifference between systole and diastole
+   2. lateral pressure exerted on arterial wall
+   3. max blood comes from ventricles at end of diastole
+   4. max blood comes from ventricles at beginning of systole
+Q2 [global 374] stem: 'Referral for medical evaluation is advised when resting oxygen saturation falls below:\n97%\n95%\n92%\n9'
+   1. Is downwards of the left side
+   2. ls downwards of the right side
+   3. 3rd degree of intercostals ribs in line of sternum
+   4. 5th degree of ribs
+
+=== Page 255 ===
+Q1 [global 375] stem: 'contractility of the heart muscle by age'
+   1. increase
+   2. decrease
+   3. lost
+   4. not changed
+Q2 [global 376] stem: 'Inner layer of the heart :'
+   1. Endometrium
+   2. Endocardium
+Q3 [global 377] stem: 'What is the notable sign of heart muscle?'
+   1. Thin
+   2. Soft
+   3. Hard
+   4. Thick
+Q4 [global 378] stem: '244'
+
+=== Page 256 ===
+Q1 [global 379] stem: 'following is not a contraindication to enter an outpatient program?'
+   1. Resting systolic blood pressure of 210 mmHg
+   2. Third-degree atrioventricular block
+   3. Resting ST displacement less than 1 mm.
+   4. Acute fever r Question 56
+Q2 [global 380] stem: '56-year-old patient with an ejection fraction of 38%. Blood pressure 110/80 mmHg and 69 /\nmin Heart '
+
+=== Page 257 ===
+Q1 [global 381] stem: 'sponsible for prevention?'
+   1. Mitral
+   2. Aortic
+   3. Tricuspid
+   4. Pulmonary cle is:
+   1. mitral or bicuspid
+   2. tricuspid
+   3. pulmonary
+   4. coronary artery bilitation. Which of the following is the most appropriate rehabilitation?
+   1. Running
+   2. Stair climbing
+   3. .Sit to stand activities
+   4. Manual
+Q2 [global 382] stem: 'Effect of pool therapy :'
+   1. increase tidal volume
+   2. increase vital capacity
+   3. decrease vital capacity
+Q3 [global 383] stem: '246'
+
+=== Page 258 ===
+Q1 [global 384] stem: 'admission. What is the suggested rehabilitation program phase?'
+   1. 1st
+   2. 2nd
+   3. 3rd
+   4. 4th
+Q2 [global 385] stem: 'Phase | cardiac rehabilitation aim : ?'
+   1. prevent bed rest complication begin with passive to active movement
+   2. increase ex endurance capacity
+   3. assist in progress functional ADL down period primarily to prevent:
+   1. exertional dyspnea
+   2. tachycardia
+   3. venous pooling
+   4. hypertension
+
+=== Page 259 ===
+Q1 [global 386] stem: 'main character at cardiac patient :\nbluish limbs\npain at the calf\nedema of limbs\nabdominal breathing'
+   1. Riding a stationary bike at approximately 5.5 mph
+   2. Descending a flight of stairs independently
+   3. lroning
+   4. Ambulate independently at 5-6 mph
+Q2 [global 387] stem: 'Which make rapid decrease in heart rate ?'
+   1. preganglionic fiber
+   2. postganglionic fiber
+   3. fiber near to heart
+
+=== Page 260 ===
+Q1 [global 388] stem: 'Which of the following is the most likely cause of cardiac arrest following an electric shock?'
+   1. Low heart rate
+   2. Low blood pressure
+   3. Ventricular fibrillation minute?
+   1. Atrial flutter
+   2. Atrial fibrillation
+   3. Ventricular flutter
+   4. Ventricular fibrillation is pale and cold. What is the most likely?
+   1. Angina
+   2. cardiogenic shock
+   3. myocardial infarction. vals that are longer than 0.2 seconds, and the heart rate is 82 beats per minute?
+   1. First-degree AV block
+   2. Second-degree AV block — type 1
+   3. Second-degree AV block — type 2
+   4. Third-degree AV block
+Q2 [global 389] stem: '249'
+
+=== Page 261 ===
+Q1 [global 390] stem: 'forced vital capacity. What is the most likely pulmonary dysfunction?\nChronic bronchitis\nEmphysema\nA'
+Q2 [global 391] stem: 'r Question 72\nof this change in normal pulmonary function?'
+   1. Chronic pulmonary disease
+   2. Restrictive lung dysfunction
+   3. Both of the above
+   4. None of the above creased diffusing capacity. What is the probable cause?
+   1. Restrictive lung dysfunction
+   2. Chronic obstructive pulmonary disease
+   3. Neither of the above
+   4. AandB
+Q3 [global 392] stem: '200'
+
+=== Page 262 ===
+Q1 [global 393] stem: 'function of the:'
+   1. rectus abdominis
+   2. anterior scalenus
+   3. internal intercostals
+   4. diaphragm chronic obstructive pulmonary disease?
+   1. Variable
+   2. Increase
+   3. Decrease
+   4. Unchanged pect to find:
+   1. the presence of hypercapnia
+   2. increased total lung capacity
+   3. increased vital capacity
+   4. abnormal ventilation/perfusion ratio
+Q2 [global 394] stem: '291'
+
+=== Page 263 ===
+Q1 [global 395] stem: 'and coughing. Which of the following is the most appropriate for improving health status?'
+   1. Cycling
+   2. Walking
+   3. Running
+   4. Swimming
+
+=== Page 264 ===
+Q1 [global 396] stem: 'Benefits from ex?'
+   1. Larger lung volume
+   2. Normal tidal volume
+   3. Larger vital capacity
+   4. Maximum minute ventilation minutes ago. Which of the following is an appropriate response to the patient’s question?
+   1. “It gives visual feedback on the lung performance”
+   2. “It helps you maintain current lung volumes”
+   3. “You need to ask the respiratory therapist this question”
+   4. Aand B are correct responses.
+Q2 [global 397] stem: 'Which of the following are indications for pulmonary suctioning?\nUnproductive coughs\nBreath sounds o'
+
+=== Page 265 ===
+Q1 [global 398] stem: 'therapy in an Intensive Care Unit patient?'
+   1. Clear chest X-ray
+   2. Absent chest pain
+   3. Absent fever for 12 hours
+   4. Breathing rate of less than 20/min tory reserve volume. What does this mean?
+   1. The volume of air remaining in the lungs after a full expiration is low.
+   2. The volume of air in a breath during normal breathing is low.
+   3. The volume of air forcefully expired after a forceful inspiration is low.
+   4. The amount of air expired after a resting expiration is low. foul smelling sputum?
+   1. Lung abscess
+   2. Pneumonia (bacterial pneumonia)
+
+=== Page 266 ===
+Q1 [global 399] stem: 'Which of the following is associated with foul - smelling sputum and finger clubbing ?'
+   1. Cancer.
+   2. Pneumonia.
+   3. Lung abscess
+   4. Respiratory failure is the most appropriate management?
+   1. Discharge
+   2. Aspiration
+   3. Chest tube
+   4. Antibiotics may differ:
+Q2 [global 400] stem: '-asymptomatic small rim pneumothorax: no treatment with follow-up radiology to confirm reso-\nlution\n'
+
+=== Page 267 ===
+Q1 [global 401] stem: 'most appropriate method to improve chest wall mobility?'
+   1. Purse lipped breathing
+   2. Lateral basal expansion
+   3. Deep breathing exercises
+   4. Posterior basal expansion reserve volume?
+   1. Air that remains at the end of normal respiration
+   2. Total amount of air in a lung after normal inspiration
+   3. Total amount of air in a lung after maximum inspiration
+   4. Total amount of air exhaled after normal resting expiration full inspiration. Which of the following is the therapist describing?
+   1. Apnea
+   2. Orthopnea
+   3. Eupnea
+   4. Apneusis
+Q2 [global 402] stem: '200'
+
+=== Page 268 ===
+Q1 [global 403] stem: 'the appropriate personnel that the patient is exhibiting which of the following patterns?'
+   1. Biot’s.
+   2. Cheyne-Stokes
+   3. Kussmaul’s
+   4. Paroxysmal nocturnal dyspnea
+Q2 [global 404] stem: 'Which of the following statements is not a common physiologic change of aging?'
+   1. Blood pressure taken at rest and during exercise increases
+   2. Maximal oxygen uptake decreases
+   3. Residual volume decreases
+   4. Bone mass decreases sinus node located in the heart?
+   1. Left atrium
+   2. Right atrium
+   3. Left ventricle
+   4. Right ventricle
+Q3 [global 405] stem: '20/'
+
+=== Page 269 ===
+
+=== Page 270 ===
+Q1 [global 406] stem: "@ @Garimi's:\npatient with angina pectoris, pain distribution"
+   1. apex of heart
+   2. chest only
+   3. chest with left shoulder and arm sult in:
+   1. A gradual increase in blood flow as local vascular beds dilate .
+   2. Increased body / muscle temperature which decreases blood viscosity and causing a more tion.
+   3. Increased speed(faster) of contraction and relaxation of warmed muscles.
+   4. Allows the heart rate to get to a workable rate for beginning exercise.
+Q2 [global 407] stem: 'Benefits of a cool down :'
+   1. bring your heart rate and blood pressure to its normal level
+   2. Prevent blood pooling in veins and reduce the chances of dizziness or fainting.
+   3. Keeps capillaries dilated to flush muscles with oxygenated blood
+Q3 [global 408] stem: ', OST Question 105\nThe therapist works in a cardiac rehabilitation setting. Which of the following t'
+   1. Concentric
+   2. Eccentric
+   3. Aerobic
+   4. lsometric
+Q4 [global 409] stem: '299'
+
+=== Page 271 ===
+Q1 [global 410] stem: '@ @raiumi:\nPhysical Therapist detect alarm signs for cardiac patient during training program through'
+   1. monitor H.R & B.P
+   2. Blood oxygen level
+   3. O2 level
+
+=== Page 272 ===
+Q1 [global 411] stem: '@ @Gmunmis:\nwhen detect target heart rate in unstable angina we do'
+   1. valsalva maneuver
+   2. isometric ex
+   3. isotonic ex
+   4. heavy arm ex fitness field test?
+   1. 10
+   2. 12
+   3. 14
+   4. 16 therapist not expect?
+Q2 [global 412] stem: 'Stenosis of the mitral valve\nOrthopnea\nDecreased preload of the right heart\nPulmonary edema\nPwON>'
+
+=== Page 273 ===
+Q1 [global 413] stem: 'duration, in days, for post - operative immobilization?'
+   1. 1-2
+   2. 3-4.
+   3. 5-6
+   4. 7-8 of the following is the most correct information to convey to this individual?
+   1. Exercise at 50-85% of maximal volume of oxygen utilization (VO2)
+   2. Exercise with heart rate between 111 and 153 beats/minute.
+   3. Exercise at approximately 170 beats/minute.
+   4. 1 and 2 are correct of the heart? the first sound during auscultation of the heart?
+Q2 [global 414] stem: 'The first sound is of the closure of the aortic and pulmonic valves.\nThe first sound is of the closu'
+
+=== Page 274 ===
+Q1 [global 415] stem: 'Lung doesn’t collapse because?'
+   1. dead space and compliance of lung
+   2. inspiratory reserve volume
+   3. expiratory reserve volume
+Q2 [global 416] stem: '263'
+
+=== Page 275 ===
+Q1 [global 417] stem: 'based this comment?'
+   1. Depression of the ribs
+   2. Widening of the intercostal spaces
+   3. Narrowing of the intercostal spaces
+   4. Decreasing the anterior diameter of the chest
+Q2 [global 418] stem: 'Barrel chest deformity:'
+   1. Flattened epigastric angle
+   2. decrease intercostal space
+   3. Take position of inspiration
+   4. Take position of expiration ma:
+Q3 [global 419] stem: '1- Increased compliance of the lungs leads to the accumulation of air pockets inside the tho-\nracic '
+
+=== Page 276 ===
+Q1 [global 420] stem: ''
+   1. depressed ribs angel
+   2. increase transverse diameter
+   3. decrease ant post diameter
+   4. increase intercostal space
+Q2 [global 421] stem: 'All of the following conditions are obstructive lung disorder except:'
+   1. chronic bronchitis
+   2. pneumonia
+   3. emphysema
+   4. cystic fibrosis of the session?
+Q3 [global 422] stem: 'Better results\nSecretions removal\nTeaching technique\nPrevention of disease spreading to other Areas\n'
+
+=== Page 277 ===
+Q1 [global 423] stem: 'In pulmonary edema, there is :\nChest pain and cough that produces frothy sputum that may have blood '
+   1. Dry cough
+   2. Cyanosis
+   3. Extended clear mucus secretions
+   4. Edema in lower limbs
+
+=== Page 278 ===
+Q1 [global 424] stem: ''
+   1. Surgical emphysema
+   2. Bronchitis
+   3. Bronchiactasis bronchitis is: dry cough wheezing sound peripheral cyanosis cough with expectoration in bronchitis there is?
+Q2 [global 425] stem: 'PwON>\ndry cough\ncyanosis\nextended clear mucus secretions\nedema in lower limbs'
+Q3 [global 426] stem: 'early stage of bronchitis there is\ndry cough\n. bronchi spasm + expectoration\nhymopsis\n. peripheral c'
+
+=== Page 279 ===
+Q1 [global 427] stem: 'Which of the following is indicated by this clinical feature?'
+Q2 [global 428] stem: 'Pneumonia\nBronchiectasis\nBronchial asthma\nChronic obstructive pulmonary disease\nsecretions, and coug'
+Q3 [global 429] stem: 'Asthma\n. Pneumonia\nEmphysema\n. Chronic bronchitis\n(Expectoration or sputum, which can be clear, whit'
+Q4 [global 430] stem: 'nocturnal dysnea\n. frothy sputum'
+   3. bronchospasm
+   4. productive cough
+Q5 [global 431] stem: '268'
+
+=== Page 280 ===
+Q1 [global 432] stem: 'For either cute or chronic bronchitis :symptoms include :\n-Cough.\n-Production of mucus (sputum), whi'
+   1. nocturnal dyspnea
+   2. frothy sputum
+   3. broncospasm and productive cough
+Q2 [global 433] stem: 'Which of the following is defined as Pulmonary ventilation?'
+   1. Gas exchange between arterial blood and tissues
+   2. Gas exchange between alveolar air and venous blood .
+   3. Gas exchange between atmospheric air and air present inside the lungs
+   4. process by which 02 is used by the living cells for the oxidation of the organic substances . pulmonary ventilation means :
+   1. gas exchange between alveoli and veinous blood
+   2. exchange between atmospheric air and lung air
+   3. utilizing O2 by cells which essential for all vital process
+
+=== Page 281 ===
+Q1 [global 434] stem: 'perform forced expiration?:'
+   1. Any
+   2. Open
+   3. Close
+   4. Alternate
+Q2 [global 435] stem: '@ @Parukk:\nwhen evaluation inspiration capacity using spirometer :'
+   1. max inspiration after normal expiration
+   2. max inspiration after max expiration
+   3. normal inspiration after normal expiration pt 32 years old with sever spinal deformity and difficulty in respiration is due to:
+   1. ms weakness
+   2. usage of spinal orthosis
+   3. decrease lung capacity
+Q3 [global 436] stem: 'Pt has 32 years with spinal deformity & dyspnea due to :'
+   1. Muscle weakness
+   2. Spinal orthosis
+   3. Decrease lung volume
+
+=== Page 282 ===
+Q1 [global 437] stem: 'tients?'
+   1. Anxiety
+   2. Spinal orthotic device
+   3. Weak respiratory muscles
+   4. Reduced lung capacity due to spinal deformity
+Q2 [global 438] stem: 'Which of the following is most likely to develop during exercise?'
+   1. Larger lung volume
+   2. Larger diffusion capacities
+   3. Tidal volume within normal
+   4. Maximum minute ventilation
+Q3 [global 439] stem: 'DLCO (“Diffusing Capacity of the Lungs Test” ):\nPulmonary diffusing capacity for oxygen increases pr'
+   1. Jaw lift
+   2. Chin lift
+   3. Jaw thrust
+   4. Modified jaw thrust
+
+=== Page 283 ===
+Q1 [global 440] stem: 'Patient has lung cancer and make right lung pneumoectomy this leading to except:'
+   1. decrease vital capacity
+   2. decrease residual volume
+   3. increase tidal volume
+   4. rt shift of trachea
+Q2 [global 441] stem: 'The amount of air remaining in the lung after quiet expiration:\nfunctional residual capacity\ntoiecn '
+   1. peripheral vascular disease
+   2. nerve lesion
+   3. calf muscle spasm. patient coming to you suffering from pain at calves due to walking 200 feets this patient has?
+   1. calf strain
+   2. arterial insufficiency
+   3. thrombosis
+   4. varicose vein
+Q3 [global 442] stem: '202'
+
+=== Page 284 ===
+Q1 [global 443] stem: 'discomfort associated with pregnancy-induced varicose veins?\nWeight reduction\nStretching exercises\nM'
+   1. it refers to temporary symptoms due to decreased blood flow to brain.
+   2. symptoms include headache, dizziness, nausea and vertigo.
+   3. cervical manipulation is contraindication.
+   4. cervical mobilization especially rotation, extension or longitudinal distraction, and trac- tion considered as the effective treatment of VBI. ing leg pain. Which of the following goals of treatment should be planned?
+Q2 [global 444] stem: 'Improving venous return\nEstablishing collateral circulation\nIncreasing strength of the calf muscles\n'
+
+=== Page 285 ===
+Q1 [global 445] stem: 'smoking. Options include:\n-Medications to dilate blood vessels, improve blood flow or dissolve blood'
+   1. open collaterals
+   2. increase venous return
+   3. decrease leg spasm to decrease pain burger’s disease is a disease of unknown cause, which is precipitated by:
+   1. emotional stress
+   2. hereditary factor
+   3. obesity
+   4. cigarette smoking
+
+=== Page 286 ===
+Q1 [global 446] stem: 'is to:'
+   1. decrease ms spasm
+   2. strength hamstring
+   3. increase venous return
+   4. open collaterals
+Q2 [global 447] stem: 'In Raynaud’s disease it is?'
+   1. vascular insufficiency disease
+   2. intermittent claudication
+   3. thrombosis in lower limb
+   4. varicose veins
+
+=== Page 287 ===
+Q1 [global 448] stem: '@ @Wanimls:\nArteriosclerosis is:'
+   1. Acondition in which an artery wall thickens
+   2. Acondition in which a vein wall thickens
+   3. Hardening (and loss of elasticity) of medium or large arteries
+   4. Hardening (and loss of elasticity) of medium or large veins layer of the arteries?
+   1. Aneurysm
+   2. Angina pectoris
+   3. Atherosclerosis
+   4. Deep arterial thrombosis
+
+=== Page 288 ===
+Q1 [global 449] stem: ''
+   1. Atherothrombotic, atherosclerosis
+   2. Atherothrombotic, hypertension
+   3. Hemorrhage, atherosclerosis
+   4. Hemorrhage, hypertension
+Q2 [global 450] stem: 'The anatomical snuffbox contains a portion of this structure:'
+   1. sdeep radial nerve
+   2. radial artery
+   3. basilic vein
+   4. lunate bone.
+
+=== Page 289 ===
+Q1 [global 451] stem: 'What is the ideal position that the therapist should put the patient in to drain this secretion?'
+   1. Prone
+   2. Supine
+   3. Semi-lying
+   4. Side-lying on the right side
+
+=== Page 290 ===
+Q1 [global 452] stem: '@ @fearumis:\n) A 5-year-old child with cystic fibrosis presents for postural drainage and\npercussion'
+   1. “Take a slow deep breath through pursed lips and exhale slowly through your nose only”
+   2. “Take small breaths through your nose only and exhale quickly through pursed lips”
+   3. “Breath in through your nose and exhale slowly through pursed lips”
+
+=== Page 291 ===
+Q1 [global 453] stem: ''
+   1. heart
+   2. lung
+   3. vessels of lower limb
+Q2 [global 454] stem: 'Basic Airway Management (Manual / Non equipment) all the following EXEPT:'
+   1. head tilt
+   2. chin lift
+   3. jaw thrust
+   4. laryngeal mask airway (LMA)
+
+=== Page 292 ===
+Q1 [global 455] stem: 'Which statement incorrect about prevention of D.V.T:'
+   1. use elastic stocking
+   2. abdominal binder
+   3. put patient with head elevated
+Q2 [global 456] stem: 'PWhich of the following is NOT considered a strong risk factor for DVT?'
+   1. Bed rest lasting longer than 3 days.
+   2. Hip/knee replacement.
+   3. MI within the last 3 months.
+   4. Major Trauma/lower limb fracture.
+
+=== Page 293 ===
+Q1 [global 457] stem: 'different between two techniques??'
+   1. isotonic contraction
+   2. verbal comments
+   3. direction of movement
+   4. none of the above tival petechiae. Most likely diagnosis is:
+Q2 [global 458] stem: 'Pulmonary embolism'
+   2. Sepsis syndrome
+   3. Fat embolism
+   4. Haemothorax
+Q3 [global 459] stem: '—\nSymptoms:\n-Sharp, stabbing chest pain that worsens when trying to breath in.\n-Shortness of breath.'
+
+=== Page 294 ===
+Q1 [global 460] stem: 'toms. The MOST LIKELY explanation for the above is:'
+   1. angina.
+   2. Pneumothorax.
+   3. pulmonary emboli.
+   4. mucous plugging of an airway cover the defect, the patient could develop:
+   1. pulmonary embolism
+   2. pulmonary edema
+   3. pneumothorax
+   4. aspiration pneumonia
+Q2 [global 461] stem: 'Which of the following immediate actions should be taken?'
+   1. Just apply a gentle passive range of motion in the bed
+   2. Inform the physician before intervening with the patient
+   3. Try to walk the patient exercises with partial to non - weight bearing
+   4. Ask the patient to perform some active range of motion in the bed following will be the least to prove the condition :
+   1. MRI
+   2. CT
+   3. plain X-ray
+Q3 [global 462] stem: '. mylogra 283'
+
+=== Page 295 ===
+Q1 [global 463] stem: 'pseudo claudication is due to compression of:'
+   1. Femoral artery
+   2. Femoral nerve.
+   3. Cauda Equina.
+   4. Popliteal artery characteristic of:
+   1. chronic venous insufficiency
+   2. acute venous insufficiency
+   3. acute arterial insufficiency
+   4. vasomotor disorders
+
+=== Page 296 ===
+Q1 [global 464] stem: '41%. How should the therapist proceed?'
+   1. Continue with the evaluation and treatment.
+   2. Do not perform this evaluation due to the hematocrit level
+   3. Inform nursing of this lab report
+   4. Check nursing notes to determine the last time the patient received a beta-blocker
+Q2 [global 465] stem: ', ORE Question 189\nHow should you open the airway of an unconscious casualty?:'
+   1. head tilt and chin lift.
+   2. jaw thrust.
+   3. head tilt and jaw thrust.
+   4. lift the chin
+Q3 [global 466] stem: '285'
+
+=== Page 297 ===
+
+=== Page 298 ===
+
+=== Page 299 ===
+Q1 [global 467] stem: 'the following is the most likely cause?\n1- Sacral plexus injury\n2- Cranial nerve injury\n3- Lumbar pl'
+
+=== Page 300 ===
+Q1 [global 468] stem: 'In erb’s palsy the most affected muscle:\n1- elbow flexors and supinators.\n2- shoulder flexor and abd'
+
+=== Page 301 ===
+Q1 [global 469] stem: 'physical evaluation?\n1- Spasms of the external shoulder rotators\n2- Bad pattern of motion, scapular '
+
+=== Page 302 ===
+Q1 [global 470] stem: 'To assist head control in infant what position first?\n1- head control\n2- righting reaction\n3- crawli'
+
+=== Page 303 ===
+Q1 [global 471] stem: 'At what weeks of development Pincer grasp is seen?\n1- 4 weeks\n2- 6 weeks\n3- 16 weeks\n4- 36 weeks\nHea'
+
+=== Page 304 ===
+Q1 [global 472] stem: 'At any age the child can jumb in one leg holding on\n1- 18 month\n2- 24 month\n3- 30 month'
+Q2 [global 473] stem: 'What is the mean age for a baby to develop the ability to hop on 1 foot while holding on,\naccording '
+Q3 [global 474] stem: 'All the following is true about spasticity except:\n1- Usually occurs cerebral palsy infant\n2- Occur '
+
+=== Page 305 ===
+Q1 [global 475] stem: 'An infant who can recognize tone of voice, sit independently and pulls to stand through\nkneeling is '
+
+=== Page 306 ===
+Q1 [global 476] stem: 'Deficiency of this make deformity in newborn?\n1- Vitamin A\n2- Vitamin D\n3- Vitamin B\n4- Vitamin C\nY '
+Q2 [global 477] stem: 'What the most primitive reflex of human body?\n1- Symmetrical tonic neck reflex\n2- sucking reflex\n3- '
+
+=== Page 307 ===
+Q1 [global 478] stem: 'When placed supine, the baby adopts a position with abducted shoulders, flexed elbows,\nadducted exte'
+Q2 [global 479] stem: 'An infant is being examined by a physical therapist. The therapist is resisting movement\nof the righ'
+Q3 [global 480] stem: 'Hand during the evaluation of an infant, the therapist observes that with passive flexion of\nthe hea'
+Q4 [global 481] stem: 'What is the cause of hip dysplasia?\n1- mother malnutrition\n2- idiopathic'
+img[0] KEPT page_307_img_0.jpeg
+
+=== Page 308 ===
+Q1 [global 482] stem: 'ment. Which of the following may the therapist have been assessing?\n1- Landau response\n2- Symmetric '
+Q2 [global 483] stem: 'What is not true about spina bifida?\n1- inadequate of folic acid intake\n2- diagnostic of fatal by ul'
+
+=== Page 309 ===
+Q1 [global 484] stem: 'Following the reduction of developmental dysplasia of the hip in an infant, the physical\ntherapist s'
+Q2 [global 485] stem: 'A 4-year-old child with spasticity treated in the Physical Therapy Pediatric Clinic, during\nspastici'
+Q3 [global 486] stem: 'Which of the following scales is used in the assessment of pediatric spasticity?\n1- Borg\n2- Berg bal'
+
+=== Page 310 ===
+Q1 [global 487] stem: 'The physical therapist is reading the physician’s interpretation of an x-ray that was taken\nof the l'
+Q2 [global 488] stem: 'A therapist is scheduled to treat a patient with cerebral palsy who has been classified as a\nspastic'
+
+=== Page 311 ===
+Q1 [global 489] stem: 'Which of the following is inappropriate for a physical therapist to include in the treatment\nplan of'
+Q2 [global 490] stem: 'Which of the following sources of stimulation is least effective in obtaining functional goals\nwhen '
+Q3 [global 491] stem: 'Which of the following is the most important goal in treating pediatric patients with postural\nreact'
+
+=== Page 312 ===
+Q1 [global 492] stem: 'Which of the following statements is true in comparing infants with Down’s syndrome to\ninfants with '
+
+=== Page 313 ===
+Q1 [global 493] stem: 'A child presents to physical therapy with a diagnosis of right Sever’s disease. What joint\nshould be'
+Q2 [global 494] stem: 'A patient comes to the therapist because she has noted a pronounced tuft of hair on the\ncenter of he'
+Q3 [global 495] stem: 'A physical therapist in the rehabilitation unit is ordered to evaluate and treat a 3-year-old\ngirl w'
+
+=== Page 314 ===
+Q1 [global 496] stem: 'spina bifida does the patient most likely have?\n1- Meningocele\n2- Meningomyelocele\n3- Spina bifida o'
+
+=== Page 315 ===
+Q1 [global 497] stem: 'Spina bifida is characterized by:\n1- incomplete closing pia mater\n2- hyperextension of knee joint\n3-'
+
+=== Page 316 ===
+Q1 [global 498] stem: 'dislocation. In what position should the hip be placed while in the splint?\n1- Flexion and adduction'
+
+=== Page 317 ===
+Q1 [global 499] stem: 'Which of the following is used to describe the term “spastic diplegia”?\n1- Paralysis of all limbs\n2-'
+
+=== Page 318 ===
+Q1 [global 500] stem: 'ents with which of the following signs?\n1- Atrial septal defect, pulmonary valve stenosis, aorta abn'
+
+=== Page 319 ===
+Q1 [global 501] stem: 'Child came to u with Erb’s palsy c5, c6 diagnosed by erb engram where is the affection:\n1- weakness '
+
+=== Page 320 ===
+
+=== Page 321 ===
+
+=== Page 322 ===
+Q1 [global 502] stem: 'ment?\n1- Hydrostatic weighting\n2- Electrical impedance\n3- Anthropometric measurement\n4- None of the '
+
+=== Page 323 ===
+Q1 [global 503] stem: 'and walking?\n1- Decrease insulin secretion\n2- Increase patient tolerance\n3- Increase metabolism of i'
+
+=== Page 324 ===
+Q1 [global 504] stem: 'is not a sign of this autoimmune disease?\n1- Increased photosensitivity\n2- Oral ulcers\n3- Butterfly '
+
+=== Page 325 ===
+Q1 [global 505] stem: 'of the following is the most appropriate management?\n1- Vitamins\n2- Hysterectomy\n3- Hormone replacem'
+
+=== Page 326 ===
+Q1 [global 506] stem: 'tasis recti?\n1-1 Cm\n2-2 Cm\n3-3 Cm\n4-4 Cm\nVisceral diseases of the abdomen and pelvis are likely to r'
+
+=== Page 327 ===
+Q1 [global 507] stem: 'During exercise pregnancy percentage of blood flow affect fetus growth:\n1- 20\n2- 40\n3- 50\n4- 60'
+Q2 [global 508] stem: 'What is not correct about bone?\n1- contain 90% of inorganic tissues\n2- compose of 2 types sponge, co'
+Q3 [global 509] stem: 'Obesity is a risk factor for:\n1- Osteoporosis\n2- Osteoarthritis\n3- Both\n4- Neither\nPostnatal diastas'
+
+=== Page 328 ===
+Q1 [global 510] stem: 'NOTE:\nif there is “fingers”, we choose it.\n« Question 21\nPostnatal diastasis recto? The most effecti'
+
+=== Page 329 ===
+Q1 [global 511] stem: 'nal hip rotation?\n1- Pain\n2- Cosmesis\n3- Better cadence\n4- Improved support\nlonged sitting in pregna'
+
+=== Page 330 ===
+Q1 [global 512] stem: 'Which of the following fibers are responsible for lifting the pelvic floor?\n1- Circular\n2- Anterior\n'
+
+=== Page 331 ===
+Q1 [global 513] stem: 'A 23-year-old woman presented with incontinence. She developed the condition 3 months\nago after chil'
+Q2 [global 514] stem: 'In developing the plan of care for a 28-year-old pregnant woman which of the following\nmuscles shoul'
+Q3 [global 515] stem: 'Which of the following is the most common cause of orthostatic hypotension during preg-\nnancy?\n1- An'
+
+=== Page 332 ===
+Q1 [global 516] stem: 'Contraindication to exercise in pregnancy:\n1- Diabetes in pregnancy\n2- Pain\n3- Musculoskeletal disco'
+Q2 [global 517] stem: 'Postnatal women complain of some urine leakage during cough we do:\n1- Biofeedback\n2- Strengthening\n3'
+Q3 [global 518] stem: 'What is important regarding women health?\n1- Stroke\n2- hair loss\n3- heart disease'
+Q4 [global 519] stem: 'Pregnant woman has a gait pattern in hip external rotation as:\n1- comfortable for her\n2- Increase ca'
+
+=== Page 333 ===
+Q1 [global 520] stem: 'pattern?\n1-12\n2- 24\n3- 36\n4- 48\nWhich of the following statements contain incorrect information?\n1- '
+
+=== Page 334 ===
+Q1 [global 521] stem: 'Which of the following exercises is most appropriate to minimize the separation?\n1- Sit-ups while us'
+
+=== Page 335 ===
+
+=== Page 336 ===
+
+=== Page 337 ===
+Q1 [global 522] stem: 'Burn affecting epidermis and superficial part of dermis:\n1- superficial partial thickness\n2- Deep pa'
+
+=== Page 338 ===
+Q1 [global 523] stem: 'A 35 years old patient with third degree burns affecting the shoulder and axilla, is referred to\nreh'
+
+=== Page 339 ===
+Q1 [global 524] stem: 'What is the major concern of the physical therapist treating a patient with an acute deep par-\ntial '
+
+=== Page 340 ===
+
+=== Page 341 ===
+  [supplemented OCR from img indices: 0]
+Q1 [global 525] stem: ''
+   5. A _ Therapeutic Exercises
+
+=== Page 342 ===
+Q1 [global 526] stem: 'Patient walking on slippery surface we teach him to do:\n1- COG keeping close to the body\n2- Wide bas'
+
+=== Page 343 ===
+Q1 [global 527] stem: 'All true of the following is true about passive movement except:\n1- moving parts should be grasped g'
+
+=== Page 344 ===
+Q1 [global 528] stem: 'Joint play ROM which occurs not named with:\n1- necessary to completion of joints ROM.\n2- Passively o'
+Q2 [global 529] stem: 'During underwater exercises which will be difficult\n1- moving the limb horizontally.\n2- moving the l'
+
+=== Page 345 ===
+Q1 [global 530] stem: 'A 20-year-old athlete man sustained an injury to his quadriceps during a jump, Which of the\nfollowin'
+Q2 [global 531] stem: 'Which of the following types of stretching is associated with repeated\nmovements and momentum to gai'
+Q3 [global 532] stem: 'If muscles co contract in equal force. Co-contraction of the biceps brachii and the triceps\nwill res'
+
+=== Page 346 ===
+Q1 [global 533] stem: 'What is the best way to first exercise the postural (or extensor) musculature when it is ex-\ntremely'
+Q2 [global 534] stem: 'A 65 - year - old man with Congestive Heart Failure is referred to the Physical Therapy De-\npartment'
+
+=== Page 347 ===
+Q1 [global 535] stem: 'A 28-year-old man comes to the clinic with weakness in the left elbow muscles. The phys-\nical therap'
+Q2 [global 536] stem: 'A 37-year-old presented woman with vaginal prolapse, which developed 6\nmonths ago following childbir'
+
+=== Page 348 ===
+Q1 [global 537] stem: 'A67 y female has acute sever RH.ARTHRITIS Physiotherapy in future do strengthening ex\nwhich one is b'
+Q2 [global 538] stem: 'A 65-year-old patient who suffered a stroke has been referred to rehabilitation with a re-\nquest to '
+
+=== Page 349 ===
+Q1 [global 539] stem: 'A 56-year-old man presents to the Physical Therapy clinic after removing a plaster cast,\nwhich is co'
+Q2 [global 540] stem: 'Which of the following is most effective in mobility in patients with asthma?\n1- Hypnotics\n2- Beta a'
+Q3 [global 541] stem: 'Which of the following training exercises is defined as overall lengthening of the muscle,\nas it dev'
+
+=== Page 350 ===
+Q1 [global 542] stem: 'Type of contraction that make shortening of muscle length:\n1- eccentric\n2- isometric\n3- concentric\n4'
+Q2 [global 543] stem: 'If the proximal bone of the joint is fixed and the distal part of the limb moves in sequence :\n1- AC'
+Q3 [global 544] stem: 'Which of the following is most commonly associated with a systematic\nexercise plan, planned performa'
+
+=== Page 351 ===
+Q1 [global 545] stem: 'Which of the following is the most appropriate precaution during close kinematic chain\ntraining?\n1- '
+Q2 [global 546] stem: 'Which of the following is the most appropriate description of the therapeutic exercises for\ntiming, '
+Q3 [global 547] stem: '21-year-old female patient presents with neck pain and stiffness that has gradually wors-\nened over '
+
+=== Page 352 ===
+Q1 [global 548] stem: 'Regarding closed chain exercise, what of the following?\n1- No resistance to distal part.\n2- avoid st'
+Q2 [global 549] stem: 'Generally the ROM not depends on:\n1- bony structure.\n2- elasticity of muscle , ligament and tendon.\n'
+Q3 [global 550] stem: 'During weight bearing, a soft tissue contracture resulting in supination of the forefoot will\nbe com'
+Q4 [global 551] stem: 'After strengthening exercises for elderly, what should be done to prevent OA in elderly?\n1- Stretchi'
+
+=== Page 353 ===
+
+=== Page 354 ===
+
+=== Page 355 ===
+  [supplemented OCR from img indices: 0]
+
+=== Page 356 ===
+Q1 [global 552] stem: 'Sudden after using E.S in back pain there’s irritable sensation you must:\n1- decrease pulse duration'
+
+=== Page 357 ===
+Q1 [global 553] stem: 'Applied electrical stimulation to area for long lasting period cause:\n1-skin irritation\n2-weakness o'
+
+=== Page 358 ===
+Q1 [global 554] stem: 'toms, your response:\n1- switch off the machine\n2- increase wave length\n3- decrease frequency\n4- decr'
+Q2 [global 555] stem: 'Type of laser used in PT ttt :\n1- High\n2- Soft\n3- Mid\n347'
+
+=== Page 359 ===
+Q1 [global 556] stem: 'Which of the following is the smallest current that produces a muscle contraction?\n1- Rheobase\n2- Ch'
+Q2 [global 557] stem: 'Electrical stimulation duration to produce smooth muscle contraction?'
+Q3 [global 558] stem: '- 1\n2-2\n3-3\n4-4'
+Q4 [global 559] stem: 'Pt treat by phototherapy what this modality?\n1- low laser\n2- fluid therapy\n3- ultrasound'
+
+=== Page 360 ===
+Q1 [global 560] stem: 'For strengthening the muscle we do electrical stimulation for:\n1- 0 pulse\n2- 5 pulse\n3-16 pulse\n4- 1'
+
+=== Page 361 ===
+Q1 [global 561] stem: 'An elderly cancer patient presents with chronic osteoarthritis in both knees, She has re-\nceived fou'
+
+=== Page 362 ===
+Q1 [global 562] stem: 'Which modality has greater effect in decrease pain in knee joint in fatty patient :\n1- ultra sonic w'
+Q2 [global 563] stem: 'Best treatment of supraspinatus tendinitis is:\n1- infrared\n2- shortwave\n3- ultrasound with deep fric'
+Q3 [global 564] stem: 'A patient with supraspinatus tendonitis is undergoing ultrasound therapy, When the shoul-\nder joint '
+Q4 [global 565] stem: 'When you treat knee with elevated layer of fat you can use:\n1-IR\n2-U.S\n3- S.W\n4- TENS\n351'
+
+=== Page 363 ===
+  [supplemented OCR from img indices: 0]
+Q1 [global 566] stem: 'Which of the following tissues absorbs the least amount of an ultrasound beam at 1 MHz?\n1- Bone\n2- S'
+Q2 [global 567] stem: 'U.S can be mostly absorbed by skeletal muscle as it mostly contains:\n1- adipose tissue\n2- Connective'
+Q3 [global 568] stem: 'U.S can be mostly absorbed by skeletal muscle as it mostly contain:\n1- adipose tissue\n2- connective '
+img[0] KEPT page_363_img_0.png
+
+=== Page 364 ===
+Q1 [global 569] stem: 'One of the common features of ultrasound is that it produces the greatest rise in tempera-\nture in t'
+Q2 [global 570] stem: 'Which of the following is the most appropriate characteristic of a beam of therapeutic ultra-\nsonic '
+Q3 [global 571] stem: 'Which of the following results from changes to quartz in an ultraviolet apparatus?\n1- Arsenium\n2- Th'
+
+=== Page 365 ===
+Q1 [global 572] stem: 'Microwaves are strongly absorbed by:\n1- Water\n2- Fat\n3- Protein\n4- Muscle tissue'
+Q2 [global 573] stem: 'Modality can increase the temperature of fat?\n1- ultraviolet\n2- ultrasonic\n3- S.W\n4-FES'
+Q3 [global 574] stem: 'A 63-year-old woman presents to physical therapy with a diagnosis of herpes zoster. The\nphysician in'
+
+=== Page 366 ===
+Q1 [global 575] stem: 'Which part of ultrasound produce ultrasonic waves?\n1- Head of ultrasound\n2- Transducer\nT.E.N.S frequ'
+
+=== Page 367 ===
+Q1 [global 576] stem: 'A 29-year-old woman comes to the clinic after 1 month of right foot tendon transfer, The\nphysical th'
+Q2 [global 577] stem: 'When using ultrasound in treating chronic bursitis of hip, the most benefit might occur if\nthe ultra'
+Q3 [global 578] stem: 'Which of the following is the most appropriate maximum dosage, in Wcm-2, of Ultrasound\ntherapy in ch'
+
+=== Page 368 ===
+Q1 [global 579] stem: '33 - year - old patient comes to the Physical Therapy Clinic with chronic lateral elbow pain.\nThe ph'
+Q2 [global 580] stem: 'A patient comes with severe low back pain. After examination, the therapist plans to apply\nTranscuta'
+Q3 [global 581] stem: 'Which of the following theories support the use of a transcutaneous electrical nerve stimu-\nlation ('
+
+=== Page 369 ===
+Q1 [global 582] stem: 'TENS stimulation is :\n1- Presynaptic inhibition\n2- Presynaptic excitation\n3- Post synaptic inhibitio'
+Q2 [global 583] stem: 'When treating chronic pain which type of TENS used:\n1- brief\n2- conventional\n3- burst\n4- acupuncture'
+Q3 [global 584] stem: 'Patient has chronic brachialgia which is the best TENS use:\n1- conventional\n2- low frequency\n3- burs'
+
+=== Page 370 ===
+Q1 [global 585] stem: 'Burst tens stimulate:\n1- A delta fiber\n2- A beta fiber\n3- both of them'
+Q2 [global 586] stem: 'Patient with elbow pain for 5 months and just stopped playing tennis, which type of TENS\nwould you u'
+Q3 [global 587] stem: 'What is the best modality to use prior to stretching to prepare the muscle?\n1- hot pack\n2- cold aapp'
+
+=== Page 371 ===
+Q1 [global 588] stem: 'A 19-year-old man presented to the Physical Therapy Department with severe pain (8 out of\n10 on the '
+Q2 [global 589] stem: 'A 75-year-old patient with severe osteoarthritis has been admitted to a nursing home. Which\nof the f'
+Q3 [global 590] stem: 'What is the best modality to use after muscle soreness?\n1- Ice aplication\n2- hot pack'
+
+=== Page 372 ===
+Q1 [global 591] stem: 'the preparation of stretching?\n1- Ice massage\n2- Application of local heat\n3- High - intensity exerc'
+
+=== Page 373 ===
+Q1 [global 592] stem: 'Baby with flaccid klumps’ palsy need stimulation by:\n1- interrupted galvanic stimulation\n2- reciproc'
+
+=== Page 374 ===
+Q1 [global 593] stem: 'wound healing?\n1- Biphasic pulsed current\n2- Direct current\n3- Interferential current\n4- Transcutane'
+
+=== Page 375 ===
+Q1 [global 594] stem: 'The tissue of body that consider the best conductor to the electric:\n1- nerve\n2- fat\n3- muscles\n4- b'
+Q2 [global 595] stem: 'All of the following are physiological effect of electrical stimulation except:\n1- Vasoconstriction '
+Q3 [global 596] stem: 'The rate of electrical nerve stimulation through the skin:\n1- 10-70 cycle/second or Hz\n2- 35-120 cyc'
+
+=== Page 376 ===
+Q1 [global 597] stem: 'Electric stimulation which is not true:\n1- Vasodilatation\n2- Increase metabolic rate\n3- Decrease mus'
+Q2 [global 598] stem: 'Heating with (E.S) which is not correct?\n1- V.D\n2- Decrease metabolic-rate\n3- Decrease muscle spasm'
+Q3 [global 599] stem: 'Electrical nerve stimulation frequency is:\n1- 23-120\n2- 50-150\n3- 10-70'
+Q4 [global 600] stem: 'A 58-year-old patient comes to the Physical Therapy Clinic with lower back pain and hyper-\ntension. '
+
+=== Page 377 ===
+Q1 [global 601] stem: 'Which of the following is the most beneficial effect of Russian current?\n1- Better pain - relieving\n'
+Q2 [global 602] stem: 'Which of the following is an example of monophasic current?\n1- Faradic\n2- Russian\n3- Diadynamic\n4- |'
+Q3 [global 603] stem: 'SWD transfers energy by:\n1- convection\n2- conversion\n3- conduction\n4- radiofrequency'
+
+=== Page 378 ===
+Q1 [global 604] stem: 'for this condition?\n1- Faradic current\n2- Interrupted direct current\n3- Electrical muscle stimulatio'
+
+=== Page 379 ===
+Q1 [global 605] stem: 'Tennis elbow player has pain in elbow joint 5 month ago and there is production of pro-in-\nflammator'
+Q2 [global 606] stem: 'A 58-year-old patient with lower back pain treated by TENS to reduce pain,after the third\nsession th'
+
+=== Page 380 ===
+Q1 [global 607] stem: 'U.S has these frequencies:\n1-1 or 3 MHZ\n2- 1 0r 5 MHZ\n3-1 0r5 HZ'
+Q2 [global 608] stem: 'Maximum ultrasound frequancy:\n1-3 MHz\n2-5 MHz\n3- 2 MHz'
+Q3 [global 609] stem: 'A patient is being treated with iontophoresis, driving dexamethasone, for inflammation\naround the la'
+
+=== Page 381 ===
+Q1 [global 610] stem: 'Patient has fracture upper tibia and fixated by plate and screw. Complain from complication\nof knee '
+Q2 [global 611] stem: 'An elderly obese woman is diagnosed with a fracture in the neck of the right femur. She is\nreferred '
+Q3 [global 612] stem: 'Patient with a contaminated surgical wound on lumbar region, what would you use to clean\nthe wound:\n'
+
+=== Page 382 ===
+Q1 [global 613] stem: 'area?\n1- Shock\n2- Burns\n3- Scalds\n4- Gangrene\nthere is dis-continues chronoxia227/m. so we could use'
+
+=== Page 383 ===
+Q1 [global 614] stem: 'Which of these modalities give lowest deep heating?\n1- US\n2- SWD\n3- UV\n4-IR'
+Q2 [global 615] stem: 'To treat patient with deep heat, which is not form of deep heat:\n1- SWD\n2- MWD\n3- IR ( infra-red)\n4-'
+Q3 [global 616] stem: 'Which of the following physiological effects is considered as an indirect effect of heating?\n1- Musc'
+Q4 [global 617] stem: 'When use iontophoresis; it is a type of:\n1- low frequency TENS\n2- HVGS\n3- Direct current\n4- Russian '
+
+=== Page 384 ===
+  [supplemented OCR from img indices: 0]
+Q1 [global 618] stem: 'Use of continuous ultrasound at 1.5 Watts/cm2 will result in:\n1- no change in nerve conduction veloc'
+Q2 [global 619] stem: 'What is the type of electrical current that is used during lontophoresis?\n1- Ultrasonic\n2- Direct cu'
+Q3 [global 620] stem: 'The therapist has given a patient an ultraviolet treatment. The patient calls the therapist the\nnext'
+img[0] KEPT page_384_img_0.png
+
+=== Page 385 ===
+Q1 [global 621] stem: 'After exposure to U.V.R patient of come with Erthyrema due to release?\n1- histamine\n2- melanin\n3- br'
+Q2 [global 622] stem: 'After exposure to U.V.R patient of come with pigmentation due to release:\n1- histamine\n2- melanin\n3-'
+Q3 [global 623] stem: 'Pt has pain due to deep muscle strain we use:\n1- Pulsed U/S 1MHZ\n2- Pulsed 3MHZ\n3- Continous U/S 1 M'
+Q4 [global 624] stem: 'What is best for scar tissue:\n1- ultra sound\n2- infrared\n3- shortwave'
+
+=== Page 386 ===
+Q1 [global 625] stem: 'pt has infected lumber wound use:\n1- Ultra Voilet\n2- U/S\n3- TENS\n4- faradic'
+Q2 [global 626] stem: 'A therapist is treating a patient with an infected wound at the lower lumbar area, Which of\nthe foll'
+Q3 [global 627] stem: 'Which of the following can make hypersensitivity?\n1- TENS\n2- Infrared\n3- UV\n4-US'
+Q4 [global 628] stem: 'What is the best electrical modalities chosen to treat infective wound?\n1- low level laser\n2- UV\n3- '
+
+=== Page 387 ===
+Q1 [global 629] stem: 'What happens if you do not wear goggles when looking into ultraviolet radiation?\n1- Loss of vision\n2'
+
+=== Page 388 ===
+Q1 [global 630] stem: 'Patient with groin pain 2 weeks ago used:\n1- cold + interferential\n2- hot + interferential\n3- pulsed'
+
+=== Page 389 ===
+Q1 [global 631] stem: 'few minutes. As the therapist you should:\n1- remove the hot pack immediately and assess for a burn.\n'
+
+=== Page 390 ===
+Q1 [global 632] stem: 'following should the patient avoid?\n1- Hot tubs\n2- Slightly increased intake of fluids\n3- Applicatio'
+
+=== Page 391 ===
+Q1 [global 633] stem: 'SWD is contraindicated in:\n1- Infected wounds\n2- Peripheral vascular disease\n3- Hematoma\nShort wave '
+
+=== Page 392 ===
+Q1 [global 634] stem: 'Cryotherapy contraindication:\n1- peripheral artery disease\n2- acute injury\n3- acute inflammation\nWhi'
+
+=== Page 393 ===
+Q1 [global 635] stem: 'Which of the following precautions during electromagnetic application?\n1- sinusitis\n2- phlebitis\n3- '
+
+=== Page 394 ===
+Q1 [global 636] stem: 'ensure the short-wave diathermy is working?\n1- Neon tube\n2- Water bath\n3- Sound meter\n4- Energy mete'
+
+=== Page 395 ===
+Q1 [global 637] stem: 'The most affective distance between IR and patient is:\n1-30 cm\n2-90 cm\n3-70 cm\nWhich of the followin'
+
+=== Page 396 ===
+Q1 [global 638] stem: 'Coupling media of ultrasonic which of the following of fastest effect:\n1- aquatic gel\n2- glycerol\n3-'
+
+=== Page 397 ===
+Q1 [global 639] stem: 'Which current used for stimulated Denervated Muscle?\n1- TENS\n2- Faradic\n3- Diadynamic\n4- Direct galv'
+
+=== Page 398 ===
+Q1 [global 640] stem: 'the significance of this finding?\n1- It is normal in the quadriceps\n2- It is normal in the triceps b'
+
+=== Page 399 ===
+Q1 [global 641] stem: 'whirlpool at warm. Which of the following Setting in degrees Celsius is appropriate?\n1- 27.50 Celsiu'
+
+=== Page 400 ===
+Q1 [global 642] stem: 'posterior lumbar region of all of the following patients except:\n1- Patient with a history of hemoph'
+
+=== Page 401 ===
+
+=== Page 402 ===
+
+=== Page 403 ===
+Q1 [global 643] stem: 'Which of the following exercises is an anaerobic exercise?\n1- Pull-ups\n2- Push-ups\n3- Weight lifting'
+
+=== Page 404 ===
+Q1 [global 644] stem: 'Which of the following muscles is responsible developing “winging of the scapula”?\n1- Teres major\n2-'
+
+=== Page 405 ===
+Q1 [global 645] stem: 'Which of the following statements is the most appropriate for “cardiac output”?\n1- Volume of blood p'
+
+=== Page 406 ===
+Q1 [global 646] stem: 'include all of the following except increased:\n1- Functional residual capacity\n2- Residual volume\n3-'
+
+=== Page 407 ===
+Q1 [global 647] stem: 'would exceed the typical limits of a phase | program?\n1- heart rate elevated 18 beats per minute abo'
+Q2 [global 648] stem: 'An older person with diagnosis of congestive heart failure (CHF) should recognize the\nsymptoms of ex'
+
+=== Page 408 ===
+Q1 [global 649] stem: 'ance with physical training. This improvement is a result of which of the following ?\n1- Reduction o'
+
+=== Page 409 ===
+Q1 [global 650] stem: 'movements”?\n1- Multiple points on 1 articular surface contact single points on another surface.\n2- M'
+
+=== Page 410 ===
+Q1 [global 651] stem: 'Ikely achieved with which of the following?\n1- Soft collar\n2- Hard collar\n3- Halo orthosis\n4- Milwau'
+
+=== Page 411 ===
+Q1 [global 652] stem: 'phase. Which of the following is the most likely cause of the problem?\n1- Weakness or contracture of'
+Q2 [global 653] stem: 'Which of the following body mass index values is considered overweight?\n1- 18-20\n2- 21-24\n3- 25-29\n4'
+
+=== Page 412 ===
+Q1 [global 654] stem: '“Which of the following is the most appropriate description”?\n1- Disability\n2- Activity limitation\n3'
+
+=== Page 413 ===
+Q1 [global 655] stem: 'contact the patient’s physician if he demonstrates:\n1- confusion and memory loss.\n2- Involuntary mov'
+
+=== Page 414 ===
+Q1 [global 656] stem: 'hip rotation?\n1- Pain\n2- Cosmesis\n3- Better cadence\n| Et Question 2]\nA 27-year-old woman who is a 3-'
+
+=== Page 415 ===
+Q1 [global 657] stem: 'regarding the patient’s allowable exercise level?\n1- no exercise is allowed\n2- light exercise is all'
+
+=== Page 416 ===
+Q1 [global 658] stem: 'inversion ankle sprain. Which ligament does the talar tilt test examine?\n1- anterior tibiofibular\n2-'
+
+=== Page 417 ===
+Q1 [global 659] stem: 'hip. Which of the following is the most common cause of anterior dislocation?\n1- Increased angle of '
+Q2 [global 660] stem: 'A 40-year-old woman with hip dysfunction is referred to the physical therapy. The physical\ntherapist'
+Q3 [global 661] stem: 'A middle-aged diabetic patient enters into the Physiotherapy Clinic with right lower limb\npain. The '
+
+=== Page 418 ===
+Q1 [global 662] stem: 'Which of the following is the most likely cause of the problem?\n1- Osteoarthritis\n2- Torn meniscus\n3'
+
+=== Page 419 ===
+Q1 [global 663] stem: 'in this case:\n1- Stress loading activities with weight bearing in the affected limb\n2- Passive manip'
+
+=== Page 420 ===
+Q1 [global 664] stem: 'imally across 2 joints?\n1- Active inversion\n2- Passive inversion\n3- Active insufficiency\n4- Passive '
+Q2 [global 665] stem: 'A 51-year-old patient with “right hemiplegia” was referred to the Outpatient Physical Ther-\napy Clin'
+
+=== Page 421 ===
+Q1 [global 666] stem: 'children with “Erb’s palsy”?\n1- Internal rotators\n2- Popliteus muscle\n3- Trapezius muscle\n4- Elbow f'
+
+=== Page 422 ===
+Q1 [global 667] stem: 'in a prone position?\n1- 1 month\n2- 3 months\n3- 4 months\n4- 6 months\n| Question 7\nAn appropriate fine'
+
+=== Page 423 ===
+Q1 [global 668] stem: 'Which of the following is an objective of Proprio Neuromuscular Facilitation techniques?\n1- Peripher'
+
+=== Page 424 ===
+Q1 [global 669] stem: 'modality which can be used with precaution is:\n1- premodulated interferential current.\n2- continuous'
+
+=== Page 425 ===
+Q1 [global 670] stem: 'application?\n1- Co-planar\n2- Cross-fire\n3- Mono-polar\n4- Contra-planar\n. Question 10\nWhich medical c'
+Q2 [global 671] stem: 'A 58-year-old woman presented with severe hip pain. She has been taking steroids for her\ndermatomyos'
+
+=== Page 426 ===
+Q1 [global 672] stem: 'A 45-year-old man sustained a gun shot wound to the knee. He developed foot drop and\nloss of sensati'
+
+=== Page 427 ===
+Q1 [global 673] stem: 'the actual injury?\n1- Fracture of proximal phalanx of finger.\n2- Fracture of the metacarpal of the f'
+
+=== Page 428 ===
+Q1 [global 674] stem: 'Which of the following transforms chemical energy into mechanical energy?\n1- Bone\n2- Stomach\n3- Smal'
+
+=== Page 429 ===
+Q1 [global 675] stem: 'In carpal tunnel syndrome the most affected ms is:\n1- flexor degotorum profundus\n2- flexor carpi uln'
+
+=== Page 430 ===
+Q1 [global 676] stem: 'lateral spinothalamic system. Which sensation would be most affected?\n1- barognosis\n2- kinesthesia\n3'
+
+=== Page 431 ===
+Q1 [global 677] stem: 'Which of the following is the most likely diagnosis?\n1- Myotonia\n2- Myopathies\n3- Myasthenia gravis\n'
+
+=== Page 432 ===
+Q1 [global 678] stem: 'rotation is observed in a patient with pathology in which of the following?\n1- Basal ganglia\n2- Moto'
+
+=== Page 433 ===
+Q1 [global 679] stem: 'treatment strategy would be the most appropriate to address diplopia?\n1- provide verbal and non-verb'
+Q2 [global 680] stem: 'A physiotherapist receives a referral for a patient. The referring physician has outlined all\nclinic'
+img[0] KEPT page_433_img_0.jpeg
+
+=== Page 434 ===
+Q1 [global 681] stem: 'clinical findings in the referral, one of which is “agnosia”. What does this term mean?\n1- Absence o'
+Q2 [global 682] stem: 'A 13-year-old female diagnosed with cerebral palsy is referred to physical therapy. The\npatient exhi'
+Q3 [global 683] stem: 'A 30-year-old patient has a fracture-dislocation of the 4th and 5th lumbar vertebrae (L4 and\nL5) as '
+
+=== Page 435 ===
+
+=== Page 436 ===
+
+=== Page 437 ===
+Q1 [global 684] stem: 'What is the body mass index for someone who is overweight?'
+   1. 25 - 30
+Q2 [global 685] stem: '2.30-35'
+   3. 35 - 40
+Q3 [global 686] stem: 'GT Question 2\nGlasgow coma scale, what is the patient’s score?\n1.0\n2.3\n3.5\n4.9\nCc\nA therapist is ord'
+   1. 12/20
+   2. 14/20
+   3. 16/20
+   4. 18/20
+Q4 [global 687] stem: '| Et Question 5\nWhat is the T source of a bone mineral density (BMD) scan as per the World Health Or'
+   1. 1.1 to 2.0
+   2. 1.0 to - 0.
+   3. 2.5 or less
+Q5 [global 688] stem: '4.1.0 to - 2.4\n| Et Question 6\nA 23 - year - old football player suffered a knee injury during a Dur'
+   1. X—ray
+Q6 [global 689] stem: '2.Ultrasound'
+   3. Computed tomography scan
+   4. Magnetic resonance imaging
+
+=== Page 438 ===
+Q1 [global 690] stem: 'which is not correct about oxford scale?'
+   1. 0 no contraction
+   2. flicker contraction
+   3. 4 can make full ROM against resistance
+Q2 [global 691] stem: 'GE _ Question 8 J\nPulmonary resuscitation?'
+   1. 1 cycle of 2 and 20 compression
+   2. 12 breath and 10 compressions
+   3. continue 2 breath and 30 compression
+Q3 [global 692] stem: '| Question 9\nit is considered illegal?'
+   1. Burn of patient after hot pack
+   2. Attitude toward patient and behavior
+Q4 [global 693] stem: ', Question 10\nself-actualization mean\n1.person frustrated because can not gain target\n2.sense of ble'
+   3. person has gain something and proud
+Q5 [global 694] stem: '4.no sense\n, Question 11\nDuring a treatment session in a rehabilitation hospital a patient asks the '
+   1. contact the patient's physician and explain the situation.
+   2. refuse to let the patient see the recor4.
+   3. allow the patient to see the notes.
+   4. get the permission of the physical therapist supervisor before giving the patient the chart.
+Q6 [global 695] stem: "' OT Question 12\nAll of the following are objective measurements used in evaluation except:"
+   1. time used for performance activity
+   2. visual analogue scale
+   3. goniometric ROM
+   4. disability devices
+Q7 [global 696] stem: ', OE Question 13\nWhich of the following should a therapist evaluate first when performing a jo2.site'
+   1. Job description and duties.
+   2. Bathroom accessibility
+   3. Lighting conditions
+   4. Parking conditions.
+
+=== Page 439 ===
+Q1 [global 697] stem: 'A therapist is instructing a physical therapy student in writing a SOAP note. The student\nhas mispla'
+   1. Every 3 months
+   2. Every 6 months
+   3. Every 12 months
+   4. Every 3 years
+Q2 [global 698] stem: ', (Question 16\nA physical therapist is setting up a portable whirlpool unit in the room of a severel'
+   1. Check for a ground fault circuit interruption outlet.
+   2. Check to make sure the water temperature is below 110°
+   3. Make sure the whirlpool agitator is immersed in the water.
+   4. Obtain the appropriate assistance to perform a transfer.
+Q3 [global 699] stem: ', Question 17\nA 37-year-old man fell and struck his left temple area on the corner of a mat table. H'
+   1. Left parietal bone one-inch posterior to the ear.
+   2. Left temporal bone just anterior to the ear.
+   3. Zygomatic arch of the frontal bone
+   4. Zygomatic arch superior to the mastoid process.
+Q4 [global 700] stem: ', Question 18\nA therapist is preparing a poster that will clarify some of the data in an in-service '
+   2. 2,4,6
+   3. 6,2,4
+   4. 6, 4, 2.
+
+=== Page 440 ===
+Q1 [global 701] stem: 'site. Of the following precautions, which is the least necessary?'
+   1. Mask
+   2. Gloves
+   3. Hand washing
+   4. Gown.
+Q2 [global 702] stem: ', (Question 20\nA physical therapist is scheduled to evaluate the shoulder of a patient with hepatiti'
+   1. The therapist must wear a gown
+   2. The therapist must wear a mask
+   3. The therapist must wear gloves.
+   4. None of the above.
+Q3 [global 703] stem: 'T GR Question 21\nPT is assessing a patient’s ability to perform basic activities of daily living. Th'
+   1. Barthel Index
+   2. Katz Index of Activities of Daily Living
+   3. Kenny Self-Care Evaluation
+   4. Functional Status Index
+Q4 [global 704] stem: '. OX Question 22\nA 67-year-old man has some difficulty reaching overhead and grooming his hair. The '
+   1. Personal factors
+   2. Activity limitation
+   3. Physical Impairment
+   4. Participation restriction
+Q5 [global 705] stem: "' OE Question 23\nmain aim of ICF (international classification function)"
+   1. Impairment
+   2. Activity limitation
+   3. Participation
+
+=== Page 441 ===
+Q1 [global 706] stem: 'CIF?'
+   1. activity limitation
+   2. impairment
+   3. disability
+Q2 [global 707] stem: ', OR Question 25\nphysical therapist working with a patient to improve the difficulty to reaching ove'
+   1. participation restriction
+   2. activity limitation
+   3. impairment
+Q3 [global 708] stem: ', OX Question 26\npatient have problems in ROM and muscle weakness is classified as\n1.participation l'
+   1. Personal factor
+   2. Activity limitation
+   3. Participant
+   4. Impairment
+Q4 [global 709] stem: '. OG Question 28\nexercise professional autonomy\n1.Hard work\n2.Patient safety'
+   3. Critical thinking
+   4. All of the above
+Q5 [global 710] stem: ', (Question 29\nA part of the musculoskeletal exam may include measuring the end feeling. Which of th'
+   1. Smoking, physical inactivity, obesity, diet
+Q6 [global 711] stem: '2 .Hypertension, Smoking, diabetes mellitus, diet'
+   3. Physical inactivity, heart disease, obesity, elevated Low — density lipoprotein cholesterol
+Q7 [global 712] stem: '(LDL) cholesterol'
+   4. Hypertension, heart disease, diabetes mellitus, elevated Low — density lipoprotein cholesterol
+Q8 [global 713] stem: '(LDL) cholesterol'
+
+=== Page 442 ===
+Q1 [global 714] stem: 'and the middle and index fingers. Why type of grasp or prehension is the patient using?\n1.Palmar pre'
+   4. 9.1
+Q2 [global 715] stem: '. OE Question 32\nCORF is an abbreviation for which of the following?'
+   1. Certified Owner of a Rehabilitation Facility.
+   2. Certified Outpatient Rehabilitation Facility
+   3. Control Organization for Rehabilitation Facilities.
+   4. Corporation for Organization of Rehabilitation Facilities.
+Q3 [global 716] stem: '. Question 33\nIn an attempt to establish a home exercise program, the therapist gives a patient writ'
+   1. Go over the exercises in a one-on-one review session.
+Q4 [global 717] stem: '2.Give the patient a picture of the exercises.'
+   3. Give a copy of the exercises to a literate family member.
+   4. All of the above.
+Q5 [global 718] stem: '(Question 34\nIn order to determine if an exercise session should be terminated, the patient is asked'
+   1. Very, very light
+   2. Very light
+   3. Somewhat hard
+   4. Hard
+
+=== Page 443 ===
+Q1 [global 719] stem: 'therapist?'
+   1. Phone the doctor and request continued physical therapy.
+   2. Tell the patient to go back to the doctor because he is not making appropriate progress.
+   3. Discharge the patient because he will improve on his own.
+   4. Take the problem to the supervisor of the facility
+Q2 [global 720] stem: ', Question 36\nA local orthopedic doctor, who is a main referral source for an outpatient clinic, ins'
+   1. Call the physician’s nurse and discuss with him or her the new treatment protocol.
+   1. Phone the doctor and request continued physical therapy.
+   2. Tell the patient to go back to the doctor because he is not making appropriate progress.
+   3. Discharge the patient because he will improve on his own.
+   4. Take the problem to the supervisor of the facility
+Q3 [global 721] stem: '. OE Question 37\nA therapist places a pen in front of a patient and asks him to pick it up and hold '
+   1. Call the physician’s nurse and discuss with him or her the new treatment protocol.
+   2. Schedule a face-to-face meeting with the doctor to discuss the correct treatment plan.
+   3. Fax the doctor research supporting use of a combined open- and close4.chain program.
+   4. Have one of the doctor’s colleagues convince him that the new protocol is best
+Q4 [global 722] stem: '. Question 38\nDoctors see on patient door word (terminal illness) what do this mean:'
+   1. disease with elderly people
+   2. with adult people
+   3. irreversible course
+   4. neurologic origin
+Q5 [global 723] stem: '. Question 39\nwhen you sit-up a patient from long sitting after prolonged period of bed rest followi'
+   1. immediately return patient to original long sitting
+   2. call the physician
+   3. rite down this in patient's review
+   4. assure him it’s O.K don’t worry it's normal decrease in Blood Pressure due to a long rest period
+
+=== Page 444 ===
+Q1 [global 724] stem: 'of time between position changes?'
+   1. One hour
+Q2 [global 725] stem: '2.Two hours\n3.Six hours\n4.Eight hours\n, Question 41\nA therapist is treating a 35-year-old man diagno'
+   1. Continue with the current treatment plan and ignore the chiropractor’s treatment.
+   2. Ask the patient what the chiropractor is doing and try the same approach.
+   3. Stop physical therapy at once and consult with the referring physician.
+   4. Contact the chiropractor to coordinate his or her plan of care with the physical therapy plan of care.
+Q3 [global 726] stem: '. OG Question 42\nA patient at an outpatient facility experiences the onset of a grand mal seizure. W'
+   1. Assist patient to a lying position, move away close furniture, loosen tight clothes, and prop the patient’s mouth open.
+   2. Assist patient to a lying position, move away close furniture, and loosen tight clothes
+   3. Assist the patient to a seated position, move away close furniture, and loosen tight clothes.
+   4. Assist the patient to a seated position, move away close furniture, loosen tight clothing, and prop the patient’s mouth open.
+Q4 [global 727] stem: '. Question 43\nFollowing a cerebrovascular accident involving the dominant right hemisphere, a patien'
+Q5 [global 728] stem: 'The therapist is treating a patient who recently received a below- knee amputation. The ther-\napist '
+   1. Denial
+   2. Acceptance
+   3. Depression
+   4. Anger
+
+=== Page 445 ===
+Q1 [global 729] stem: 'In yellow and red flags which of the following not considered as red flag in these situations:'
+   1. history of carcinoma
+   2. psychosocial factor
+   3. bowel problems
+   4. excess weight loss
+Q2 [global 730] stem: '. (Question 46\nA 27-year-old man with a diagnosis of incomplete spinal cord injury at the L4 level i'
+   1. Hip-knee-ankle-foot orthosis (HKAFO) with forearm crutches — household ambulator.
+   2. Knee-ankle-foot orthosis (KAFO) with forearm crutches — household ambulator.
+   3. KAFO with forearm crutches — functional ambulator
+   4. HKAFO with forearm crutches — functional ambulator
+Q3 [global 731] stem: ', (Question 47\nA 60-year-old man sustained a fracture of the hip joint following a fall. He was give'
+   2. 30
+   3. 45
+   4. 60
+
+=== Page 446 ===
+Q1 [global 732] stem: 'Which of the following is the primary aim of the physical therapy profession?'
+   1. Primary
+   2. Tertiary
+   3. Secondary
+   4. Transitional
+Q2 [global 733] stem: ', Question 51\nWhich of the following is the most appropriate term to describe prevention with early '
+   1. Primary
+   2. Tertiary
+   3. Primitive
+   4. Secondary
+Q3 [global 734] stem: "' (Question 52\nA 37-year-old man referred to the Physical Therapy Clinic for back pain. The physical"
+   1. Predictable course of the condition
+   2. Determining the nature of the condition
+   3. Tests and measures findings related to the physical exam
+   4. Tests and measures findings related to medical history
+Q4 [global 735] stem: 'A 25-year-old man referred to the Physical Therapy Clinic for hip pain. The physical therapist\nneeds'
+   1. Critically analyze the pertinent evidence
+   2. Integrate the appraised evidence into practice
+   3. Identify the problem and convert it into a specific question
+   4. Search the literature and collect clinically relevant scientific studies
+Q5 [global 736] stem: "' Question 54\nWhich of the following is the main moral duty of a physical therapist?\n1- Respect the "
+   1. Cross-sectional
+   2. Prospective cohort
+   3. Quasi-experimental
+   4. Randomized control trial
+
+=== Page 447 ===
+Q1 [global 737] stem: 'ultimate goal of therapeutic exercises in physical therapy?'
+   1. Restore function
+   2. Improve balance
+   3. increase strength and ROM
+   4. Improve cardiopulmonary fitness
+Q2 [global 738] stem: ', Question 57\nPatient has depressing; Which cause him to have the following:'
+   1. behavior problems
+   2. emotional problems
+   3. memory problems
+   4. delusion.
+Q3 [global 739] stem: "' Question 58\nPerform a blind finger sweep of the throat Which of the following circumstances would "
+   1. Exercising on a treadmill.
+   2. Pregnancy
+   3. Normal ovulation
+   4. Reaching age of 65 years or older
+Q4 [global 740] stem: ', (Question 59\nA physical therapist in an outpatient clinic is called into a room to assist an infan'
+   1. Give five back blows
+   2. Look into the throat for a foreign body
+   3. Have someone call 911
+Q5 [global 741] stem: ', Question 60\nA physician is preparing a patient for an upcoming procedure. The physician explains t'
+
+=== Page 448 ===
+Q1 [global 742] stem: 'on the Rancho Los Amigos Cognitive Functioning Scale is most appropriate?\n1.1\n2.1II\n3.1V\n4NVI\n. Ques'
+   1. First class
+   2. Second class
+   3. Third class
+   4. Fourth class
+Q2 [global 743] stem: ', (Question 65\nWhich of the following is categorized as illegal or malpractice?'
+   1. Burn caused by prolonged use of hot pack
+   2. Prolong and detailed physical examination
+   3. Muscle soreness after high-intensity exercise
+   4. Strict attitudes and behavior with the patient
+Q3 [global 744] stem: ', (Question 66\nWhich plan of care is typically recommended during the chronic stage of injury?'
+   1. Reduce joint swelling
+   2. Progress functional activities
+   3. Control pain, edema and spasm
+   4. Promote healing of injured tissues
+Q4 [global 745] stem: ', Question 67\nWhen measuring ROM of the wrist put the axis on:'
+   1. trapezoid
+   2. trapezium
+   3. lunate
+   4. capitate.
+Q5 [global 746] stem: ', Question 68\nThe type exercise where distal part is fixed and proximal part moving over distal part'
+   1. open pack position
+   2. closed pack position
+   3. circuit exercise
+   4. isometric exercise.
+
+=== Page 449 ===
+Q1 [global 747] stem: ''
+   1. ext. knee
+   2. flex knee
+   3. ext knee with lat tibial rotation
+Q2 [global 748] stem: '. Question 70\nWhat is the closed packed position of the shoulder?'
+   1. Internal rotation and abduction
+   2. External rotation and abduction
+   3. Internal rotation and adduction
+   4. External rotation and adduction
+Q3 [global 749] stem: ', Question 71\nA 28-year-old man presents to the clinic a pain in his right hip before one month ago.'
+   1. Lateral
+   2. Central
+   3. Anterior
+   4. Posterior
+Q4 [global 750] stem: 'OX Question 72\nA 44-year-old woman presents to the clinic with left ankle pain before a week ago. Th'
+   1. Lateral
+   2. Central
+   3. Anterior
+   4. Posterior
+Q5 [global 751] stem: 'Which of the following is the most likely cause of mechanical joint instability?'
+   1. Mal-alignment
+   2. Muscle weakness
+   3. Ligamentous injury
+   4. Loss of proprioception
+Q6 [global 752] stem: "' (Question 74\nA 66-year-old patient complains of sensory changes due to a narrowed spinal canal as "
+   1. O-degree Flexion
+   2. 15-degree Flexion
+   3. 0-degree extension
+   4. 15-degree extension
+
+=== Page 450 ===
+Q1 [global 753] stem: 'prevent future falls?'
+   1. Electronystagmography
+   2. Snellen chart assessment
+   3. Frenkel coordination exercises
+   4. Hip girdle strengthening exercises
+Q2 [global 754] stem: "' Question 76\nMuscle strength depend on all except:"
+   1. size of muscle
+   2. lever arm
+   3. number of muscle spindle
+   4. type of ex
+Q3 [global 755] stem: '. Question 77\nWhich of the following is an example of first class lever?'
+   1. Soleus
+   2. Trapezius
+   3. Hamstring
+   4. Brachioradialis
+Q4 [global 756] stem: '. Question 78\nA therapist is evaluating a wound in a patient with the following signs: the right foo'
+   1. Anterior inferior tibiofibular ligament
+   2. Posterior inferior tibiofibular ligament
+   3. Interosseous membrane
+   4. None of the above.
+
+=== Page 451 ===
+Q1 [global 757] stem: 'affecting the:\n1.small joints of the hands and feet\n2.large joints of the body; especially the knee\n'
+
+=== Page 452 ===
+
+=== Page 453 ===
+
+=== Page 454 ===
+Q1 [global 758] stem: 'Below knee amputation what do you see :\na- there is knee flexion\nb- there is no knee flexion\nc- ther'
+img[1] KEPT page_454_img_1.jpeg
+img[2] KEPT page_454_img_2.jpeg
+img[3] KEPT page_454_img_3.jpeg
+img[4] KEPT page_454_img_4.jpeg
+img[5] KEPT page_454_img_5.jpeg
+img[6] KEPT page_454_img_6.png
+
+=== Page 455 ===
+Q1 [global 759] stem: 'This angle is:\na- Q angle\nb- C angle.\n| Tt Question 9 J\npt has median Nerve compression assist him b'
+img[0] KEPT page_455_img_0.jpeg
+img[1] KEPT page_455_img_1.jpeg
+img[2] KEPT page_455_img_2.jpeg
+img[3] KEPT page_455_img_3.jpeg
+img[4] KEPT page_455_img_4.jpeg
+img[5] KEPT page_455_img_5.jpeg
+
+=== Page 456 ===
+Q1 [global 760] stem: 'The most muscle affected by this stretching shown in the figure is:\na- lateral rotator of the hip or'
+Q2 [global 761] stem: 'Dermatome chosen below is:\na- L3- L4\nb- L4\nc- L4-L5\nd-L5\n, Question 17\nPatient is suffering from pai'
+img[0] KEPT page_456_img_0.jpeg
+img[1] KEPT page_456_img_1.jpeg
+img[2] KEPT page_456_img_2.png
+img[3] KEPT page_456_img_3.jpeg
+img[4] KEPT page_456_img_4.jpeg
+img[5] KEPT page_456_img_5.jpeg
+
+=== Page 457 ===
+  [supplemented OCR from img indices: 0]
+Q1 [global 762] stem: 'What is the action of this muscle shape?\na- hip adduction Gluteus Maximus\nb- hip extension\nc- back e'
+img[0] KEPT page_457_img_0.jpeg
+img[1] KEPT page_457_img_1.jpeg
+img[2] KEPT page_457_img_2.jpeg
+img[3] KEPT page_457_img_3.jpeg
+img[4] KEPT page_457_img_4.png
+img[5] KEPT page_457_img_5.png

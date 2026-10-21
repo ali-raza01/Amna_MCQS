@@ -1,0 +1,90 @@
+SECTION VALIDATION REPORT
+==========================================================================
+Extracted pages: 85 – 158
+
+[·] 1.A Anatomy
+     Pages    : 16–50
+     Expected : 116
+     Found    : 0
+     (outside extracted page range)
+
+[!] 1.B Biomechanics
+     Pages    : 51–85
+     Expected : 100
+     Found    : 0
+     ⚠ NO QUESTIONS EXTRACTED FROM THIS RANGE
+
+[!] 1.C Orthopedic
+     Pages    : 86–158
+     Expected : 277
+     Found    : 0
+     ⚠ NO QUESTIONS EXTRACTED FROM THIS RANGE
+
+[·] 1.D Sports Medicine
+     Pages    : 159–180
+     Expected : 64
+     Found    : 0
+     (outside extracted page range)
+
+[·] 2 Neuromuscular System
+     Pages    : 181–239
+     Expected : 248
+     Found    : 0
+     (outside extracted page range)
+
+[·] 3 Cardiovascular and Pulmonary Systems
+     Pages    : 240–297
+     Expected : 189
+     Found    : 0
+     (outside extracted page range)
+
+[·] 4.A Paediatric
+     Pages    : 298–320
+     Expected : 85
+     Found    : 0
+     (outside extracted page range)
+
+[·] 4.B Endocrine
+     Pages    : 321–335
+     Expected : 41
+     Found    : 0
+     (outside extracted page range)
+
+[·] 4.C Burn
+     Pages    : 336–340
+     Expected : 16
+     Found    : 0
+     (outside extracted page range)
+
+[·] 5.A Therapeutic Exercises
+     Pages    : 341–354
+     Expected : 34
+     Found    : 0
+     (outside extracted page range)
+
+[·] 5.B Electro & Hydro therapy
+     Pages    : 355–401
+     Expected : 149
+     Found    : 0
+     (outside extracted page range)
+
+[·] 6.A Quiz Bank
+     Pages    : 402–435
+     Expected : 34
+     Found    : 0
+     (outside extracted page range)
+
+[·] 6.B Knowledge
+     Pages    : 436–452
+     Expected : 81
+     Found    : 0
+     (outside extracted page range)
+
+[·] 6.C Figures
+     Pages    : 453–457
+     Expected : 25
+     Found    : 0
+     (outside extracted page range)
+
+==========================================================================
+TOTAL  : 0 / 377  (0.0%)
